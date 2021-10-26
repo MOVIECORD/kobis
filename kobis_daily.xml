@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 14:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 15:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                310,311,710원
-	                                <span class="cumu">(누적: 16,791,599,700원)</span>
+	                                278,872,860원
+	                                <span class="cumu">(누적: 17,070,472,560원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                32,399명
-	                                <span class="cumu">(누적:1,681,709명)</span>
+	                                29,105명
+	                                <span class="cumu">(누적:1,710,814명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_7f0692add69b4b328c23bc88839bb63d.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                321,449,860원
-	                                <span class="cumu">(누적: 4,408,006,460원)</span>
+	                                297,623,570원
+	                                <span class="cumu">(누적: 4,705,630,030원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                29,896명
-	                                <span class="cumu">(누적:413,062명)</span>
+	                                27,756명
+	                                <span class="cumu">(누적:440,818명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
@@ -103,8 +103,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,18 +117,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                28,710,880원
-	                                <span class="cumu">(누적: 13,701,031,020원)</span>
+	                                31,770,150원
+	                                <span class="cumu">(누적: 13,732,801,170원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,265명
-	                                <span class="cumu">(누적:1,389,102명)</span>
+	                                3,691명
+	                                <span class="cumu">(누적:1,392,793명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/08/thumb_x110/thn_698ecc182e614c01887debb0485a12a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 듀얼: 최후의 결투
+								
+									(The Last Duel)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">라스트 듀얼: 최후의 결투
+								<span class="en ellip">
+									(The Last Duel)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                32,128,350원
+	                                <span class="cumu">(누적: 384,176,080원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                3,532명
+	                                <span class="cumu">(누적:39,862명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_ad69ab9488f84d1eb373a40a07270aeb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[007 노 타임 투 다이
@@ -138,7 +179,7 @@
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
@@ -158,59 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                30,663,980원
-	                                <span class="cumu">(누적: 11,743,088,370원)</span>
+	                                30,886,020원
+	                                <span class="cumu">(누적: 11,773,974,390원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,210명
-	                                <span class="cumu">(누적:1,200,431명)</span>
+	                                3,341명
+	                                <span class="cumu">(누적:1,203,772명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_95f7b73532b342dcbe4018a869b0bed6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 듀얼: 최후의 결투
-								
-									(The Last Duel)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">라스트 듀얼: 최후의 결투
-								<span class="en ellip">
-									(The Last Duel)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                28,744,050원
-	                                <span class="cumu">(누적: 352,047,730원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                3,141명
-	                                <span class="cumu">(누적:36,330명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_ad69ab9488f84d1eb373a40a07270aeb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
