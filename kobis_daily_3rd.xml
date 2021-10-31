@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>KOBIS ─ 일별 박스오피스 ─ 1위</title>
+        <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Sun, 31 Oct 2021 17:53:02 GMT</lastBuildDate>
@@ -10,16 +10,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                94,425명
-	                                (누적:762,441명)]]></title>
+	                                26,508명
+	                                (누적:84,610명)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
-            <pubDate>Sun, 31 Oct 2021 17:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[듄
+            <pubDate>Sun, 31 Oct 2021 17:53:02 GMT</pubDate>
+            <content:encoded><![CDATA[고장난 론
 								<span class="en ellip">
-									(DUNE)	                        	
+									(Ron’s Gone Wrong)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_021690c26fbd40b0a9cffe518f78af98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
