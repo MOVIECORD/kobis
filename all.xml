@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 17:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 17:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -621,6 +621,20 @@
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_95f7b73532b342dcbe4018a869b0bed6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                94,425명
+	                                (누적:762,441명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[듄
+								<span class="en ellip">
+									(DUNE)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
