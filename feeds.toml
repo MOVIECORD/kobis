@@ -37,3 +37,25 @@ linkSelector = "a"
 contentSelector = "strong.tit.ellip"
 imageSelector = "span.thumb.boxofimg img"
 waitUntil = "networkidle"
+
+[kobis_daily_2nd]
+title = "KOBIS ─ 일별 박스오피스 ─ 2위"
+url = "https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do"
+entrySelector = "div.wrap_list > ul.list_mvie > li:nth-child(2)"
+titleSelector = "dl.info_audience"
+linkSelector = "a"
+contentSelector = "strong.tit.ellip"
+imageSelector = "span.thumb.boxofimg img"
+waitUntil = "networkidle"
+
+[kobis_daily_3rd]
+title = "KOBIS ─ 일별 박스오피스 ─ 3위"
+url = "https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do"
+entrySelector = "div.wrap_list > ul.list_mvie > li:nth-child(3)"
+titleSelector = "dl.info_audience"
+linkSelector = "a"
+contentSelector = "strong.tit.ellip"
+imageSelector = "span.thumb.boxofimg img"
+waitUntil = "networkidle"
+
+
