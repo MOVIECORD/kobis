@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 14:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 15:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,821,527,520원
-	                                <span class="cumu">(누적: 4,871,399,140원)</span>
+	                                2,437,995,140원
+	                                <span class="cumu">(누적: 7,309,394,280원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                177,970명
-	                                <span class="cumu">(누적:475,833명)</span>
+	                                225,901명
+	                                <span class="cumu">(누적:701,734명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_19411713ca9e43c9adb29d0f1199c108.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                187,508,880원
-	                                <span class="cumu">(누적: 9,279,171,460원)</span>
+	                                297,821,560원
+	                                <span class="cumu">(누적: 9,576,993,020원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,041명
-	                                <span class="cumu">(누적:873,203명)</span>
+	                                26,639명
+	                                <span class="cumu">(누적:899,842명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
@@ -117,60 +117,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                79,817,690원
-	                                <span class="cumu">(누적: 20,157,835,670원)</span>
+	                                112,589,930원
+	                                <span class="cumu">(누적: 20,270,425,600원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,775명
-	                                <span class="cumu">(누적:2,030,392명)</span>
+	                                10,456명
+	                                <span class="cumu">(누적:2,040,848명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_7f0692add69b4b328c23bc88839bb63d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세버그
+            <title><![CDATA[고장난 론
 								
-									(Seberg)]]></title>
+									(Ron’s Gone Wrong)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">4</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">세버그
+	                        <strong class="tit ellip">고장난 론
 								<span class="en ellip">
-									(Seberg)	                        	
+									(Ron’s Gone Wrong)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                25,010,670원
-	                                <span class="cumu">(누적: 26,630,670원)</span>
+	                                29,595,750원
+	                                <span class="cumu">(누적: 939,164,340원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,723명
-	                                <span class="cumu">(누적:2,903명)</span>
+	                                3,263명
+	                                <span class="cumu">(누적:104,436명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_bd163c8d981742a298fffcd0820acc78.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_021690c26fbd40b0a9cffe518f78af98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고장난 론
+            <title><![CDATA[세버그
 								
-									(Ron’s Gone Wrong)]]></title>
+									(Seberg)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -187,26 +191,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">고장난 론
+	                        <strong class="tit ellip">세버그
 								<span class="en ellip">
-									(Ron’s Gone Wrong)	                        	
+									(Seberg)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                22,500,270원
-	                                <span class="cumu">(누적: 909,568,590원)</span>
+	                                13,132,510원
+	                                <span class="cumu">(누적: 39,763,180원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,568명
-	                                <span class="cumu">(누적:101,173명)</span>
+	                                1,279명
+	                                <span class="cumu">(누적:4,182명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_021690c26fbd40b0a9cffe518f78af98.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_bd163c8d981742a298fffcd0820acc78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
