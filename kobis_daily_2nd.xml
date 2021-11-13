@@ -4,22 +4,22 @@
         <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 14:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 15:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                27,401명
-	                                (누적:87,132명)]]></title>
+	                                52,806명
+	                                (누적:1,152,386명)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 31 Oct 2021 17:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[강릉
+            <content:encoded><![CDATA[듄
 								<span class="en ellip">
-									(Tomb of the River)	                        	
+									(DUNE)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_7023a88531d04257ae9599721f30db92.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
