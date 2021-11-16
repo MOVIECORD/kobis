@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 14:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 15:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                441,939,850원
-	                                <span class="cumu">(누적: 26,314,750,520원)</span>
+	                                378,711,240원
+	                                <span class="cumu">(누적: 26,693,461,760원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                43,403명
-	                                <span class="cumu">(누적:2,509,267명)</span>
+	                                37,257명
+	                                <span class="cumu">(누적:2,546,524명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_19411713ca9e43c9adb29d0f1199c108.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                180,627,360원
-	                                <span class="cumu">(누적: 2,120,340,610원)</span>
+	                                167,120,770원
+	                                <span class="cumu">(누적: 2,287,461,380원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                17,980명
-	                                <span class="cumu">(누적:203,339명)</span>
+	                                16,783명
+	                                <span class="cumu">(누적:220,122명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_7023a88531d04257ae9599721f30db92.jpg" length="0" type="image/jpg"/>
@@ -117,21 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                147,537,190원
-	                                <span class="cumu">(누적: 12,997,046,160원)</span>
+	                                140,281,870원
+	                                <span class="cumu">(누적: 13,137,328,030원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,047명
-	                                <span class="cumu">(누적:1,212,461명)</span>
+	                                13,419명
+	                                <span class="cumu">(누적:1,225,880명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장르만 로맨스 (KOBIS ─ 일별 박스오피스)]]></title>
+            <title><![CDATA[아담스 패밀리 2
+								
+									(The Addams Family 2) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -142,48 +144,7 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>5</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">장르만 로맨스
-								<span class="en ellip">
-									&nbsp;	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                25,565,700원
-	                                <span class="cumu">(누적: 124,130,310원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                4,008명
-	                                <span class="cumu">(누적:14,118명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_2e351df7efef4a1b98b8fe725a4c8b71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아담스 패밀리 2
-								
-									(The Addams Family 2) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
@@ -197,18 +158,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                18,556,260원
-	                                <span class="cumu">(누적: 690,990,980원)</span>
+	                                23,609,600원
+	                                <span class="cumu">(누적: 714,600,580원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,178명
-	                                <span class="cumu">(누적:75,889명)</span>
+	                                2,913명
+	                                <span class="cumu">(누적:78,802명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_2ceb2a20aa464bf6b070681048445fae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 남매의 연
+								
+									(Demon Slayer: Kimetsu no Yaiba SIBLING’S BOND) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">귀멸의 칼날: 남매의 연
+								<span class="en ellip">
+									(Demon Slayer: Kimetsu no Yaiba SIBLING’S BOND)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                19,471,340원
+	                                <span class="cumu">(누적: 523,355,230원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                1,924명
+	                                <span class="cumu">(누적:52,436명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_1253ed538dfc49169fab0c777b419596.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이터널스
@@ -611,8 +613,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                43,403명
-	                                (누적:2,509,267명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                37,257명
+	                                (누적:2,546,524명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -625,8 +627,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                17,980명
-	                                (누적:203,339명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                16,781명
+	                                (누적:220,120명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -639,8 +641,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                14,047명
-	                                (누적:1,212,461명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                13,419명
+	                                (누적:1,225,880명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
