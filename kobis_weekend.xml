@@ -4,13 +4,11 @@
         <title>KOBIS ─ 주말 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[이터널스
-	                        	
-									(Eternals)]]></title>
+            <title><![CDATA[장르만 로맨스]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 09 Nov 2021 00:35:45 GMT</pubDate>
@@ -21,8 +19,49 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>8</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">장르만 로맨스
+	                        	<span class="en ellip">
+									&nbsp;	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                2,478,322,150원
+	                                <span class="cumu">(누적: 3,407,588,120원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                233,057명
+	                                <span class="cumu">(누적:331,629명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_2e351df7efef4a1b98b8fe725a4c8b71.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이터널스
+	                        	
+									(Eternals)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 09 Nov 2021 00:35:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -35,55 +74,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                5,354,048,330원
-	                                <span class="cumu">(누적: 25,872,782,670원)</span>
+	                                2,303,839,410원
+	                                <span class="cumu">(누적: 29,753,984,170원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                501,265명
-	                                <span class="cumu">(누적:2,465,862명)</span>
+	                                220,506명
+	                                <span class="cumu">(누적:2,846,422명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_19411713ca9e43c9adb29d0f1199c108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강릉
-	                        	
-									(Tomb of the River)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 09 Nov 2021 00:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">강릉
-	                        	<span class="en ellip">
-									(Tomb of the River)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                1,345,736,770원
-	                                <span class="cumu">(누적: 1,939,683,250원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                125,628명
-	                                <span class="cumu">(누적:185,355명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_7023a88531d04257ae9599721f30db92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듄
@@ -97,10 +99,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -113,23 +115,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,396,787,930원
-	                                <span class="cumu">(누적: 12,849,508,970원)</span>
+	                                1,049,147,530원
+	                                <span class="cumu">(누적: 14,485,709,580원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                124,980명
-	                                <span class="cumu">(누적:1,198,414명)</span>
+	                                91,333명
+	                                <span class="cumu">(누적:1,344,602명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아담스 패밀리 2
+            <title><![CDATA[강릉
 	                        	
-									(The Addams Family 2)]]></title>
+									(Tomb of the River)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 09 Nov 2021 00:35:45 GMT</pubDate>
@@ -138,39 +140,39 @@
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>31</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">아담스 패밀리 2
+	                        <strong class="tit ellip">강릉
 	                        	<span class="en ellip">
-									(The Addams Family 2)	                        	
+									(Tomb of the River)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                559,286,210원
-	                                <span class="cumu">(누적: 672,434,720원)</span>
+	                                448,964,670원
+	                                <span class="cumu">(누적: 2,922,048,220원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                60,607명
-	                                <span class="cumu">(누적:73,711명)</span>
+	                                42,144명
+	                                <span class="cumu">(누적:280,925명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_2ceb2a20aa464bf6b070681048445fae.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_7023a88531d04257ae9599721f30db92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀멸의 칼날: 남매의 연
+            <title><![CDATA[디어 에반 핸슨
 	                        	
-									(Demon Slayer: Kimetsu no Yaiba SIBLING’S BOND)]]></title>
+									(Dear Evan Hansen)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 09 Nov 2021 00:35:45 GMT</pubDate>
@@ -183,26 +185,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">귀멸의 칼날: 남매의 연
+	                        <strong class="tit ellip">디어 에반 핸슨
 	                        	<span class="en ellip">
-									(Demon Slayer: Kimetsu no Yaiba SIBLING’S BOND)	                        	
+									(Dear Evan Hansen)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                297,101,170원
-	                                <span class="cumu">(누적: 482,064,790원)</span>
+	                                437,614,050원
+	                                <span class="cumu">(누적: 745,357,980원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                29,172명
-	                                <span class="cumu">(누적:48,341명)</span>
+	                                41,024명
+	                                <span class="cumu">(누적:73,171명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_1253ed538dfc49169fab0c777b419596.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/10/thumb_x110/thn_633a24295bb54a4b9bcecc8ffe39cc64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
