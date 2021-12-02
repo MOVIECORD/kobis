@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 14:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 15:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                266,775,500원
-	                                <span class="cumu">(누적: 4,520,799,200원)</span>
+	                                242,054,350원
+	                                <span class="cumu">(누적: 4,762,853,550원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                28,168명
-	                                <span class="cumu">(누적:468,235명)</span>
+	                                25,594명
+	                                <span class="cumu">(누적:493,829명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_0989aa850e16400db008c57b9766bf7f.jpg" length="0" type="image/jpg"/>
@@ -76,60 +76,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                202,403,520원
-	                                <span class="cumu">(누적: 2,773,849,510원)</span>
+	                                183,488,410원
+	                                <span class="cumu">(누적: 2,957,337,920원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                20,378명
-	                                <span class="cumu">(누적:275,774명)</span>
+	                                18,659명
+	                                <span class="cumu">(누적:294,433명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_c931243ed89e421190cc72874f2c9d9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고스트버스터즈 라이즈
+            <title><![CDATA[엔칸토: 마법의 세계
 								
-									(Ghostbusters: Afterlife)]]></title>
+									(Encanto)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 09 Nov 2021 00:35:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">3</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">고스트버스터즈 라이즈
+	                        <strong class="tit ellip">엔칸토: 마법의 세계
 								<span class="en ellip">
-									(Ghostbusters: Afterlife)	                        	
+									(Encanto)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                185,733,280원
-	                                <span class="cumu">(누적: 190,848,280원)</span>
+	                                120,068,180원
+	                                <span class="cumu">(누적: 3,127,703,440원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                20,064명
-	                                <span class="cumu">(누적:20,609명)</span>
+	                                13,482명
+	                                <span class="cumu">(누적:330,101명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_3589d83ca9e244269070ca2755cda058.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_2e9b53f6d19844f5855b270fb72eaa5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔칸토: 마법의 세계
+            <title><![CDATA[고스트버스터즈 라이즈
 								
-									(Encanto)]]></title>
+									(Ghostbusters: Afterlife)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 09 Nov 2021 00:35:25 GMT</pubDate>
@@ -146,31 +150,31 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">엔칸토: 마법의 세계
+	                        <strong class="tit ellip">고스트버스터즈 라이즈
 								<span class="en ellip">
-									(Encanto)	                        	
+									(Ghostbusters: Afterlife)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                130,017,760원
-	                                <span class="cumu">(누적: 3,007,635,260원)</span>
+	                                108,577,590원
+	                                <span class="cumu">(누적: 299,425,870원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,353명
-	                                <span class="cumu">(누적:316,619명)</span>
+	                                11,893명
+	                                <span class="cumu">(누적:32,502명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_2e9b53f6d19844f5855b270fb72eaa5d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_3589d83ca9e244269070ca2755cda058.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라스트 나잇 인 소호
+            <title><![CDATA[듄
 								
-									(Last Night in Soho)]]></title>
+									(DUNE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 09 Nov 2021 00:35:25 GMT</pubDate>
@@ -181,32 +185,32 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>34</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">라스트 나잇 인 소호
+	                        <strong class="tit ellip">듄
 								<span class="en ellip">
-									(Last Night in Soho)	                        	
+									(DUNE)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                88,739,180원
-	                                <span class="cumu">(누적: 92,015,180원)</span>
+	                                110,125,150원
+	                                <span class="cumu">(누적: 15,664,696,010원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                10,292명
-	                                <span class="cumu">(누적:10,656명)</span>
+	                                8,022명
+	                                <span class="cumu">(누적:1,451,362명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_f55300c4b46b4dadb340a8ce5a08f0d7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
