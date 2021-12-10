@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[유체이탈자
+            <title><![CDATA[연애 빠진 로맨스
 								
-									(Spiritwalker) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Nothing Serious) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -21,49 +21,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">유체이탈자
-								<span class="en ellip">
-									(Spiritwalker)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                131,417,520원
-	                                <span class="cumu">(누적: 6,706,885,070원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                15,957명
-	                                <span class="cumu">(누적:691,221명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_0989aa850e16400db008c57b9766bf7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 빠진 로맨스
-								
-									(Nothing Serious) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,18 +35,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                136,011,890원
-	                                <span class="cumu">(누적: 4,601,472,830원)</span>
+	                                177,417,660원
+	                                <span class="cumu">(누적: 4,778,890,490원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                15,138명
-	                                <span class="cumu">(누적:453,833명)</span>
+	                                18,372명
+	                                <span class="cumu">(누적:472,205명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_c931243ed89e421190cc72874f2c9d9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유체이탈자
+								
+									(Spiritwalker) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">유체이탈자
+								<span class="en ellip">
+									(Spiritwalker)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                172,233,790원
+	                                <span class="cumu">(누적: 6,879,118,860원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                17,741명
+	                                <span class="cumu">(누적:708,962명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_0989aa850e16400db008c57b9766bf7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔칸토: 마법의 세계
@@ -103,8 +103,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                75,681,750원
-	                                <span class="cumu">(누적: 4,502,532,970원)</span>
+	                                104,253,490원
+	                                <span class="cumu">(누적: 4,606,786,460원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,366명
-	                                <span class="cumu">(누적:473,328명)</span>
+	                                10,881명
+	                                <span class="cumu">(누적:484,209명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_2e9b53f6d19844f5855b270fb72eaa5d.jpg" length="0" type="image/jpg"/>
@@ -142,10 +142,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,55 +158,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                71,459,020원
-	                                <span class="cumu">(누적: 181,236,360원)</span>
+	                                80,570,080원
+	                                <span class="cumu">(누적: 261,806,440원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,767명
-	                                <span class="cumu">(누적:20,204명)</span>
+	                                8,027명
+	                                <span class="cumu">(누적:28,231명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_871104f6986e4a9a955457267eea2cc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아
+            <title><![CDATA[듄
 								
-									(Sword Art Online the Movie -Progressive- Aria of a Starless Night) (KOBIS ─ 일별 박스오피스)]]></title>
+									(DUNE) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아
+	                        <strong class="tit ellip">듄
 								<span class="en ellip">
-									(Sword Art Online the Movie -Progressive- Aria of a Starless Night)	                        	
+									(DUNE)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                59,607,000원
-	                                <span class="cumu">(누적: 59,607,000원)</span>
+	                                66,788,080원
+	                                <span class="cumu">(누적: 16,525,111,300원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                5,749명
-	                                <span class="cumu">(누적:5,749명)</span>
+	                                5,608명
+	                                <span class="cumu">(누적:1,518,126명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_2804c628abc243f18c9afbf32f1f4f4b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/09/thumb_x110/thn_4ca094f969b64a4698ecb2ffd72b5fd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유체이탈자
@@ -621,22 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                15,957명
-	                                (누적:691,221명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[유체이탈자
-								<span class="en ellip">
-									(Spiritwalker)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_0989aa850e16400db008c57b9766bf7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                15,138명
-	                                (누적:453,833명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                18,372명
+	                                (누적:472,205명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -649,8 +639,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                8,366명
-	                                (누적:473,328명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                17,741명
+	                                (누적:708,962명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[유체이탈자
+								<span class="en ellip">
+									(Spiritwalker)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_0989aa850e16400db008c57b9766bf7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                10,881명
+	                                (누적:484,209명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
