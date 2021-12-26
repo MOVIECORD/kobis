@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주간 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 14:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 15:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                27,984,905,720원
-	                                <span class="cumu">(누적: 27,984,905,720원)</span>
+	                                20,699,874,660원
+	                                <span class="cumu">(누적: 48,684,780,380원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,769,950명
-	                                <span class="cumu">(누적:2,769,950명)</span>
+	                                2,055,886명
+	                                <span class="cumu">(누적:4,825,836명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_51ede294d96647a7a99fcdf22943391c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연애 빠진 로맨스
+            <title><![CDATA[킹스맨: 퍼스트 에이전트
 	                        	
-									(Nothing Serious)]]></title>
+									(The King's Man)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 02 Dec 2021 18:13:54 GMT</pubDate>
@@ -58,32 +62,69 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>63</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">연애 빠진 로맨스
+	                        <strong class="tit ellip">킹스맨: 퍼스트 에이전트
 	                        	<span class="en ellip">
-									(Nothing Serious)	                        	
+									(The King's Man)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                461,979,250원
-	                                <span class="cumu">(누적: 5,854,172,750원)</span>
+	                                4,129,181,510원
+	                                <span class="cumu">(누적: 4,131,593,510원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                45,732명
-	                                <span class="cumu">(누적:575,199명)</span>
+	                                405,127명
+	                                <span class="cumu">(누적:405,395명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_c931243ed89e421190cc72874f2c9d9f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_c749cf4272e742698a3f1404ad147e3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매트릭스: 리저렉션
+	                        	
+									(The Matrix Resurrections)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">매트릭스: 리저렉션
+	                        	<span class="en ellip">
+									(The Matrix Resurrections)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,599,053,990원
+	                                <span class="cumu">(누적: 1,599,053,990원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                157,023명
+	                                <span class="cumu">(누적:157,023명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_e6207e91e780407a918ddecf211bef0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔칸토: 마법의 세계
@@ -93,14 +134,14 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 02 Dec 2021 18:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -113,28 +154,28 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                392,452,220원
-	                                <span class="cumu">(누적: 5,532,650,190원)</span>
+	                                264,087,410원
+	                                <span class="cumu">(누적: 5,796,737,600원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                42,574명
-	                                <span class="cumu">(누적:580,347명)</span>
+	                                29,442명
+	                                <span class="cumu">(누적:609,789명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_2e9b53f6d19844f5855b270fb72eaa5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유체이탈자
+            <title><![CDATA[연애 빠진 로맨스
 	                        	
-									(Spiritwalker)]]></title>
+									(Nothing Serious)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 02 Dec 2021 18:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
@@ -146,67 +187,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">유체이탈자
+	                        <strong class="tit ellip">연애 빠진 로맨스
 	                        	<span class="en ellip">
-									(Spiritwalker)	                        	
+									(Nothing Serious)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                354,674,870원
-	                                <span class="cumu">(누적: 7,827,319,050원)</span>
+	                                207,595,030원
+	                                <span class="cumu">(누적: 6,061,767,780원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                37,424명
-	                                <span class="cumu">(누적:803,044명)</span>
+	                                20,990명
+	                                <span class="cumu">(누적:596,189명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_0989aa850e16400db008c57b9766bf7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈 룩 업
-	                        	
-									(Don’t Look Up)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">돈 룩 업
-	                        	<span class="en ellip">
-									(Don’t Look Up)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                132,030,780원
-	                                <span class="cumu">(누적: 668,094,180원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                14,003명
-	                                <span class="cumu">(누적:68,377명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_871104f6986e4a9a955457267eea2cc4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_c931243ed89e421190cc72874f2c9d9f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
