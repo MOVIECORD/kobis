@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,14 +35,14 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                4,468,919,350원
-	                                <span class="cumu">(누적: 48,690,375,280원)</span>
+	                                4,468,912,350원
+	                                <span class="cumu">(누적: 48,690,377,280원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                441,189명
+	                                441,188명
 	                                <span class="cumu">(누적:4,826,650명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
@@ -241,7 +241,7 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                20,705,469,560원
-	                                <span class="cumu">(누적: 48,690,375,280원)</span>
+	                                <span class="cumu">(누적: 48,690,377,280원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
@@ -442,7 +442,7 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                13,248,684,150원
-	                                <span class="cumu">(누적: 48,690,375,280원)</span>
+	                                <span class="cumu">(누적: 48,690,377,280원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
@@ -613,7 +613,7 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                441,189명
+	                                441,188명
 	                                (누적:4,826,650명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
