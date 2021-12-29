@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 14:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 15:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,148,434,350원
-	                                <span class="cumu">(누적: 51,196,224,330원)</span>
+	                                1,226,921,020원
+	                                <span class="cumu">(누적: 52,423,145,350원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                118,094명
-	                                <span class="cumu">(누적:5,083,730명)</span>
+	                                147,552명
+	                                <span class="cumu">(누적:5,231,282명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_51ede294d96647a7a99fcdf22943391c.jpg" length="0" type="image/jpg"/>
@@ -76,18 +76,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                371,770,010원
-	                                <span class="cumu">(누적: 4,885,285,330원)</span>
+	                                339,303,800원
+	                                <span class="cumu">(누적: 5,224,589,130원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                38,981명
-	                                <span class="cumu">(누적:483,891명)</span>
+	                                44,430명
+	                                <span class="cumu">(누적:528,321명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_c749cf4272e742698a3f1404ad147e3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 뉴 이어
+								
+									(A YEAR-END MEDLEY) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">해피 뉴 이어
+								<span class="en ellip">
+									(A YEAR-END MEDLEY)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                299,080,180원
+	                                <span class="cumu">(누적: 331,330,180원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                38,365명
+	                                <span class="cumu">(누적:41,922명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_406e9890154a409890c078cae2e50176.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매트릭스: 리저렉션
@@ -97,14 +134,14 @@
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,100 +154,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                82,863,750원
-	                                <span class="cumu">(누적: 1,772,228,020원)</span>
+	                                43,599,060원
+	                                <span class="cumu">(누적: 1,815,827,080원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,391명
-	                                <span class="cumu">(누적:174,438명)</span>
+	                                5,432명
+	                                <span class="cumu">(누적:179,870명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_e6207e91e780407a918ddecf211bef0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자
+            <title><![CDATA[경관의 피
 								
-									(Cinderella and the Spellbinder) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">신데렐라 2: 마법에 걸린 왕자
-								<span class="en ellip">
-									(Cinderella and the Spellbinder)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                23,874,010원
-	                                <span class="cumu">(누적: 221,800,950원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                2,852명
-	                                <span class="cumu">(누적:25,413명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_19fc97e4bdaf4daaa295313d43c23017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔칸토: 마법의 세계
-								
-									(Encanto) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Policeman’s Lineage) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">엔칸토: 마법의 세계
+	                        <strong class="tit ellip">경관의 피
 								<span class="en ellip">
-									(Encanto)	                        	
+									(The Policeman’s Lineage)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                19,845,570원
-	                                <span class="cumu">(누적: 5,831,625,360원)</span>
+	                                31,837,000원
+	                                <span class="cumu">(누적: 35,332,000원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,341명
-	                                <span class="cumu">(누적:613,837명)</span>
+	                                3,510명
+	                                <span class="cumu">(누적:3,899명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/11/thumb_x110/thn_2e9b53f6d19844f5855b270fb72eaa5d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_916999c5196f4592a29ef9e18fd869ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈
@@ -613,8 +605,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                118,094명
-	                                (누적:5,083,730명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                147,552명
+	                                (누적:5,231,282명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -627,8 +619,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                38,981명
-	                                (누적:483,891명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                44,430명
+	                                (누적:528,321명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -641,16 +633,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                8,391명
-	                                (누적:174,438명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                38,365명
+	                                (누적:41,922명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[매트릭스: 리저렉션
+            <content:encoded><![CDATA[해피 뉴 이어
 								<span class="en ellip">
-									(The Matrix Resurrections)	                        	
+									(A YEAR-END MEDLEY)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_e6207e91e780407a918ddecf211bef0a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_406e9890154a409890c078cae2e50176.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
