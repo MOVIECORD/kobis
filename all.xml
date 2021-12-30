@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,15 +113,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                299,042,180원
-	                                <span class="cumu">(누적: 331,292,180원)</span>
+	                                299,033,180원
+	                                <span class="cumu">(누적: 331,283,180원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                38,359명
-	                                <span class="cumu">(누적:41,916명)</span>
+	                                38,358명
+	                                <span class="cumu">(누적:41,915명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_406e9890154a409890c078cae2e50176.jpg" length="0" type="image/jpg"/>
@@ -633,8 +633,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                38,359명
-	                                (누적:41,916명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                38,358명
+	                                (누적:41,915명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
