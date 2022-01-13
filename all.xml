@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 14:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 15:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                327,115,790원
-	                                <span class="cumu">(누적: 395,498,890원)</span>
+	                                267,869,570원
+	                                <span class="cumu">(누적: 663,368,460원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                37,055명
-	                                <span class="cumu">(누적:43,513명)</span>
+	                                29,771명
+	                                <span class="cumu">(누적:73,284명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_0fc78405a0cb4c9bae02f073d06ca01d.jpg" length="0" type="image/jpg"/>
@@ -56,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -72,55 +76,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                250,883,050원
-	                                <span class="cumu">(누적: 67,426,896,850원)</span>
+	                                242,961,090원
+	                                <span class="cumu">(누적: 67,669,857,940원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                25,973명
-	                                <span class="cumu">(누적:6,700,433명)</span>
+	                                25,253명
+	                                <span class="cumu">(누적:6,725,686명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_51ede294d96647a7a99fcdf22943391c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웨스트 사이드 스토리
+            <title><![CDATA[씽2게더
 								
-									(West Side Story) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Sing 2) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">3</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">웨스트 사이드 스토리
+	                        <strong class="tit ellip">씽2게더
 								<span class="en ellip">
-									(West Side Story)	                        	
+									(Sing 2)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                217,365,870원
-	                                <span class="cumu">(누적: 236,400,870원)</span>
+	                                159,152,010원
+	                                <span class="cumu">(누적: 3,313,290,780원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                22,428명
-	                                <span class="cumu">(누적:23,697명)</span>
+	                                18,380명
+	                                <span class="cumu">(누적:364,719명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_8d74d76769e745f4a3786ae9b68d9750.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_5578011a39274ae8960b002f4eb5ba6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경관의 피
@@ -134,10 +142,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -150,23 +158,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                175,407,720원
-	                                <span class="cumu">(누적: 4,406,167,460원)</span>
+	                                149,748,200원
+	                                <span class="cumu">(누적: 4,555,915,660원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,177명
-	                                <span class="cumu">(누적:450,879명)</span>
+	                                15,534명
+	                                <span class="cumu">(누적:466,413명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_916999c5196f4592a29ef9e18fd869ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씽2게더
+            <title><![CDATA[웨스트 사이드 스토리
 								
-									(Sing 2) (KOBIS ─ 일별 박스오피스)]]></title>
+									(West Side Story) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -183,26 +191,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">씽2게더
+	                        <strong class="tit ellip">웨스트 사이드 스토리
 								<span class="en ellip">
-									(Sing 2)	                        	
+									(West Side Story)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                146,538,070원
-	                                <span class="cumu">(누적: 3,154,138,770원)</span>
+	                                123,660,360원
+	                                <span class="cumu">(누적: 360,061,230원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                16,930명
-	                                <span class="cumu">(누적:346,339명)</span>
+	                                12,711명
+	                                <span class="cumu">(누적:36,408명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_5578011a39274ae8960b002f4eb5ba6b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_8d74d76769e745f4a3786ae9b68d9750.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈
@@ -609,8 +617,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                37,055명
-	                                (누적:43,513명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                29,771명
+	                                (누적:73,284명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -623,8 +631,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                25,973명
-	                                (누적:6,700,433명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                25,253명
+	                                (누적:6,725,686명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
@@ -637,16 +645,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                22,428명
-	                                (누적:23,697명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                18,380명
+	                                (누적:364,719명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 23 Oct 2021 15:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[웨스트 사이드 스토리
+            <content:encoded><![CDATA[씽2게더
 								<span class="en ellip">
-									(West Side Story)	                        	
+									(Sing 2)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_8d74d76769e745f4a3786ae9b68d9750.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_5578011a39274ae8960b002f4eb5ba6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
