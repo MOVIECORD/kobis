@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 06:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 07:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,14 +36,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                178,153,370원
-	                                <span class="cumu">(누적: 72,068,319,910원)</span>
+	                                <span class="cumu">(누적: 72,068,313,910원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                19,995명
-	                                <span class="cumu">(누적:7,189,041명)</span>
+	                                <span class="cumu">(누적:7,189,040명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_51ede294d96647a7a99fcdf22943391c.jpg" length="0" type="image/jpg"/>
@@ -77,14 +77,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                77,308,520원
-	                                <span class="cumu">(누적: 3,887,901,920원)</span>
+	                                <span class="cumu">(누적: 3,887,882,920원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                11,627명
-	                                <span class="cumu">(누적:405,837명)</span>
+	                                <span class="cumu">(누적:405,835명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_0fc78405a0cb4c9bae02f073d06ca01d.jpg" length="0" type="image/jpg"/>
@@ -172,7 +172,9 @@
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_916999c5196f4592a29ef9e18fd869ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장민호 드라마 최종회]]></title>
+            <title><![CDATA[장민호 드라마 최종회
+								
+									(Jang Minho Drama)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
@@ -187,7 +189,7 @@
 	                        
 	                        <strong class="tit ellip">장민호 드라마 최종회
 								<span class="en ellip">
-									&nbsp;	                        	
+									(Jang Minho Drama)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
