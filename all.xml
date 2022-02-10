@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 10:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 11:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,15 +31,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                252,522,270원
-	                                <span class="cumu">(누적: 257,196,270원)</span>
+	                                252,510,270원
+	                                <span class="cumu">(누적: 257,184,270원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                28,138명
-	                                <span class="cumu">(누적:28,652명)</span>
+	                                28,136명
+	                                <span class="cumu">(누적:28,650명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_2438169844484f438d289bfbad616306.jpg" length="0" type="image/jpg"/>
@@ -613,8 +613,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                28,138명
-	                                (누적:28,652명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                28,136명
+	                                (누적:28,650명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
