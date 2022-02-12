@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 14:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 15:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                174,540,730원
-	                                <span class="cumu">(누적: 596,735,040원)</span>
+	                                424,698,840원
+	                                <span class="cumu">(누적: 1,021,433,880원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                17,436명
-	                                <span class="cumu">(누적:64,021명)</span>
+	                                42,019명
+	                                <span class="cumu">(누적:106,040명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_2438169844484f438d289bfbad616306.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                123,458,790원
-	                                <span class="cumu">(누적: 11,235,171,850원)</span>
+	                                256,044,410원
+	                                <span class="cumu">(누적: 11,491,216,260원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                12,522명
-	                                <span class="cumu">(누적:1,159,616명)</span>
+	                                26,027명
+	                                <span class="cumu">(누적:1,185,643명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_5c12b763b8de407ca21659edf25fb266.jpg" length="0" type="image/jpg"/>
@@ -103,8 +103,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                91,135,480원
-	                                <span class="cumu">(누적: 6,457,884,250원)</span>
+	                                201,428,460원
+	                                <span class="cumu">(누적: 6,659,312,710원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                9,290명
-	                                <span class="cumu">(누적:667,853명)</span>
+	                                20,036명
+	                                <span class="cumu">(누적:687,889명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_fc7c230460244c598311f1141674b490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[355
+            <title><![CDATA[스파이더맨: 노 웨이 홈
 								
-									(The 355)]]></title>
+									(Spider-Man: No Way Home)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
@@ -150,47 +150,6 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">355
-								<span class="en ellip">
-									(The 355)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                40,565,400원
-	                                <span class="cumu">(누적: 149,021,520원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                4,315명
-	                                <span class="cumu">(누적:16,897명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_2d52b536cd824fd496fd3e4c9d6d7557.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈
-								
-									(Spider-Man: No Way Home)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
 	                        <strong class="tit ellip">스파이더맨: 노 웨이 홈
 								<span class="en ellip">
 									(Spider-Man: No Way Home)	                        	
@@ -199,18 +158,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                36,368,010원
-	                                <span class="cumu">(누적: 74,500,929,060원)</span>
+	                                75,342,260원
+	                                <span class="cumu">(누적: 74,576,271,320원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,214명
-	                                <span class="cumu">(누적:7,471,996명)</span>
+	                                8,666명
+	                                <span class="cumu">(누적:7,480,662명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_51ede294d96647a7a99fcdf22943391c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[355
+								
+									(The 355)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">355
+								<span class="en ellip">
+									(The 355)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                68,835,800원
+	                                <span class="cumu">(누적: 217,857,320원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                7,057명
+	                                <span class="cumu">(누적:23,954명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_2d52b536cd824fd496fd3e4c9d6d7557.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
