@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 14:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 15:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,8 +21,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                455,860,980원
-	                                <span class="cumu">(누적: 1,508,052,410원)</span>
+	                                1,067,592,290원
+	                                <span class="cumu">(누적: 2,575,644,700원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                45,174명
-	                                <span class="cumu">(누적:157,943명)</span>
+	                                105,317명
+	                                <span class="cumu">(누적:263,260명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_4cb33345ff02417883f8ac485763101c.jpg" length="0" type="image/jpg"/>
@@ -60,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                253,213,970원
-	                                <span class="cumu">(누적: 833,085,350원)</span>
+	                                375,484,930원
+	                                <span class="cumu">(누적: 1,208,570,280원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                23,817명
-	                                <span class="cumu">(누적:83,260명)</span>
+	                                35,269명
+	                                <span class="cumu">(누적:118,529명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_82991f42209b43999464fa505d826022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해적: 도깨비 깃발
+            <title><![CDATA[나일 강의 죽음
 								
-									(The Pirates : The Last Royal Treasure)]]></title>
+									(Death on the Nile)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
@@ -103,49 +103,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">해적: 도깨비 깃발
-								<span class="en ellip">
-									(The Pirates : The Last Royal Treasure)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                38,386,740원
-	                                <span class="cumu">(누적: 12,028,259,300원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                7,080명
-	                                <span class="cumu">(누적:1,249,414명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_5c12b763b8de407ca21659edf25fb266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나일 강의 죽음
-								
-									(Death on the Nile)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,18 +117,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                57,349,510원
-	                                <span class="cumu">(누적: 1,748,061,320원)</span>
+	                                125,747,720원
+	                                <span class="cumu">(누적: 1,873,809,040원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                5,812명
-	                                <span class="cumu">(누적:180,710명)</span>
+	                                12,673명
+	                                <span class="cumu">(누적:193,383명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2021/12/thumb_x110/thn_2438169844484f438d289bfbad616306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해적: 도깨비 깃발
+								
+									(The Pirates : The Last Royal Treasure)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 17 Jan 2022 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">해적: 도깨비 깃발
+								<span class="en ellip">
+									(The Pirates : The Last Royal Treasure)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                73,717,760원
+	                                <span class="cumu">(누적: 12,101,977,060원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                12,622명
+	                                <span class="cumu">(누적:1,262,036명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_5c12b763b8de407ca21659edf25fb266.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹메이커
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                27,355,710원
-	                                <span class="cumu">(누적: 7,060,426,260원)</span>
+	                                58,023,800원
+	                                <span class="cumu">(누적: 7,118,450,060원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,065명
-	                                <span class="cumu">(누적:732,858명)</span>
+	                                8,491명
+	                                <span class="cumu">(누적:741,349명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_fc7c230460244c598311f1141674b490.jpg" length="0" type="image/jpg"/>
