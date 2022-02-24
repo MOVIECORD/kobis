@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
-    <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
-    <updated>2022-02-24T03:10:51.728Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 24 Feb 2022 04:15:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                12,215명
+	                                (누적:15,242명)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[안테벨룸
+								<span class="en ellip">
+									(Antebellum)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_06de7632b4da4b7394986cb76895bd4e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
