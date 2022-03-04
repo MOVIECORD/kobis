@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                308,201,410원
-	                                <span class="cumu">(누적: 2,722,875,400원)</span>
+	                                421,667,330원
+	                                <span class="cumu">(누적: 3,144,542,730원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                30,493명
-	                                <span class="cumu">(누적:267,917명)</span>
+	                                39,232명
+	                                <span class="cumu">(누적:307,149명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_f7a10796a372481b95ef41fe98a455f3.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                55,859,800원
-	                                <span class="cumu">(누적: 3,310,010,920원)</span>
+	                                61,452,540원
+	                                <span class="cumu">(누적: 3,371,463,460원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                5,705명
-	                                <span class="cumu">(누적:331,359명)</span>
+	                                5,740명
+	                                <span class="cumu">(누적:337,099명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_82991f42209b43999464fa505d826022.jpg" length="0" type="image/jpg"/>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                37,204,730원
-	                                <span class="cumu">(누적: 6,352,327,920원)</span>
+	                                54,860,780원
+	                                <span class="cumu">(누적: 6,407,188,700원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,935명
-	                                <span class="cumu">(누적:650,801명)</span>
+	                                5,475명
+	                                <span class="cumu">(누적:656,276명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_4cb33345ff02417883f8ac485763101c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인민을 위해 복무하라
+            <title><![CDATA[안테벨룸
 								
-									(SERVE THE PEOPLE)]]></title>
+									(Antebellum)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -144,7 +144,48 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">안테벨룸
+								<span class="en ellip">
+									(Antebellum)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                20,445,300원
+	                                <span class="cumu">(누적: 700,685,730원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                2,000명
+	                                <span class="cumu">(누적:73,708명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_06de7632b4da4b7394986cb76895bd4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인민을 위해 복무하라
+								
+									(SERVE THE PEOPLE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
 	                            	
 	                            	
 	                            
@@ -158,59 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                14,853,300원
-	                                <span class="cumu">(누적: 561,010,580원)</span>
+	                                15,888,200원
+	                                <span class="cumu">(누적: 576,898,780원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,645명
-	                                <span class="cumu">(누적:60,874명)</span>
+	                                1,610명
+	                                <span class="cumu">(누적:62,484명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_e895a2acf5534668b0624badd798e33d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안테벨룸
-								
-									(Antebellum)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">안테벨룸
-								<span class="en ellip">
-									(Antebellum)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                14,993,500원
-	                                <span class="cumu">(누적: 680,240,430원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                1,546명
-	                                <span class="cumu">(누적:71,708명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_06de7632b4da4b7394986cb76895bd4e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
