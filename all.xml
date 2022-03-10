@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 15:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                716,302,430원
-	                                <span class="cumu">(누적: 825,271,430원)</span>
+	                                152,443,810원
+	                                <span class="cumu">(누적: 977,715,240원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                75,528명
-	                                <span class="cumu">(누적:89,329명)</span>
+	                                16,984명
+	                                <span class="cumu">(누적:106,313명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_c3ba74af4e054f00a663a56a6f0a0e97.jpg" length="0" type="image/jpg"/>
@@ -56,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -72,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                645,918,850원
-	                                <span class="cumu">(누적: 6,292,499,850원)</span>
+	                                139,581,410원
+	                                <span class="cumu">(누적: 6,432,081,260원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                62,579명
-	                                <span class="cumu">(누적:609,136명)</span>
+	                                13,664명
+	                                <span class="cumu">(누적:622,800명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_f7a10796a372481b95ef41fe98a455f3.jpg" length="0" type="image/jpg"/>
@@ -113,60 +117,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                360,934,410원
-	                                <span class="cumu">(누적: 4,111,927,860원)</span>
+	                                55,313,100원
+	                                <span class="cumu">(누적: 4,167,240,960원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                38,168명
-	                                <span class="cumu">(누적:413,060명)</span>
+	                                5,704명
+	                                <span class="cumu">(누적:418,764명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_82991f42209b43999464fa505d826022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션
+            <title><![CDATA[블랙라이트
 								
-									(My Hero Academia: World Heroes' Mission) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Blacklight) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">4</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션
+	                        <strong class="tit ellip">블랙라이트
 								<span class="en ellip">
-									(My Hero Academia: World Heroes' Mission)	                        	
+									(Blacklight)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                199,778,620원
-	                                <span class="cumu">(누적: 202,532,620원)</span>
+	                                21,986,300원
+	                                <span class="cumu">(누적: 85,656,330원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                21,116명
-	                                <span class="cumu">(누적:21,422명)</span>
+	                                2,564명
+	                                <span class="cumu">(누적:9,483명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_f158055edf304e3c8a448fd400e482fe.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_61d1ff33c2cf401485b7cd6bb62bce7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언차티드
+            <title><![CDATA[해적: 도깨비 깃발
 								
-									(Uncharted) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Pirates : The Last Royal Treasure) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -175,34 +183,34 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>3</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>22</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">언차티드
+	                        <strong class="tit ellip">해적: 도깨비 깃발
 								<span class="en ellip">
-									(Uncharted)	                        	
+									(The Pirates : The Last Royal Treasure)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                81,733,640원
-	                                <span class="cumu">(누적: 6,866,443,490원)</span>
+	                                14,285,000원
+	                                <span class="cumu">(누적: 12,451,286,490원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,199명
-	                                <span class="cumu">(누적:702,374명)</span>
+	                                1,621명
+	                                <span class="cumu">(누적:1,328,716명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_4cb33345ff02417883f8ac485763101c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/01/thumb_x110/thn_5c12b763b8de407ca21659edf25fb266.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨
@@ -609,8 +617,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                75,528명
-	                                (누적:89,329명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                16,984명
+	                                (누적:106,313명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -623,8 +631,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                62,579명
-	                                (누적:609,136명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                13,664명
+	                                (누적:622,800명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -637,8 +645,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                38,168명
-	                                (누적:413,060명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                5,704명
+	                                (누적:418,764명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
