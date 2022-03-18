@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 21:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 22:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                101,834,240원
-	                                <span class="cumu">(누적: 8,074,227,090원)</span>
+	                                101,825,240원
+	                                <span class="cumu">(누적: 8,074,218,090원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                9,871명
-	                                <span class="cumu">(누적:778,515명)</span>
+	                                9,870명
+	                                <span class="cumu">(누적:778,514명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_f7a10796a372481b95ef41fe98a455f3.jpg" length="0" type="image/jpg"/>
@@ -645,8 +645,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                9,871명
-	                                (누적:778,515명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                9,870명
+	                                (누적:778,514명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
