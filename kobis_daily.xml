@@ -4,13 +4,13 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 14:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 15:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[모비우스
+            <title><![CDATA[앰뷸런스
 								
-									(Morbius)]]></title>
+									(Ambulance)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -21,8 +21,86 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>7</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">앰뷸런스
+								<span class="en ellip">
+									(Ambulance)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                157,843,160원
+	                                <span class="cumu">(누적: 168,699,160원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                16,438명
+	                                <span class="cumu">(누적:17,128명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_8dcc873359364dad97e23f6f9f57f9bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수퍼 소닉2
+								
+									(Sonic the Hedgehog 2)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">수퍼 소닉2
+								<span class="en ellip">
+									(Sonic the Hedgehog 2)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                104,237,840원
+	                                <span class="cumu">(누적: 108,706,840원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                11,642명
+	                                <span class="cumu">(누적:12,079명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_859419a96d06476a960d4154a6767dc9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모비우스
+								
+									(Morbius)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -35,105 +113,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                144,872,260원
-	                                <span class="cumu">(누적: 3,333,355,090원)</span>
+	                                102,093,030원
+	                                <span class="cumu">(누적: 3,435,448,120원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,660명
-	                                <span class="cumu">(누적:343,963명)</span>
+	                                10,301명
+	                                <span class="cumu">(누적:354,264명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_c991eb3007fa449ab25b73437c2cbc56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뜨거운 피
+            <title><![CDATA[스텔라
 								
-									(Hot Blooded)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">뜨거운 피
-								<span class="en ellip">
-									(Hot Blooded)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                63,046,400원
-	                                <span class="cumu">(누적: 3,283,928,190원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                6,647명
-	                                <span class="cumu">(누적:341,721명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_7325b309f2c448bfbe8604c74ba60d82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 나라의 수학자
-								
-									(In Our Prime)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">이상한 나라의 수학자
-								<span class="en ellip">
-									(In Our Prime)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                19,406,300원
-	                                <span class="cumu">(누적: 4,903,582,840원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                2,115명
-	                                <span class="cumu">(누적:516,420명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_c3ba74af4e054f00a663a56a6f0a0e97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 배트맨
-								
-									(The Batman)]]></title>
+									(Stellar)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -144,73 +140,69 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>73</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">더 배트맨
+	                        <strong class="tit ellip">스텔라
 								<span class="en ellip">
-									(The Batman)	                        	
+									(Stellar)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                14,664,870원
-	                                <span class="cumu">(누적: 9,273,600,170원)</span>
+	                                65,904,430원
+	                                <span class="cumu">(누적: 93,734,430원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,476명
-	                                <span class="cumu">(누적:897,734명)</span>
+	                                7,787명
+	                                <span class="cumu">(누적:12,299명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/02/thumb_x110/thn_f7a10796a372481b95ef41fe98a455f3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_58d765cf1dde4bb58dd28bbdd54a250d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배니싱: 미제사건
+            <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가
 								
-									(Vanishing)]]></title>
+									(The Electrical Life of Louis Wain)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">배니싱: 미제사건
+	                        <strong class="tit ellip">루이스 웨인: 사랑을 그린 고양이 화가
 								<span class="en ellip">
-									(Vanishing)	                        	
+									(The Electrical Life of Louis Wain)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                11,114,600원
-	                                <span class="cumu">(누적: 264,077,710원)</span>
+	                                53,001,970원
+	                                <span class="cumu">(누적: 59,232,970원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,240명
-	                                <span class="cumu">(누적:29,654명)</span>
+	                                5,883명
+	                                <span class="cumu">(누적:6,563명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_1be0543b018a4b9ea61a6f1b2870743d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_38a46c61d2ea4d368120387d317f87bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
