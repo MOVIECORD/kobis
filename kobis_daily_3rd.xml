@@ -4,22 +4,22 @@
         <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 14:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 15:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                10,305명
-	                                (누적:354,268명)]]></title>
+	                                7,197명
+	                                (누적:19,500명)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[모비우스
+            <content:encoded><![CDATA[스텔라
 								<span class="en ellip">
-									(Morbius)	                        	
+									(Stellar)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_c991eb3007fa449ab25b73437c2cbc56.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_58d765cf1dde4bb58dd28bbdd54a250d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
