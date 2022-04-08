@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 15:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                106,976,340원
-	                                <span class="cumu">(누적: 275,689,500원)</span>
+	                                124,841,170원
+	                                <span class="cumu">(누적: 400,530,670원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                11,120명
-	                                <span class="cumu">(누적:28,251명)</span>
+	                                12,336명
+	                                <span class="cumu">(누적:40,587명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_8dcc873359364dad97e23f6f9f57f9bd.jpg" length="0" type="image/jpg"/>
@@ -62,8 +62,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                85,300,190원
-	                                <span class="cumu">(누적: 3,520,758,310원)</span>
+	                                124,590,760원
+	                                <span class="cumu">(누적: 3,645,349,070원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,732명
-	                                <span class="cumu">(누적:362,998명)</span>
+	                                11,976명
+	                                <span class="cumu">(누적:374,974명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_c991eb3007fa449ab25b73437c2cbc56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스텔라
+            <title><![CDATA[수퍼 소닉2
 								
-									(Stellar) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Sonic the Hedgehog 2) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -109,31 +109,31 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">스텔라
+	                        <strong class="tit ellip">수퍼 소닉2
 								<span class="en ellip">
-									(Stellar)	                        	
+									(Sonic the Hedgehog 2)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                61,540,570원
-	                                <span class="cumu">(누적: 155,300,000원)</span>
+	                                89,821,660원
+	                                <span class="cumu">(누적: 257,239,500원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,205명
-	                                <span class="cumu">(누적:19,508명)</span>
+	                                9,831명
+	                                <span class="cumu">(누적:28,477명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_58d765cf1dde4bb58dd28bbdd54a250d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_859419a96d06476a960d4154a6767dc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수퍼 소닉2
+            <title><![CDATA[스텔라
 								
-									(Sonic the Hedgehog 2) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Stellar) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -143,33 +143,33 @@
 	                            
 	                            
 	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">수퍼 소닉2
+	                        <strong class="tit ellip">스텔라
 								<span class="en ellip">
-									(Sonic the Hedgehog 2)	                        	
+									(Stellar)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                58,699,000원
-	                                <span class="cumu">(누적: 167,417,840원)</span>
+	                                81,440,760원
+	                                <span class="cumu">(누적: 236,740,760원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                6,565명
-	                                <span class="cumu">(누적:18,646명)</span>
+	                                8,864명
+	                                <span class="cumu">(누적:28,372명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_859419a96d06476a960d4154a6767dc9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_58d765cf1dde4bb58dd28bbdd54a250d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루이스 웨인: 사랑을 그린 고양이 화가
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                36,862,900원
-	                                <span class="cumu">(누적: 96,095,870원)</span>
+	                                51,086,920원
+	                                <span class="cumu">(누적: 147,182,790원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,968명
-	                                <span class="cumu">(누적:10,531명)</span>
+	                                5,196명
+	                                <span class="cumu">(누적:15,727명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_38a46c61d2ea4d368120387d317f87bd.jpg" length="0" type="image/jpg"/>
@@ -613,8 +613,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                11,120명
-	                                (누적:28,251명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                12,336명
+	                                (누적:40,587명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -627,8 +627,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                8,732명
-	                                (누적:362,998명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                11,976명
+	                                (누적:374,974명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -641,16 +641,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                7,205명
-	                                (누적:19,508명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                9,831명
+	                                (누적:28,477명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[스텔라
+            <content:encoded><![CDATA[수퍼 소닉2
 								<span class="en ellip">
-									(Stellar)	                        	
+									(Sonic the Hedgehog 2)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_58d765cf1dde4bb58dd28bbdd54a250d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_859419a96d06476a960d4154a6767dc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
