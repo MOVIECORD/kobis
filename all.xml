@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 15:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,21 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                255,477,300원
-	                                <span class="cumu">(누적: 8,644,053,560원)</span>
+	                                247,522,430원
+	                                <span class="cumu">(누적: 8,891,575,990원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                24,823명
-	                                <span class="cumu">(누적:817,449명)</span>
+	                                47,471명
+	                                <span class="cumu">(누적:864,920명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_65a5050d3c484495afe09377f996622f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공기살인
-								
-									(Air Murder) (KOBIS ─ 일별 박스오피스)]]></title>
+            <title><![CDATA[니 부모 얼굴이 보고 싶다 (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -62,8 +60,90 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>4</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">니 부모 얼굴이 보고 싶다
+								<span class="en ellip">
+									&nbsp;	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                203,214,420원
+	                                <span class="cumu">(누적: 252,841,420원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                38,628명
+	                                <span class="cumu">(누적:44,094명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_c47171e7ffa44835aee68a454d2c7059.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울괴담
+								
+									(Urban Myths) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>19</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">서울괴담
+								<span class="en ellip">
+									(Urban Myths)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                60,194,070원
+	                                <span class="cumu">(누적: 67,842,070원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                11,616명
+	                                <span class="cumu">(누적:12,376명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_8ef2c69d352d499987c2428d8b594259.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공기살인
+								
+									(Air Murder) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -76,15 +156,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                120,204,970원
-	                                <span class="cumu">(누적: 928,005,470원)</span>
+	                                57,022,370원
+	                                <span class="cumu">(누적: 985,027,840원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                12,492명
-	                                <span class="cumu">(누적:96,841명)</span>
+	                                10,840명
+	                                <span class="cumu">(누적:107,681명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_eb641f809d054353a7b16c404a140855.jpg" length="0" type="image/jpg"/>
@@ -97,14 +177,14 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,100 +197,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                97,785,850원
-	                                <span class="cumu">(누적: 1,221,952,060원)</span>
+	                                45,501,370원
+	                                <span class="cumu">(누적: 1,267,453,430원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                10,008명
-	                                <span class="cumu">(누적:122,066명)</span>
+	                                8,695명
+	                                <span class="cumu">(누적:130,761명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_40227062dcbc4d02a27dc0c37a462c7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로스트 시티
-								
-									(The Lost City) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">로스트 시티
-								<span class="en ellip">
-									(The Lost City)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                61,160,370원
-	                                <span class="cumu">(누적: 729,053,400원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                6,703명
-	                                <span class="cumu">(누적:76,201명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_181e22bdb0374ac980db57cf9e39b0fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수퍼 소닉2
-								
-									(Sonic the Hedgehog 2) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">수퍼 소닉2
-								<span class="en ellip">
-									(Sonic the Hedgehog 2)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                13,368,000원
-	                                <span class="cumu">(누적: 2,351,531,260원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                1,523명
-	                                <span class="cumu">(누적:257,942명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_859419a96d06476a960d4154a6767dc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀
@@ -617,8 +615,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                24,823명
-	                                (누적:817,449명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                47,471명
+	                                (누적:864,920명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -631,30 +629,30 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                12,492명
-	                                (누적:96,841명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                38,628명
+	                                (누적:44,094명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[공기살인
+            <content:encoded><![CDATA[니 부모 얼굴이 보고 싶다
 								<span class="en ellip">
-									(Air Murder)	                        	
+									&nbsp;	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_eb641f809d054353a7b16c404a140855.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_c47171e7ffa44835aee68a454d2c7059.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                10,008명
-	                                (누적:122,066명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                11,616명
+	                                (누적:12,376명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[앵커
+            <content:encoded><![CDATA[서울괴담
 								<span class="en ellip">
-									(Anchor)	                        	
+									(Urban Myths)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_40227062dcbc4d02a27dc0c37a462c7a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_8ef2c69d352d499987c2428d8b594259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
