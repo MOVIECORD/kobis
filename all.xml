@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 14:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 15:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[신비한 동물들과 덤블도어의 비밀
+            <title><![CDATA[니 부모 얼굴이 보고 싶다
 								
-									(Fantastic Beasts: The Secrets of Dumbledore) (KOBIS ─ 일별 박스오피스)]]></title>
+									(I want to know your parents ) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -21,49 +21,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">신비한 동물들과 덤블도어의 비밀
-								<span class="en ellip">
-									(Fantastic Beasts: The Secrets of Dumbledore)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                666,827,830원
-	                                <span class="cumu">(누적: 11,077,279,980원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                63,139명
-	                                <span class="cumu">(누적:1,075,526명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_65a5050d3c484495afe09377f996622f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니 부모 얼굴이 보고 싶다
-								
-									(I want to know your parents ) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,18 +35,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                607,302,590원
-	                                <span class="cumu">(누적: 2,129,645,780원)</span>
+	                                208,017,370원
+	                                <span class="cumu">(누적: 2,337,663,150원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                58,253명
-	                                <span class="cumu">(누적:228,459명)</span>
+	                                21,225명
+	                                <span class="cumu">(누적:249,684명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_31664e7e16d54504864230cc4554d3f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신비한 동물들과 덤블도어의 비밀
+								
+									(Fantastic Beasts: The Secrets of Dumbledore) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">신비한 동물들과 덤블도어의 비밀
+								<span class="en ellip">
+									(Fantastic Beasts: The Secrets of Dumbledore)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                147,552,520원
+	                                <span class="cumu">(누적: 11,224,832,500원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                14,672명
+	                                <span class="cumu">(누적:1,090,198명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_65a5050d3c484495afe09377f996622f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울괴담
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                166,064,000원
-	                                <span class="cumu">(누적: 568,787,490원)</span>
+	                                42,278,490원
+	                                <span class="cumu">(누적: 611,065,980원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                16,024명
-	                                <span class="cumu">(누적:60,912명)</span>
+	                                4,238명
+	                                <span class="cumu">(누적:65,150명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_8ef2c69d352d499987c2428d8b594259.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수퍼 소닉2
+            <title><![CDATA[공기살인
 								
-									(Sonic the Hedgehog 2) (KOBIS ─ 일별 박스오피스)]]></title>
+									(TOXIC) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -144,49 +144,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">수퍼 소닉2
-								<span class="en ellip">
-									(Sonic the Hedgehog 2)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                126,629,910원
-	                                <span class="cumu">(누적: 2,623,536,870원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                13,561명
-	                                <span class="cumu">(누적:287,690명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_859419a96d06476a960d4154a6767dc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공기살인
-								
-									(TOXIC) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -199,18 +158,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                106,082,840원
-	                                <span class="cumu">(누적: 1,345,522,980원)</span>
+	                                31,191,700원
+	                                <span class="cumu">(누적: 1,376,714,680원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                10,421명
-	                                <span class="cumu">(누적:143,624명)</span>
+	                                3,303명
+	                                <span class="cumu">(누적:146,927명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_eb641f809d054353a7b16c404a140855.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[앵커
+								
+									(Anchor) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">앵커
+								<span class="en ellip">
+									(Anchor)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                26,924,600원
+	                                <span class="cumu">(누적: 1,571,686,770원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                2,657명
+	                                <span class="cumu">(누적:160,430명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_40227062dcbc4d02a27dc0c37a462c7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신비한 동물들과 덤블도어의 비밀
@@ -621,22 +621,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                63,139명
-	                                (누적:1,075,526명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[신비한 동물들과 덤블도어의 비밀
-								<span class="en ellip">
-									(Fantastic Beasts: The Secrets of Dumbledore)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_65a5050d3c484495afe09377f996622f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                58,253명
-	                                (누적:228,459명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                21,225명
+	                                (누적:249,684명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -649,8 +635,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                16,024명
-	                                (누적:60,912명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                14,672명
+	                                (누적:1,090,198명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[신비한 동물들과 덤블도어의 비밀
+								<span class="en ellip">
+									(Fantastic Beasts: The Secrets of Dumbledore)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_65a5050d3c484495afe09377f996622f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                4,238명
+	                                (누적:65,150명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
