@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주간 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,9 @@
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/03/thumb_x110/thn_65a5050d3c484495afe09377f996622f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[니 부모 얼굴이 보고 싶다]]></title>
+            <title><![CDATA[니 부모 얼굴이 보고 싶다
+	                        	
+									(I want to know your parents )]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 27 Apr 2022 20:14:13 GMT</pubDate>
@@ -68,7 +70,7 @@
 	                        
 	                        <strong class="tit ellip">니 부모 얼굴이 보고 싶다
 	                        	<span class="en ellip">
-									&nbsp;	                        	
+									(I want to know your parents )	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
