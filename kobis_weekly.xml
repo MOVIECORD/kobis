@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주간 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 04:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 05:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,21 +72,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                18,804,403,400원
-	                                <span class="cumu">(누적: 18,804,403,400원)</span>
+	                                18,804,278,400원
+	                                <span class="cumu">(누적: 18,804,278,400원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,819,954명
-	                                <span class="cumu">(누적:1,819,954명)</span>
+	                                1,819,944명
+	                                <span class="cumu">(누적:1,819,944명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/05/thumb_x110/thn_caf1c106f06546e18c5714398a844e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미]]></title>
+            <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미
+	                        	
+									(Pokemon the Movie: Giratina and the Sky Warrior)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 27 Apr 2022 20:14:13 GMT</pubDate>
@@ -101,7 +103,7 @@
 	                        
 	                        <strong class="tit ellip">극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미
 	                        	<span class="en ellip">
-									&nbsp;	                        	
+									(Pokemon the Movie: Giratina and the Sky Warrior)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">

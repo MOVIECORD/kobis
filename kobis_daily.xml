@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 04:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 05:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                4,723,365,210원
-	                                <span class="cumu">(누적: 96,501,992,820원)</span>
+	                                4,723,350,210원
+	                                <span class="cumu">(누적: 96,501,977,820원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                455,353명
-	                                <span class="cumu">(누적:9,323,965명)</span>
+	                                455,352명
+	                                <span class="cumu">(누적:9,323,964명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/05/thumb_x110/thn_fe202fdd479043af848b5d9292772df9.jpg" length="0" type="image/jpg"/>
@@ -77,20 +77,22 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                3,541,525,760원
-	                                <span class="cumu">(누적: 22,345,929,160원)</span>
+	                                <span class="cumu">(누적: 22,345,804,160원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                348,227명
-	                                <span class="cumu">(누적:2,168,181명)</span>
+	                                <span class="cumu">(누적:2,168,171명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/05/thumb_x110/thn_caf1c106f06546e18c5714398a844e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미]]></title>
+            <title><![CDATA[극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미
+								
+									(Pokemon the Movie: Giratina and the Sky Warrior)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -109,7 +111,7 @@
 	                        
 	                        <strong class="tit ellip">극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미
 								<span class="en ellip">
-									&nbsp;	                        	
+									(Pokemon the Movie: Giratina and the Sky Warrior)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
