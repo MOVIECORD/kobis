@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 14:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 15:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                4,789,763,620원
-	                                <span class="cumu">(누적: 16,647,579,280원)</span>
+	                                1,653,796,440원
+	                                <span class="cumu">(누적: 18,301,375,720원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                438,673명
-	                                <span class="cumu">(누적:1,526,310명)</span>
+	                                156,202명
+	                                <span class="cumu">(누적:1,682,512명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_fa28d4efd4ed492f86cd892ed31913e1.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,536,172,950원
-	                                <span class="cumu">(누적: 23,210,554,670원)</span>
+	                                506,869,160원
+	                                <span class="cumu">(누적: 23,717,423,830원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                144,555명
-	                                <span class="cumu">(누적:2,241,519명)</span>
+	                                49,771명
+	                                <span class="cumu">(누적:2,291,290명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_ee8d3a36ee5741fd9acb2c4e90e376cc.jpg" length="0" type="image/jpg"/>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,200,116,310원
-	                                <span class="cumu">(누적: 124,589,596,660원)</span>
+	                                477,695,000원
+	                                <span class="cumu">(누적: 125,067,291,660원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                112,675명
-	                                <span class="cumu">(누적:12,044,414명)</span>
+	                                47,529명
+	                                <span class="cumu">(누적:12,091,943명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/05/thumb_x110/thn_fe202fdd479043af848b5d9292772df9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[버즈 라이트이어
+            <title><![CDATA[브로커
 								
-									(Lightyear) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Broker) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -144,49 +144,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">버즈 라이트이어
-								<span class="en ellip">
-									(Lightyear)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                234,613,590원
-	                                <span class="cumu">(누적: 3,008,225,030원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                23,755명
-	                                <span class="cumu">(누적:286,474명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_769cc2a57c5c41cd992e704703bb41b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로커
-								
-									(Broker) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -199,18 +158,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                167,634,510원
-	                                <span class="cumu">(누적: 12,162,231,050원)</span>
+	                                59,960,340원
+	                                <span class="cumu">(누적: 12,222,191,390원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                15,702명
-	                                <span class="cumu">(누적:1,212,724명)</span>
+	                                5,916명
+	                                <span class="cumu">(누적:1,218,640명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/04/thumb_x110/thn_ada39d67c06740949aef3748818012fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쥬라기 월드: 도미니언
+								
+									(Jurassic World: Dominion) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">쥬라기 월드: 도미니언
+								<span class="en ellip">
+									(Jurassic World: Dominion)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                32,011,470원
+	                                <span class="cumu">(누적: 29,055,679,090원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                4,407명
+	                                <span class="cumu">(누적:2,817,294명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/05/thumb_x110/thn_caf1c106f06546e18c5714398a844e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭
@@ -625,8 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                438,673명
-	                                (누적:1,526,310명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                156,222명
+	                                (누적:1,682,532명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -639,8 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                144,555명
-	                                (누적:2,241,519명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                49,774명
+	                                (누적:2,291,293명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -653,8 +653,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                112,675명
-	                                (누적:12,044,414명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                47,533명
+	                                (누적:12,091,947명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
