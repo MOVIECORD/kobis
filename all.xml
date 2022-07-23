@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 15:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 16:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[미니언즈2
+            <title><![CDATA[외계+인 1부
 								
-									(Minions: The Rise of Gru) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Alienoid) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -21,49 +21,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">미니언즈2
-								<span class="en ellip">
-									(Minions: The Rise of Gru)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                2,526,390,385원
-	                                <span class="cumu">(누적: 5,787,023,602원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                251,941명
-	                                <span class="cumu">(누적:586,635명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_06b63ec1d5074fa797be6d5c8d268995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외계+인 1부
-								
-									(Alienoid) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,18 +35,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,715,229,993원
-	                                <span class="cumu">(누적: 6,989,688,072원)</span>
+	                                2,744,569,573원
+	                                <span class="cumu">(누적: 7,019,027,652원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                250,229명
-	                                <span class="cumu">(누적:662,999명)</span>
+	                                252,798명
+	                                <span class="cumu">(누적:665,568명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_0e608457d3974db08ad67b0adfeaa1ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미니언즈2
+								
+									(Minions: The Rise of Gru) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">미니언즈2
+								<span class="en ellip">
+									(Minions: The Rise of Gru)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                2,534,497,405원
+	                                <span class="cumu">(누적: 5,795,130,622원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                252,651명
+	                                <span class="cumu">(누적:587,345명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_06b63ec1d5074fa797be6d5c8d268995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탑건: 매버릭
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,939,442,354원
-	                                <span class="cumu">(누적: 67,594,384,812원)</span>
+	                                1,961,612,275원
+	                                <span class="cumu">(누적: 67,616,554,733원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                178,908명
-	                                <span class="cumu">(누적:6,320,514명)</span>
+	                                180,810명
+	                                <span class="cumu">(누적:6,322,416명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_fa28d4efd4ed492f86cd892ed31913e1.jpg" length="0" type="image/jpg"/>
@@ -158,15 +158,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                578,506,284원
-	                                <span class="cumu">(누적: 14,934,476,166원)</span>
+	                                586,281,603원
+	                                <span class="cumu">(누적: 14,942,251,485원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                52,258명
-	                                <span class="cumu">(누적:1,450,112명)</span>
+	                                52,914명
+	                                <span class="cumu">(누적:1,450,768명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_5960144d7fa64411bcdb59d84bc5e4fc.jpg" length="0" type="image/jpg"/>
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                307,103,096원
-	                                <span class="cumu">(누적: 28,815,448,418원)</span>
+	                                312,861,956원
+	                                <span class="cumu">(누적: 28,821,207,278원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                28,136명
-	                                <span class="cumu">(누적:2,650,897명)</span>
+	                                28,593명
+	                                <span class="cumu">(누적:2,651,354명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_8df29a68f31d4005b192d80449035c09.jpg" length="0" type="image/jpg"/>
@@ -625,22 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                251,941명
-	                                (누적:586,635명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[미니언즈2
-								<span class="en ellip">
-									(Minions: The Rise of Gru)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_06b63ec1d5074fa797be6d5c8d268995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                250,229명
-	                                (누적:662,999명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                252,798명
+	                                (누적:665,568명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -653,8 +639,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                178,908명
-	                                (누적:6,320,514명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                252,651명
+	                                (누적:587,345명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[미니언즈2
+								<span class="en ellip">
+									(Minions: The Rise of Gru)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_06b63ec1d5074fa797be6d5c8d268995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                180,810명
+	                                (누적:6,322,416명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
