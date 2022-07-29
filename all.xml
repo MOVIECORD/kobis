@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 01:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 03:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,393,367,176원
-	                                <span class="cumu">(누적: 5,843,479,422원)</span>
+	                                2,393,273,176원
+	                                <span class="cumu">(누적: 5,843,385,422원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                236,982명
-	                                <span class="cumu">(누적:638,093명)</span>
+	                                236,974명
+	                                <span class="cumu">(누적:638,085명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_6ecaea887d6242b3a27c11ce960ed45b.jpg" length="0" type="image/jpg"/>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                486,513,798원
-	                                <span class="cumu">(누적: 72,013,141,179원)</span>
+	                                486,487,798원
+	                                <span class="cumu">(누적: 72,013,109,179원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                47,336명
-	                                <span class="cumu">(누적:6,752,708명)</span>
+	                                47,334명
+	                                <span class="cumu">(누적:6,752,705명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_fa28d4efd4ed492f86cd892ed31913e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[외계+인 1부
+            <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험
 								
-									(Alienoid) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Pororo Movie_Dragon castle Adventure) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -144,8 +144,49 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>10</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">뽀로로 극장판 드래곤캐슬 대모험
+								<span class="en ellip">
+									(Pororo Movie_Dragon castle Adventure)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                369,439,150원
+	                                <span class="cumu">(누적: 382,408,150원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                40,703명
+	                                <span class="cumu">(누적:42,127명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_774598460f8a46caa7691e9b1398d718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외계+인 1부
+								
+									(Alienoid) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -170,47 +211,6 @@
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_0e608457d3974db08ad67b0adfeaa1ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험
-								
-									(Pororo Movie_Dragon castle Adventure) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>9</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">뽀로로 극장판 드래곤캐슬 대모험
-								<span class="en ellip">
-									(Pororo Movie_Dragon castle Adventure)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                320,232,350원
-	                                <span class="cumu">(누적: 333,133,350원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                34,831명
-	                                <span class="cumu">(누적:36,246명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_774598460f8a46caa7691e9b1398d718.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외계+인 1부
@@ -404,15 +404,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,940,007,412원
-	                                <span class="cumu">(누적: 29,107,133,312원)</span>
+	                                1,940,001,412원
+	                                <span class="cumu">(누적: 29,107,127,312원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                183,905명
-	                                <span class="cumu">(누적:2,677,728명)</span>
+	                                183,904명
+	                                <span class="cumu">(누적:2,677,727명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_8df29a68f31d4005b192d80449035c09.jpg" length="0" type="image/jpg"/>
@@ -609,15 +609,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                780,083,588원
-	                                <span class="cumu">(누적: 29,107,133,312원)</span>
+	                                780,077,588원
+	                                <span class="cumu">(누적: 29,107,127,312원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                71,908명
-	                                <span class="cumu">(누적:2,677,728명)</span>
+	                                71,907명
+	                                <span class="cumu">(누적:2,677,727명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_8df29a68f31d4005b192d80449035c09.jpg" length="0" type="image/jpg"/>
@@ -625,8 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                236,982명
-	                                (누적:638,093명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                236,974명
+	                                (누적:638,085명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -653,8 +653,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                47,336명
-	                                (누적:6,752,708명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                47,334명
+	                                (누적:6,752,705명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
