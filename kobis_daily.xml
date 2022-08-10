@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 21:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 22:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,8 +35,8 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,078,809,503원
-	                                <span class="cumu">(누적: 2,247,101,301원)</span>
+	                                2,078,807,503원
+	                                <span class="cumu">(누적: 2,247,099,301원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                501,127,347원
-	                                <span class="cumu">(누적: 16,399,623,050원)</span>
+	                                501,117,347원
+	                                <span class="cumu">(누적: 16,399,613,050원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                56,081명
-	                                <span class="cumu">(누적:1,635,333명)</span>
+	                                56,080명
+	                                <span class="cumu">(누적:1,635,332명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_6f31ed7a00b14700b7a1cf27297d6d94.jpg" length="0" type="image/jpg"/>
