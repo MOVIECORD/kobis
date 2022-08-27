@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 14:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 15:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                842,137,068원
-	                                <span class="cumu">(누적: 35,530,717,311원)</span>
+	                                1,652,097,203원
+	                                <span class="cumu">(누적: 37,182,814,514원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                80,156명
-	                                <span class="cumu">(누적:3,430,342명)</span>
+	                                156,098명
+	                                <span class="cumu">(누적:3,586,440명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_20e04b48d00f4f97913a1325d3eb37e2.jpg" length="0" type="image/jpg"/>
@@ -74,15 +74,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                691,436,933원
-	                                <span class="cumu">(누적: 1,901,755,534원)</span>
+	                                1,564,841,661원
+	                                <span class="cumu">(누적: 3,466,597,195원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                65,729명
-	                                <span class="cumu">(누적:189,214명)</span>
+	                                148,443명
+	                                <span class="cumu">(누적:337,657명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_3e132d2e189a40d294bfecaec6ec1f7f.jpg" length="0" type="image/jpg"/>
@@ -115,23 +115,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                332,714,919원
-	                                <span class="cumu">(누적: 70,366,050,888원)</span>
+	                                596,594,656원
+	                                <span class="cumu">(누적: 70,962,645,544원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                32,728명
-	                                <span class="cumu">(누적:6,880,111명)</span>
+	                                66,528명
+	                                <span class="cumu">(누적:6,946,639명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_6ecaea887d6242b3a27c11ce960ed45b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[불릿 트레인
+            <title><![CDATA[탑건: 매버릭
 								
-									(Bullet Train) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Top Gun: Maverick) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -142,49 +142,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">불릿 트레인
-								<span class="en ellip">
-									(Bullet Train)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                169,214,964원
-	                                <span class="cumu">(누적: 787,913,538원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                14,919명
-	                                <span class="cumu">(누적:71,636명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_0a3cc13e34be43fea9e18df76984d539.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탑건: 매버릭
-								
-									(Top Gun: Maverick) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -197,18 +156,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                148,508,716원
-	                                <span class="cumu">(누적: 84,768,395,792원)</span>
+	                                293,466,068원
+	                                <span class="cumu">(누적: 85,061,861,860원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                12,620명
-	                                <span class="cumu">(누적:7,926,058명)</span>
+	                                25,404명
+	                                <span class="cumu">(누적:7,951,462명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_fa28d4efd4ed492f86cd892ed31913e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불릿 트레인
+								
+									(Bullet Train) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">불릿 트레인
+								<span class="en ellip">
+									(Bullet Train)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                246,350,930원
+	                                <span class="cumu">(누적: 1,034,264,468원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                21,290명
+	                                <span class="cumu">(누적:92,926명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_0a3cc13e34be43fea9e18df76984d539.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌트
@@ -623,8 +623,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                80,156명
-	                                (누적:3,430,342명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                156,098명
+	                                (누적:3,586,440명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -637,8 +637,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                65,729명
-	                                (누적:189,214명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                148,443명
+	                                (누적:337,657명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -651,8 +651,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                32,728명
-	                                (누적:6,880,111명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                66,545명
+	                                (누적:6,946,656명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
