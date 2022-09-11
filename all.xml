@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                7,582,115,338원
-	                                <span class="cumu">(누적: 18,110,111,149원)</span>
+	                                8,840,560,864원
+	                                <span class="cumu">(누적: 26,950,672,013원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                713,399명
-	                                <span class="cumu">(누적:1,758,689명)</span>
+	                                840,643명
+	                                <span class="cumu">(누적:2,599,332명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_c43e85bfb89643a2ba7200bfb981a8b2.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,144,816,063원
-	                                <span class="cumu">(누적: 14,593,886,952원)</span>
+	                                1,207,999,936원
+	                                <span class="cumu">(누적: 15,801,886,888원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                109,141명
-	                                <span class="cumu">(누적:1,449,499명)</span>
+	                                116,818명
+	                                <span class="cumu">(누적:1,566,317명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_3e132d2e189a40d294bfecaec6ec1f7f.jpg" length="0" type="image/jpg"/>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                279,295,820원
-	                                <span class="cumu">(누적: 43,561,509,612원)</span>
+	                                272,993,592원
+	                                <span class="cumu">(누적: 43,834,503,204원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                31,320명
-	                                <span class="cumu">(누적:4,232,863명)</span>
+	                                30,828명
+	                                <span class="cumu">(누적:4,263,691명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_20e04b48d00f4f97913a1325d3eb37e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한산: 용의 출현
+            <title><![CDATA[극장판 엄마 까투리: 도시로 간 까투리 가족
 								
-									(Hansan: Rising Dragon) (KOBIS ─ 일별 박스오피스)]]></title>
+									(KATURI the Movie: The Big City Adventure) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -144,7 +144,48 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">극장판 엄마 까투리: 도시로 간 까투리 가족
+								<span class="en ellip">
+									(KATURI the Movie: The Big City Adventure)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                210,178,112원
+	                                <span class="cumu">(누적: 576,949,401원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                21,676명
+	                                <span class="cumu">(누적:61,233명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_4903fa6dcaa54988a56621a0cbdb7d10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한산: 용의 출현
+								
+									(Hansan: Rising Dragon) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
 	                            	
 	                            	
 	                            
@@ -158,64 +199,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                149,200,618원
-	                                <span class="cumu">(누적: 73,248,739,399원)</span>
+	                                136,871,994원
+	                                <span class="cumu">(누적: 73,385,611,393원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                16,671명
-	                                <span class="cumu">(누적:7,210,404명)</span>
+	                                15,424명
+	                                <span class="cumu">(누적:7,225,828명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_6ecaea887d6242b3a27c11ce960ed45b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탑건: 매버릭
-								
-									(Top Gun: Maverick) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">탑건: 매버릭
-								<span class="en ellip">
-									(Top Gun: Maverick)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                200,445,592원
-	                                <span class="cumu">(누적: 87,043,269,010원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                14,762명
-	                                <span class="cumu">(누적:8,112,648명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_fa28d4efd4ed492f86cd892ed31913e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육사오(6/45)
+            <title><![CDATA[공조2: 인터내셔날
 	                        	
-									(6/45) (KOBIS ─ 주간 박스오피스)]]></title>
+									(Confidential Assignment2: International) (KOBIS ─ 주간 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -226,7 +226,48 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>15</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">공조2: 인터내셔날
+	                        	<span class="en ellip">
+									(Confidential Assignment2: International)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                26,887,917,013원
+	                                <span class="cumu">(누적: 26,950,672,013원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                2,592,647명
+	                                <span class="cumu">(누적:2,599,332명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_c43e85bfb89643a2ba7200bfb981a8b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[육사오(6/45)
+	                        	
+									(6/45) (KOBIS ─ 주간 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
 	                            	
 	                            	
 	                            
@@ -240,15 +281,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                6,462,322,860원
-	                                <span class="cumu">(누적: 11,414,218,141원)</span>
+	                                4,387,668,747원
+	                                <span class="cumu">(누적: 15,801,886,888원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                655,498명
-	                                <span class="cumu">(누적:1,134,781명)</span>
+	                                431,536명
+	                                <span class="cumu">(누적:1,566,317명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_3e132d2e189a40d294bfecaec6ec1f7f.jpg" length="0" type="image/jpg"/>
@@ -261,7 +302,7 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
@@ -281,15 +322,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                3,901,751,139원
-	                                <span class="cumu">(누적: 42,493,350,076원)</span>
+	                                1,341,153,128원
+	                                <span class="cumu">(누적: 43,834,503,204원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                396,544명
-	                                <span class="cumu">(누적:4,116,620명)</span>
+	                                147,071명
+	                                <span class="cumu">(누적:4,263,691명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_20e04b48d00f4f97913a1325d3eb37e2.jpg" length="0" type="image/jpg"/>
@@ -302,14 +343,14 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -322,101 +363,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,326,455,046원
-	                                <span class="cumu">(누적: 72,808,685,622원)</span>
+	                                576,925,771원
+	                                <span class="cumu">(누적: 73,385,611,393원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                154,710명
-	                                <span class="cumu">(누적:7,159,653명)</span>
+	                                66,175명
+	                                <span class="cumu">(누적:7,225,828명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_6ecaea887d6242b3a27c11ce960ed45b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탑건: 매버릭
+            <title><![CDATA[극장판 엄마 까투리: 도시로 간 까투리 가족
 	                        	
-									(Top Gun: Maverick) (KOBIS ─ 주간 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">탑건: 매버릭
-	                        	<span class="en ellip">
-									(Top Gun: Maverick)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                1,106,012,039원
-	                                <span class="cumu">(누적: 86,426,094,308원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                91,881명
-	                                <span class="cumu">(누적:8,065,878명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_fa28d4efd4ed492f86cd892ed31913e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리미트
-	                        	
-									(Limit) (KOBIS ─ 주간 박스오피스)]]></title>
+									(KATURI the Movie: The Big City Adventure) (KOBIS ─ 주간 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>47</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">리미트
+	                        <strong class="tit ellip">극장판 엄마 까투리: 도시로 간 까투리 가족
 	                        	<span class="en ellip">
-									(Limit)	                        	
+									(KATURI the Movie: The Big City Adventure)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                532,407,703원
-	                                <span class="cumu">(누적: 550,843,703원)</span>
+	                                571,363,401원
+	                                <span class="cumu">(누적: 576,949,401원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                56,935명
-	                                <span class="cumu">(누적:58,956명)</span>
+	                                60,435명
+	                                <span class="cumu">(누적:61,233명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_a551539fd2d44233b1e33b3a898990e1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_4903fa6dcaa54988a56621a0cbdb7d10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[육사오(6/45)
+            <title><![CDATA[공조2: 인터내셔날
 	                        	
-									(6/45) (KOBIS ─ 주말 박스오피스)]]></title>
+									(Confidential Assignment2: International) (KOBIS ─ 주말 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -427,7 +431,48 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>19</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">공조2: 인터내셔날
+	                        	<span class="en ellip">
+									(Confidential Assignment2: International)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                21,948,604,455원
+	                                <span class="cumu">(누적: 26,950,651,013원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                2,086,803명
+	                                <span class="cumu">(누적:2,599,329명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_c43e85bfb89643a2ba7200bfb981a8b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[육사오(6/45)
+	                        	
+									(6/45) (KOBIS ─ 주말 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
 	                            	
 	                            	
 	                            
@@ -441,15 +486,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                4,181,887,635원
-	                                <span class="cumu">(누적: 11,414,218,141원)</span>
+	                                3,133,465,826원
+	                                <span class="cumu">(누적: 15,801,886,888원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                406,991명
-	                                <span class="cumu">(누적:1,134,781명)</span>
+	                                302,833명
+	                                <span class="cumu">(누적:1,566,317명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_3e132d2e189a40d294bfecaec6ec1f7f.jpg" length="0" type="image/jpg"/>
@@ -462,7 +507,7 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
@@ -482,18 +527,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,139,826,215원
-	                                <span class="cumu">(누적: 42,493,350,076원)</span>
+	                                762,083,229원
+	                                <span class="cumu">(누적: 43,834,503,204원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                203,503명
-	                                <span class="cumu">(누적:4,116,620명)</span>
+	                                85,706명
+	                                <span class="cumu">(누적:4,263,691명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_20e04b48d00f4f97913a1325d3eb37e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 엄마 까투리: 도시로 간 까투리 가족
+	                        	
+									(KATURI the Movie: The Big City Adventure) (KOBIS ─ 주말 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">극장판 엄마 까투리: 도시로 간 까투리 가족
+	                        	<span class="en ellip">
+									(KATURI the Movie: The Big City Adventure)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                525,414,302원
+	                                <span class="cumu">(누적: 576,949,401원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                54,843명
+	                                <span class="cumu">(누적:61,233명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_4903fa6dcaa54988a56621a0cbdb7d10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한산: 용의 출현
@@ -503,14 +585,14 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -523,102 +605,24 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                682,090,708원
-	                                <span class="cumu">(누적: 72,808,685,622원)</span>
+	                                386,724,708원
+	                                <span class="cumu">(누적: 73,385,611,393원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                77,003명
-	                                <span class="cumu">(누적:7,159,653명)</span>
+	                                43,566명
+	                                <span class="cumu">(누적:7,225,828명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/07/thumb_x110/thn_6ecaea887d6242b3a27c11ce960ed45b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탑건: 매버릭
-	                        	
-									(Top Gun: Maverick) (KOBIS ─ 주말 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">탑건: 매버릭
-	                        	<span class="en ellip">
-									(Top Gun: Maverick)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                692,387,554원
-	                                <span class="cumu">(누적: 86,426,094,308원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                54,040명
-	                                <span class="cumu">(누적:8,065,878명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/06/thumb_x110/thn_fa28d4efd4ed492f86cd892ed31913e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리미트
-	                        	
-									(Limit) (KOBIS ─ 주말 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">리미트
-	                        	<span class="en ellip">
-									(Limit)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                282,714,184원
-	                                <span class="cumu">(누적: 550,843,703원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                27,490명
-	                                <span class="cumu">(누적:58,956명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_a551539fd2d44233b1e33b3a898990e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[관객 수
 	                            
-	                                713,399명
-	                                (누적:1,758,689명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                840,631명
+	                                (누적:2,599,320명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -631,8 +635,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                109,141명
-	                                (누적:1,449,499명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                116,816명
+	                                (누적:1,566,315명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
@@ -645,8 +649,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                31,320명
-	                                (누적:4,232,863명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                30,826명
+	                                (누적:4,263,689명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 24 Feb 2022 04:14:26 GMT</pubDate>
