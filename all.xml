@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 19:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 20:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                67,025명
-	                                (누적:324,785명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                37,196명
+	                                (누적:112,996명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 25 Sep 2022 19:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[늑대사냥
+            <content:encoded><![CDATA[아바타 리마스터링
 								<span class="en ellip">
-									(Project Wolf Hunting)	                        	
+									(Avatar)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_c7897c4193db47d8ae67f0c2810bc310.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_12d63e6e9715484788b7ebb5d8a771fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
