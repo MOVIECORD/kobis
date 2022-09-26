@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/kobis/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-26T01:19:55.605Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Sep 2022 04:23:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                37,193명
+	                                (누적:112,994명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 26 Sep 2022 04:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[아바타 리마스터링
+								<span class="en ellip">
+									(Avatar)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_12d63e6e9715484788b7ebb5d8a771fc.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
