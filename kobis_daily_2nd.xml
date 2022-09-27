@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
-    <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
-    <updated>2022-09-27T10:19:22.688Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Sep 2022 11:15:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                23,070명
+	                                (누적:347,873명)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 27 Sep 2022 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[늑대사냥
+								<span class="en ellip">
+									(Project Wolf Hunting)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_c7897c4193db47d8ae67f0c2810bc310.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
