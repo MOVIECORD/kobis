@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 01:18:08 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                49,650명
-	                                (누적:327,430명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 09 Oct 2022 01:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교
-								<span class="en ellip">
-									(Crayon Shin-chan: School Mystery! The Splendid Tenkasu Academy)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_9f0a6c11d44348d8b5dc432d031fe5ce.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MOVIECORD.github.io/kobis/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-10-09T04:02:46.289Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+</feed>
