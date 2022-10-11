@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 08:25:38 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                69,053명
-	                                (누적:649,785명)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 11 Oct 2022 08:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[인생은 아름다워
-								<span class="en ellip">
-									(Life is Beautiful)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3a42c34d2c72428d849f8f485f1e791a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
+    <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
+    <updated>2022-10-11T09:22:27.565Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
+</feed>
