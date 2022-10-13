@@ -1,8 +1,216 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
-    <title>KOBIS ─ 일별 박스오피스</title>
-    <updated>2022-10-13T15:19:05.652Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KOBIS ─ 일별 박스오피스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Oct 2022 16:24:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인생은 아름다워
+								
+									(Life is Beautiful)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 13 Oct 2022 16:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">1</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">인생은 아름다워
+								<span class="en ellip">
+									(Life is Beautiful)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                179,792,740원
+	                                <span class="cumu">(누적: 6,727,817,351원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                20,257명
+	                                <span class="cumu">(누적:705,590명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3a42c34d2c72428d849f8f485f1e791a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공조2: 인터내셔날
+								
+									(Confidential Assignment2: International)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 13 Oct 2022 16:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">공조2: 인터내셔날
+								<span class="en ellip">
+									(Confidential Assignment2: International)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                146,070,664원
+	                                <span class="cumu">(누적: 68,294,201,160원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                17,553명
+	                                <span class="cumu">(누적:6,660,168명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_c43e85bfb89643a2ba7200bfb981a8b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오펀: 천사의 탄생
+								
+									(Orphan: First Kill)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 13 Oct 2022 16:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">오펀: 천사의 탄생
+								<span class="en ellip">
+									(Orphan: First Kill)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                120,125,751원
+	                                <span class="cumu">(누적: 288,917,209원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                12,177명
+	                                <span class="cumu">(누적:29,704명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3965b4ace04444728dfe34d87bf2049c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정직한 후보2
+								
+									(Honest Candidate 2)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 13 Oct 2022 16:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">정직한 후보2
+								<span class="en ellip">
+									(Honest Candidate 2)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                94,062,996원
+	                                <span class="cumu">(누적: 7,393,621,779원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                10,844명
+	                                <span class="cumu">(누적:776,764명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_d427a7ff2a66428cb8821764588a9690.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대무가
+								
+									(DAEMUGA)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 13 Oct 2022 16:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">대무가
+								<span class="en ellip">
+									(DAEMUGA)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                62,125,510원
+	                                <span class="cumu">(누적: 163,497,644원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                6,627명
+	                                <span class="cumu">(누적:17,274명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_1802171884c345698dd44171e0cf4e03.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
