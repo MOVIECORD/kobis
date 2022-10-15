@@ -1,8 +1,212 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.kobis.or.kr/kobis/mobile/main/findWeeklyBoxOfficeList.do?sWeekGb=1</id>
-    <title>KOBIS ─ 주말 박스오피스</title>
-    <updated>2022-10-15T10:16:35.627Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KOBIS ─ 주말 박스오피스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Oct 2022 11:13:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공조2: 인터내셔날
+	                        	
+									(Confidential Assignment2: International)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Oct 2022 11:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">1</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">공조2: 인터내셔날
+	                        	<span class="en ellip">
+									(Confidential Assignment2: International)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                2,332,346,107원
+	                                <span class="cumu">(누적: 66,981,036,921원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                223,653명
+	                                <span class="cumu">(누적:6,525,743명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_c43e85bfb89643a2ba7200bfb981a8b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인생은 아름다워
+	                        	
+									(Life is Beautiful)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Oct 2022 11:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">인생은 아름다워
+	                        	<span class="en ellip">
+									(Life is Beautiful)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,591,119,394원
+	                                <span class="cumu">(누적: 5,578,206,979원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                168,233명
+	                                <span class="cumu">(누적:580,721명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3a42c34d2c72428d849f8f485f1e791a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정직한 후보2
+	                        	
+									(Honest Candidate 2)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Oct 2022 11:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">정직한 후보2
+	                        	<span class="en ellip">
+									(Honest Candidate 2)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,205,911,618원
+	                                <span class="cumu">(누적: 6,684,868,504원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                135,858명
+	                                <span class="cumu">(누적:695,472명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_d427a7ff2a66428cb8821764588a9690.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교
+	                        	
+									(Crayon Shin-chan: School Mystery! The Splendid Tenkasu Academy)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Oct 2022 11:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교
+	                        	<span class="en ellip">
+									(Crayon Shin-chan: School Mystery! The Splendid Tenkasu Academy)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,301,470,109원
+	                                <span class="cumu">(누적: 3,893,036,107원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                128,158명
+	                                <span class="cumu">(누적:389,228명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_9f0a6c11d44348d8b5dc432d031fe5ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마일
+	                        	
+									(Smile)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Oct 2022 11:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">스마일
+	                        	<span class="en ellip">
+									(Smile)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                432,501,968원
+	                                <span class="cumu">(누적: 528,985,088원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                39,244명
+	                                <span class="cumu">(누적:48,921명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_10f3cb26b4584672875b8aa989fb7567.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
