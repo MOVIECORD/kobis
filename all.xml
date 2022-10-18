@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 13:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 14:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,20 +211,6 @@
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3965b4ace04444728dfe34d87bf2049c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                8,211명
-	                                (누적:58,092명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 18 Oct 2022 12:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[에브리씽 에브리웨어 올 앳 원스
-								<span class="en ellip">
-									(Everything Everywhere All At Once)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_b645f75382984dabba60da207ecf1bde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
