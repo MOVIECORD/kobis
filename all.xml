@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 18:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 19:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                67,561명
-	                                (누적:68,809명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                10,925명
+	                                (누적:6,813,237명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 19 Oct 2022 18:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[블랙 아담
+            <content:encoded><![CDATA[공조2: 인터내셔날
 								<span class="en ellip">
-									(Black Adam)	                        	
+									(Confidential Assignment2: International)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_7a1cd13a4ee8458cbf4be16f961319db.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/08/thumb_x110/thn_c43e85bfb89643a2ba7200bfb981a8b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
