@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 14:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 15:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,20 +207,6 @@
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_b645f75382984dabba60da207ecf1bde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                12,405명
-	                                (누적:993,301명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 25 Oct 2022 14:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[인생은 아름다워
-								<span class="en ellip">
-									(Life is Beautiful)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3a42c34d2c72428d849f8f485f1e791a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
