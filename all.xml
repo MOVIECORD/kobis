@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 16:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 17:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,15 +31,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                376,829,807원
-	                                <span class="cumu">(누적: 594,956,352원)</span>
+	                                376,840,807원
+	                                <span class="cumu">(누적: 594,967,352원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                47,419명
-	                                <span class="cumu">(누적:69,702명)</span>
+	                                47,420명
+	                                <span class="cumu">(누적:69,703명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_5227cebd5c024c179c3b5422a350115c.jpg" length="0" type="image/jpg"/>
@@ -207,6 +207,20 @@
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_b645f75382984dabba60da207ecf1bde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                47,420명
+	                                (누적:69,703명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 26 Oct 2022 16:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[리멤버
+								<span class="en ellip">
+									(REMEMBER)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_5227cebd5c024c179c3b5422a350115c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
