@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 03 Nov 2022 10:16:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                13,441명
-	                                (누적:286,007명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 03 Nov 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[리멤버
-								<span class="en ellip">
-									(REMEMBER)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_e15920079867451ea5fc467074d8d172.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MOVIECORD.github.io/kobis/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-11-03T11:13:26.335Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+</feed>
