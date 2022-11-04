@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 03:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 04:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[자백
-	                        	
-									(Confession) (KOBIS ─ 주간 박스오피스)]]></title>
+								
+									(Confession) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 04 Nov 2022 03:40:18 GMT</pubDate>
@@ -21,37 +21,37 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>15</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
 	                        <strong class="tit ellip">자백
-	                        	<span class="en ellip">
+								<span class="en ellip">
 									(Confession)	                        	
-								</span>
+								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,436,977,357원
-	                                <span class="cumu">(누적: 2,488,547,649원)</span>
+	                                247,971,018원
+	                                <span class="cumu">(누적: 3,550,702,105원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                248,023명
-	                                <span class="cumu">(누적:253,000명)</span>
+	                                25,514명
+	                                <span class="cumu">(누적:363,738명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_b43a0f73176445cba04b8c596da187af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙 아담
-	                        	
-									(Black Adam) (KOBIS ─ 주간 박스오피스)]]></title>
+            <title><![CDATA[리멤버
+								
+									(REMEMBER) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 04 Nov 2022 03:40:18 GMT</pubDate>
@@ -60,39 +60,39 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">블랙 아담
-	                        	<span class="en ellip">
-									(Black Adam)	                        	
-								</span>
+	                        <strong class="tit ellip">리멤버
+								<span class="en ellip">
+									(REMEMBER)	                        	
+								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,229,297,833원
-	                                <span class="cumu">(누적: 6,720,906,455원)</span>
+	                                107,955,724원
+	                                <span class="cumu">(누적: 2,862,763,506원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                220,954명
-	                                <span class="cumu">(누적:648,918명)</span>
+	                                11,394명
+	                                <span class="cumu">(누적:297,401명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_7a1cd13a4ee8458cbf4be16f961319db.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_e15920079867451ea5fc467074d8d172.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리멤버
-	                        	
-									(REMEMBER) (KOBIS ─ 주간 박스오피스)]]></title>
+            <title><![CDATA[블랙 아담
+								
+									(Black Adam) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 04 Nov 2022 03:40:18 GMT</pubDate>
@@ -103,37 +103,37 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>9</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">리멤버
-	                        	<span class="en ellip">
-									(REMEMBER)	                        	
-								</span>
+	                        <strong class="tit ellip">블랙 아담
+								<span class="en ellip">
+									(Black Adam)	                        	
+								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,095,388,767원
-	                                <span class="cumu">(누적: 2,313,515,312원)</span>
+	                                87,997,463원
+	                                <span class="cumu">(누적: 7,130,604,080원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                217,063명
-	                                <span class="cumu">(누적:239,346명)</span>
+	                                9,043명
+	                                <span class="cumu">(누적:691,049명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_e15920079867451ea5fc467074d8d172.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_7a1cd13a4ee8458cbf4be16f961319db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인생은 아름다워
-	                        	
-									(Life is Beautiful) (KOBIS ─ 주간 박스오피스)]]></title>
+            <title><![CDATA[에브리씽 에브리웨어 올 앳 원스
+								
+									(Everything Everywhere All At Once) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 04 Nov 2022 03:40:18 GMT</pubDate>
@@ -142,39 +142,39 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">인생은 아름다워
-	                        	<span class="en ellip">
-									(Life is Beautiful)	                        	
-								</span>
+	                        <strong class="tit ellip">에브리씽 에브리웨어 올 앳 원스
+								<span class="en ellip">
+									(Everything Everywhere All At Once)	                        	
+								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                760,982,444원
-	                                <span class="cumu">(누적: 9,992,762,443원)</span>
+	                                52,962,569원
+	                                <span class="cumu">(누적: 2,151,400,691원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                86,217명
-	                                <span class="cumu">(누적:1,067,108명)</span>
+	                                5,232명
+	                                <span class="cumu">(누적:200,904명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3a42c34d2c72428d849f8f485f1e791a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_b645f75382984dabba60da207ecf1bde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에브리씽 에브리웨어 올 앳 원스
-	                        	
-									(Everything Everywhere All At Once) (KOBIS ─ 주간 박스오피스)]]></title>
+            <title><![CDATA[인생은 아름다워
+								
+									(Life is Beautiful) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 04 Nov 2022 03:40:18 GMT</pubDate>
@@ -191,26 +191,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">에브리씽 에브리웨어 올 앳 원스
-	                        	<span class="en ellip">
-									(Everything Everywhere All At Once)	                        	
-								</span>
+	                        <strong class="tit ellip">인생은 아름다워
+								<span class="en ellip">
+									(Life is Beautiful)	                        	
+								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                692,369,893원
-	                                <span class="cumu">(누적: 1,913,045,355원)</span>
+	                                40,173,287원
+	                                <span class="cumu">(누적: 10,193,501,490원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                63,501명
-	                                <span class="cumu">(누적:178,004명)</span>
+	                                4,539명
+	                                <span class="cumu">(누적:1,090,453명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_b645f75382984dabba60da207ecf1bde.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3a42c34d2c72428d849f8f485f1e791a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
