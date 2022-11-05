@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 10:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 11:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                152,889,069원
-	                                <span class="cumu">(누적: 3,015,652,575원)</span>
+	                                152,865,069원
+	                                <span class="cumu">(누적: 3,015,628,575원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                15,500명
-	                                <span class="cumu">(누적:312,901명)</span>
+	                                15,498명
+	                                <span class="cumu">(누적:312,899명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_e15920079867451ea5fc467074d8d172.jpg" length="0" type="image/jpg"/>
@@ -211,6 +211,20 @@
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/09/thumb_x110/thn_3a42c34d2c72428d849f8f485f1e791a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                35,360명
+	                                (누적:399,095명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 05 Nov 2022 04:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[자백
+								<span class="en ellip">
+									(Confession)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_b43a0f73176445cba04b8c596da187af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
