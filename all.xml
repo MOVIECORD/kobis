@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 15:15:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                63,416명
-	                                (누적:1,223,666명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 15 Nov 2022 12:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[블랙 팬서: 와칸다 포에버
-								<span class="en ellip">
-									(Black Panther: Wakanda Forever)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_5fc3cbc27da64a1983c9abc90599d185.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MOVIECORD.github.io/kobis/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-11-15T16:20:11.485Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+</feed>
