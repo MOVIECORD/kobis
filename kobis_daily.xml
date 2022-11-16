@@ -1,8 +1,206 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
-    <title>KOBIS ─ 일별 박스오피스</title>
-    <updated>2022-11-16T14:14:53.278Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KOBIS ─ 일별 박스오피스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 15:17:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데시벨
+								
+									(Decibel)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">1</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>6</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">데시벨
+								<span class="en ellip">
+									(Decibel)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                650,907,615원
+	                                <span class="cumu">(누적: 765,169,612원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                68,399명
+	                                <span class="cumu">(누적:80,020명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_f05bd85b36414a6fa0b27c359c738a10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙 팬서: 와칸다 포에버
+								
+									(Black Panther: Wakanda Forever)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">블랙 팬서: 와칸다 포에버
+								<span class="en ellip">
+									(Black Panther: Wakanda Forever)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                668,750,036원
+	                                <span class="cumu">(누적: 13,717,704,689원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                62,984명
+	                                <span class="cumu">(누적:1,286,827명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_5fc3cbc27da64a1983c9abc90599d185.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동감
+								
+									(Ditto)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">동감
+								<span class="en ellip">
+									(Ditto)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                539,131,218원
+	                                <span class="cumu">(누적: 652,829,218원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                56,646명
+	                                <span class="cumu">(누적:69,216명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_31d949deb7a1403f81af7a549757eddb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴: 600미터
+								
+									(The Fall)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">폴: 600미터
+								<span class="en ellip">
+									(The Fall)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                81,773,116원
+	                                <span class="cumu">(누적: 102,549,116원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                8,363명
+	                                <span class="cumu">(누적:10,249명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_6e3b8a87bb054e5faf8ac77306c6bcdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올빼미]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">올빼미
+								<span class="en ellip">
+									&nbsp;	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                35,910,000원
+	                                <span class="cumu">(누적: 51,983,000원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                3,990명
+	                                <span class="cumu">(누적:5,767명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_d012a9945f4f407cbdc0b3e138ee9bf3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
