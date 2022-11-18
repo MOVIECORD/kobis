@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,8 +35,8 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                693,316,554원
-	                                <span class="cumu">(누적: 14,411,791,723원)</span>
+	                                693,308,554원
+	                                <span class="cumu">(누적: 14,411,783,723원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                33,380,094원
-	                                <span class="cumu">(누적: 7,086,271,238원)</span>
+	                                33,344,094원
+	                                <span class="cumu">(누적: 7,086,235,238원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,481명
-	                                <span class="cumu">(누적:710,969명)</span>
+	                                3,478명
+	                                <span class="cumu">(누적:710,966명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_b43a0f73176445cba04b8c596da187af.jpg" length="0" type="image/jpg"/>
