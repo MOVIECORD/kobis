@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 14:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 15:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,419,570,790원
-	                                <span class="cumu">(누적: 15,037,303,835원)</span>
+	                                2,274,718,350원
+	                                <span class="cumu">(누적: 17,312,022,185원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                235,139명
-	                                <span class="cumu">(누적:1,541,539명)</span>
+	                                222,076명
+	                                <span class="cumu">(누적:1,763,615명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_5a155610a51a4c0087c5e421110484ea.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                894,422,727원
-	                                <span class="cumu">(누적: 2,605,589,298원)</span>
+	                                858,129,872원
+	                                <span class="cumu">(누적: 3,463,719,170원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                86,771명
-	                                <span class="cumu">(누적:281,876명)</span>
+	                                82,632명
+	                                <span class="cumu">(누적:364,508명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_ae69c79963c64a358013ccb42299a143.jpg" length="0" type="image/jpg"/>
@@ -101,8 +101,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>8</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -115,23 +115,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                308,347,900원
-	                                <span class="cumu">(누적: 381,757,500원)</span>
+	                                325,569,800원
+	                                <span class="cumu">(누적: 707,327,300원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                33,649명
-	                                <span class="cumu">(누적:42,288명)</span>
+	                                35,388명
+	                                <span class="cumu">(누적:77,676명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_54ad66447a7c415a83a9ec985cf07c21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원피스 필름 레드
+            <title><![CDATA[탄생
 								
-									(One Piece Film Red)]]></title>
+									(A Birth)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -142,48 +142,7 @@
 	                            
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">원피스 필름 레드
-								<span class="en ellip">
-									(One Piece Film Red)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                339,628,280원
-	                                <span class="cumu">(누적: 1,022,317,757원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                29,582명
-	                                <span class="cumu">(누적:95,497명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_cdd0366e4252421fa591d88de72b1e27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄생
-								
-									(A Birth)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
-	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
@@ -197,18 +156,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                242,916,749원
-	                                <span class="cumu">(누적: 735,925,366원)</span>
+	                                308,676,493원
+	                                <span class="cumu">(누적: 1,044,601,859원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                26,278명
-	                                <span class="cumu">(누적:86,523명)</span>
+	                                33,660명
+	                                <span class="cumu">(누적:120,183명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_fba1cf2f7d6f4fb59ff100c226fde9e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원피스 필름 레드
+								
+									(One Piece Film Red)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">원피스 필름 레드
+								<span class="en ellip">
+									(One Piece Film Red)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                263,314,926원
+	                                <span class="cumu">(누적: 1,285,632,683원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                23,528명
+	                                <span class="cumu">(누적:119,025명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_cdd0366e4252421fa591d88de72b1e27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
