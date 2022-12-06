@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 15:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 16:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                644,320,442원
-	                                <span class="cumu">(누적: 18,608,955,441원)</span>
+	                                644,671,442원
+	                                <span class="cumu">(누적: 18,609,306,441원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                68,683명
-	                                <span class="cumu">(누적:1,901,190명)</span>
+	                                68,714명
+	                                <span class="cumu">(누적:1,901,221명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_5a155610a51a4c0087c5e421110484ea.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                223,412,046원
-	                                <span class="cumu">(누적: 3,914,030,023원)</span>
+	                                223,510,046원
+	                                <span class="cumu">(누적: 3,914,128,023원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                24,316명
-	                                <span class="cumu">(누적:413,272명)</span>
+	                                24,323명
+	                                <span class="cumu">(누적:413,279명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_f64ec788e98f4edd979d0b257a57446e.jpg" length="0" type="image/jpg"/>
@@ -158,23 +158,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                80,916,566원
-	                                <span class="cumu">(누적: 700,499,517원)</span>
+	                                81,800,566원
+	                                <span class="cumu">(누적: 701,383,517원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,578명
-	                                <span class="cumu">(누적:71,639명)</span>
+	                                8,740명
+	                                <span class="cumu">(누적:71,801명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_c8d3fa881a854254842f9e63ca69b3e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원피스 필름 레드
+            <title><![CDATA[데시벨
 								
-									(One Piece Film Red)]]></title>
+									(Decibel)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -185,32 +185,32 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">원피스 필름 레드
+	                        <strong class="tit ellip">데시벨
 								<span class="en ellip">
-									(One Piece Film Red)	                        	
+									(Decibel)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                52,566,262원
-	                                <span class="cumu">(누적: 1,399,158,806원)</span>
+	                                37,613,213원
+	                                <span class="cumu">(누적: 8,641,697,662원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,665명
-	                                <span class="cumu">(누적:129,070명)</span>
+	                                4,751명
+	                                <span class="cumu">(누적:877,597명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/10/thumb_x110/thn_cdd0366e4252421fa591d88de72b1e27.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_f05bd85b36414a6fa0b27c359c738a10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
