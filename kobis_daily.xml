@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 11:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 12:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,8 +35,8 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                717,205,845원
-	                                <span class="cumu">(누적: 20,032,283,028원)</span>
+	                                717,187,845원
+	                                <span class="cumu">(누적: 20,032,265,028원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                221,500,931원
-	                                <span class="cumu">(누적: 4,347,606,312원)</span>
+	                                221,495,931원
+	                                <span class="cumu">(누적: 4,347,601,312원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                25,208명
-	                                <span class="cumu">(누적:461,818명)</span>
+	                                25,207명
+	                                <span class="cumu">(누적:461,817명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_f64ec788e98f4edd979d0b257a57446e.jpg" length="0" type="image/jpg"/>
