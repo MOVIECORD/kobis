@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 06:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 07:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,8 +76,8 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                745,777,128원
-	                                <span class="cumu">(누적: 9,564,347,044원)</span>
+	                                745,768,128원
+	                                <span class="cumu">(누적: 9,564,338,044원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
