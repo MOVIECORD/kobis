@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 07:11:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                101,622명
-	                                (누적:1,069,133명)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[영웅
-								<span class="en ellip">
-									(Hero)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_13760668f5644b739d29dd80d4b00ad8.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
+    <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
+    <updated>2022-12-29T08:16:30.515Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
+</feed>
