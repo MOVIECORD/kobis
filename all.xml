@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 00:58:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,220,540,836원
-	                                <span class="cumu">(누적: 100,407,625,775원)</span>
+	                                1,220,516,836원
+	                                <span class="cumu">(누적: 100,407,601,775원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                91,611명
-	                                <span class="cumu">(누적:8,093,547명)</span>
+	                                91,609명
+	                                <span class="cumu">(누적:8,093,545명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_87e132235b634767b9c22e8483cfbba7.jpg" length="0" type="image/jpg"/>
@@ -613,8 +613,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                91,611명
-	                                (누적:8,093,547명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                91,609명
+	                                (누적:8,093,545명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
