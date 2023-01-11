@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주간 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 04:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 05:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                4,300,537,678원
-	                                <span class="cumu">(누적: 4,358,315,678원)</span>
+	                                4,300,529,678원
+	                                <span class="cumu">(누적: 4,358,307,678원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                414,486명
-	                                <span class="cumu">(누적:420,121명)</span>
+	                                414,485명
+	                                <span class="cumu">(누적:420,120명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
@@ -210,7 +210,7 @@
 	                                <span class="cumu">(누적:224,865명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_c39aadad191b485899c943a11a1d6c94.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_61c9080afa464dadb22d6a46730cfefd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
