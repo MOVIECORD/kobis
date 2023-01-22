@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 14:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 15:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,705,140,218원
-	                                <span class="cumu">(누적: 4,310,740,172원)</span>
+	                                2,448,872,334원
+	                                <span class="cumu">(누적: 6,759,612,506원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                163,185명
-	                                <span class="cumu">(누적:428,648명)</span>
+	                                229,953명
+	                                <span class="cumu">(누적:658,601명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_115acdd9e2844399b21c49e67718919c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 퍼스트 슬램덩크
+            <title><![CDATA[아바타: 물의 길
 								
-									(The First Slam Dunk)]]></title>
+									(Avatar: The Way of Water)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
@@ -62,49 +62,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">더 퍼스트 슬램덩크
-								<span class="en ellip">
-									(The First Slam Dunk)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                1,095,030,559원
-	                                <span class="cumu">(누적: 13,039,276,810원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                102,659명
-	                                <span class="cumu">(누적:1,259,981명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아바타: 물의 길
-								
-									(Avatar: The Way of Water)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,18 +76,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,291,148,442원
-	                                <span class="cumu">(누적: 122,508,143,265원)</span>
+	                                1,641,372,666원
+	                                <span class="cumu">(누적: 124,149,515,931원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                90,918명
-	                                <span class="cumu">(누적:9,705,861명)</span>
+	                                115,639명
+	                                <span class="cumu">(누적:9,821,500명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_87e132235b634767b9c22e8483cfbba7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 퍼스트 슬램덩크
+								
+									(The First Slam Dunk)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">더 퍼스트 슬램덩크
+								<span class="en ellip">
+									(The First Slam Dunk)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                980,805,275원
+	                                <span class="cumu">(누적: 14,020,082,085원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                90,180명
+	                                <span class="cumu">(누적:1,350,161명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유령
@@ -158,15 +158,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                603,818,394원
-	                                <span class="cumu">(누적: 1,754,232,277원)</span>
+	                                750,770,619원
+	                                <span class="cumu">(누적: 2,505,002,896원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                57,274명
-	                                <span class="cumu">(누적:174,309명)</span>
+	                                70,832명
+	                                <span class="cumu">(누적:245,141명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_59f5f908a3a246bbb7a362e14406353b.jpg" length="0" type="image/jpg"/>
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                454,257,024원
-	                                <span class="cumu">(누적: 27,155,635,886원)</span>
+	                                629,332,320원
+	                                <span class="cumu">(누적: 27,784,968,206원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                43,505명
-	                                <span class="cumu">(누적:2,756,848명)</span>
+	                                59,629명
+	                                <span class="cumu">(누적:2,816,477명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_13760668f5644b739d29dd80d4b00ad8.jpg" length="0" type="image/jpg"/>
