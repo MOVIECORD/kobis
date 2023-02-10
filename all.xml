@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 17:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 18:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                471,398,620원
-	                                <span class="cumu">(누적: 6,401,138,020원)</span>
+	                                471,425,620원
+	                                <span class="cumu">(누적: 6,401,165,020원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                30,545명
-	                                <span class="cumu">(누적:530,813명)</span>
+	                                30,546명
+	                                <span class="cumu">(누적:530,814명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_6f75941476454369a7cd22266855c3e3.jpg" length="0" type="image/jpg"/>
@@ -639,8 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                30,545명
-	                                (누적:530,813명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                30,546명
+	                                (누적:530,814명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
