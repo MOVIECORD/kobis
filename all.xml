@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 14:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 15:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                637,255,428원
-	                                <span class="cumu">(누적: 9,867,715,734원)</span>
+	                                533,950,050원
+	                                <span class="cumu">(누적: 10,401,665,784원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                60,935명
-	                                <span class="cumu">(누적:923,888명)</span>
+	                                51,726명
+	                                <span class="cumu">(누적:975,614명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_3614a2a28006422db60207f4d9332791.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                336,137,348원
-	                                <span class="cumu">(누적: 34,176,734,183원)</span>
+	                                310,505,525원
+	                                <span class="cumu">(누적: 34,487,239,708원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                33,769명
-	                                <span class="cumu">(누적:3,316,042명)</span>
+	                                31,190명
+	                                <span class="cumu">(누적:3,347,232명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                239,718,660원
-	                                <span class="cumu">(누적: 11,088,766,310원)</span>
+	                                348,162,920원
+	                                <span class="cumu">(누적: 11,436,929,230원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,173명
-	                                <span class="cumu">(누적:857,407명)</span>
+	                                26,452명
+	                                <span class="cumu">(누적:883,859명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_6f75941476454369a7cd22266855c3e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아바타: 물의 길
+            <title><![CDATA[어메이징 모리스
 								
-									(Avatar: The Way of Water) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Amazing Maurice) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -144,7 +144,48 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">어메이징 모리스
+								<span class="en ellip">
+									(The Amazing Maurice)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                44,017,440원
+	                                <span class="cumu">(누적: 543,230,330원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                5,267명
+	                                <span class="cumu">(누적:60,702명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_489076b235324833b0f0e5362585b207.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타: 물의 길
+								
+									(Avatar: The Way of Water) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
 	                            	
 	                            	
 	                            
@@ -158,59 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                46,581,126원
-	                                <span class="cumu">(누적: 136,950,946,531원)</span>
+	                                49,045,636원
+	                                <span class="cumu">(누적: 136,999,992,167원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,231명
-	                                <span class="cumu">(누적:10,745,915명)</span>
+	                                4,551명
+	                                <span class="cumu">(누적:10,750,466명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_87e132235b634767b9c22e8483cfbba7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어메이징 모리스
-								
-									(The Amazing Maurice) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">어메이징 모리스
-								<span class="en ellip">
-									(The Amazing Maurice)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                34,470,226원
-	                                <span class="cumu">(누적: 499,212,890원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                4,010명
-	                                <span class="cumu">(누적:55,435명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_489076b235324833b0f0e5362585b207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤트맨과 와스프: 퀀텀매니아
@@ -613,8 +613,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                60,935명
-	                                (누적:923,888명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                51,726명
+	                                (누적:975,614명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -627,8 +627,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                33,769명
-	                                (누적:3,316,042명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                31,190명
+	                                (누적:3,347,232명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -641,8 +641,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                18,173명
-	                                (누적:857,407명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                26,452명
+	                                (누적:883,859명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
