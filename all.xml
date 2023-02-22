@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 15:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                534,386,630원
-	                                <span class="cumu">(누적: 10,401,952,364원)</span>
+	                                493,868,178원
+	                                <span class="cumu">(누적: 10,895,820,542원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                51,765명
-	                                <span class="cumu">(누적:975,639명)</span>
+	                                56,149명
+	                                <span class="cumu">(누적:1,031,788명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_3614a2a28006422db60207f4d9332791.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 퍼스트 슬램덩크
+            <title><![CDATA[카운트
 								
-									(The First Slam Dunk) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Count) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -62,8 +62,49 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>5</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">카운트
+								<span class="en ellip">
+									(Count)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                306,809,934원
+	                                <span class="cumu">(누적: 434,868,934원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                38,037명
+	                                <span class="cumu">(누적:52,031명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_ec559fa6c22c4b0fb6ee0038da3dcb05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 퍼스트 슬램덩크
+								
+									(The First Slam Dunk) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -76,64 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                310,654,525원
-	                                <span class="cumu">(누적: 34,487,388,708원)</span>
+	                                300,106,571원
+	                                <span class="cumu">(누적: 34,787,495,279원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                31,201명
-	                                <span class="cumu">(누적:3,347,243명)</span>
+	                                36,553명
+	                                <span class="cumu">(누적:3,383,796명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타이타닉
+            <title><![CDATA[서치 2
 								
-									(Titanic) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">타이타닉
-								<span class="en ellip">
-									(Titanic)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                348,134,920원
-	                                <span class="cumu">(누적: 11,436,879,230원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                26,450명
-	                                <span class="cumu">(누적:883,855명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_6f75941476454369a7cd22266855c3e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어메이징 모리스
-								
-									(The Amazing Maurice) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Missing) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -144,73 +144,69 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>24</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">어메이징 모리스
+	                        <strong class="tit ellip">서치 2
 								<span class="en ellip">
-									(The Amazing Maurice)	                        	
+									(Missing)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                44,098,440원
-	                                <span class="cumu">(누적: 543,311,330원)</span>
+	                                292,686,829원
+	                                <span class="cumu">(누적: 371,065,401원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                5,279명
-	                                <span class="cumu">(누적:60,714명)</span>
+	                                36,181명
+	                                <span class="cumu">(누적:44,627명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_489076b235324833b0f0e5362585b207.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_1c8dbd5fdf4e4d5c95eca3785757f1ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아바타: 물의 길
+            <title><![CDATA[마루이 비디오
 								
-									(Avatar: The Way of Water) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Marui Video) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">아바타: 물의 길
+	                        <strong class="tit ellip">마루이 비디오
 								<span class="en ellip">
-									(Avatar: The Way of Water)	                        	
+									(Marui Video)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                49,045,636원
-	                                <span class="cumu">(누적: 136,999,992,167원)</span>
+	                                175,955,600원
+	                                <span class="cumu">(누적: 190,886,600원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,551명
-	                                <span class="cumu">(누적:10,750,466명)</span>
+	                                21,117명
+	                                <span class="cumu">(누적:23,250명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/11/thumb_x110/thn_87e132235b634767b9c22e8483cfbba7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_9af853f734834b03982502b6f8615f5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤트맨과 와스프: 퀀텀매니아
@@ -613,8 +609,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                51,765명
-	                                (누적:975,639명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                56,149명
+	                                (누적:1,031,788명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -627,8 +623,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                31,201명
-	                                (누적:3,347,243명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                38,041명
+	                                (누적:52,035명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[카운트
+								<span class="en ellip">
+									(Count)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_ec559fa6c22c4b0fb6ee0038da3dcb05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                36,553명
+	                                (누적:3,383,796명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -637,20 +647,6 @@
 									(The First Slam Dunk)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                26,450명
-	                                (누적:883,855명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[타이타닉
-								<span class="en ellip">
-									(Titanic)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_6f75941476454369a7cd22266855c3e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
