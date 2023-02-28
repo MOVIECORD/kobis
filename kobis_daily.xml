@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 16:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 17:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                349,254,724원
-	                                <span class="cumu">(누적: 37,451,112,431원)</span>
+	                                349,094,724원
+	                                <span class="cumu">(누적: 37,450,952,431원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                36,021명
-	                                <span class="cumu">(누적:3,644,140명)</span>
+	                                36,009명
+	                                <span class="cumu">(누적:3,644,128명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
