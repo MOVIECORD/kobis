@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 03:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 04:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,261,792,300원
-	                                <span class="cumu">(누적: 2,771,567,500원)</span>
+	                                1,261,772,300원
+	                                <span class="cumu">(누적: 2,771,547,500원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                98,963명
-	                                <span class="cumu">(누적:216,372명)</span>
+	                                98,961명
+	                                <span class="cumu">(누적:216,370명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_64254284e5f449e691c23f244ec5d67b.jpg" length="0" type="image/jpg"/>
@@ -631,8 +631,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                98,963명
-	                                (누적:216,372명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                98,961명
+	                                (누적:216,370명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
