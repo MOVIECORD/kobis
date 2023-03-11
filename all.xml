@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 22:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 23:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                3,278,589,419원
-	                                <span class="cumu">(누적: 7,589,622,221원)</span>
+	                                3,278,584,617원
+	                                <span class="cumu">(누적: 7,589,617,419원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                305,355명
-	                                <span class="cumu">(누적:699,890명)</span>
+	                                305,356명
+	                                <span class="cumu">(누적:699,891명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_493d957e6b894177bb380f3d83a7eed0.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                465,080,765원
-	                                <span class="cumu">(누적: 40,840,320,750원)</span>
+	                                465,043,965원
+	                                <span class="cumu">(누적: 40,840,283,950원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                44,052명
-	                                <span class="cumu">(누적:3,967,862명)</span>
+	                                44,049명
+	                                <span class="cumu">(누적:3,967,859명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
@@ -609,8 +609,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                305,355명
-	                                (누적:699,890명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                305,356명
+	                                (누적:699,891명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -623,8 +623,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                44,052명
-	                                (누적:3,967,862명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                44,049명
+	                                (누적:3,967,859명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
