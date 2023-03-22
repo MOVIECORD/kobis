@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 14:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 15:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,21 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                586,873,185원
-	                                <span class="cumu">(누적: 21,832,396,305원)</span>
+	                                710,558,051원
+	                                <span class="cumu">(누적: 22,542,954,356원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                57,963명
-	                                <span class="cumu">(누적:2,072,013명)</span>
+	                                69,354명
+	                                <span class="cumu">(누적:2,141,367명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_493d957e6b894177bb380f3d83a7eed0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 퍼스트 슬램덩크
-								
-									(The First Slam Dunk)]]></title>
+            <title><![CDATA[웅남이]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
@@ -62,8 +60,49 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>11</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">웅남이
+								<span class="en ellip">
+									&nbsp;	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                231,525,864원
+	                                <span class="cumu">(누적: 258,664,864원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                27,691명
+	                                <span class="cumu">(누적:31,552명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/03/thumb_x110/thn_e62e0de74538455bbfa5e74ede3cd8d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 퍼스트 슬램덩크
+								
+									(The First Slam Dunk)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -76,15 +115,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                87,927,117원
-	                                <span class="cumu">(누적: 43,004,842,471원)</span>
+	                                84,785,097원
+	                                <span class="cumu">(누적: 43,089,627,568원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,556명
-	                                <span class="cumu">(누적:4,173,006명)</span>
+	                                8,271명
+	                                <span class="cumu">(누적:4,181,277명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2022/12/thumb_x110/thn_de3eb9d23b1b49e58b5f06b96d5fa6b5.jpg" length="0" type="image/jpg"/>
@@ -97,14 +136,14 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,100 +156,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                71,417,747원
-	                                <span class="cumu">(누적: 1,297,936,166원)</span>
+	                                74,331,845원
+	                                <span class="cumu">(누적: 1,372,268,011원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,879명
-	                                <span class="cumu">(누적:133,711명)</span>
+	                                8,120명
+	                                <span class="cumu">(누적:141,831명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/03/thumb_x110/thn_c5958c4027fd42a3ab5e9b7d2f961687.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤잠! 신들의 분노
+            <title><![CDATA[모나리자와 블러드 문
 								
-									(Shazam! Fury of the Gods)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">샤잠! 신들의 분노
-								<span class="en ellip">
-									(Shazam! Fury of the Gods)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                27,343,929원
-	                                <span class="cumu">(누적: 730,716,386원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                2,747명
-	                                <span class="cumu">(누적:68,862명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_3a97cefe4498466d8f9f1945145a9fdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대외비
-								
-									(The Devil's Deal)]]></title>
+									(MONA LISA and THE BLOOD MOON)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 29 Dec 2022 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">대외비
+	                        <strong class="tit ellip">모나리자와 블러드 문
 								<span class="en ellip">
-									(The Devil's Deal)	                        	
+									(MONA LISA and THE BLOOD MOON)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                25,718,085원
-	                                <span class="cumu">(누적: 7,389,642,358원)</span>
+	                                47,790,776원
+	                                <span class="cumu">(누적: 55,041,776원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,675명
-	                                <span class="cumu">(누적:747,670명)</span>
+	                                5,488명
+	                                <span class="cumu">(누적:6,077명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_67727deb988e4eb0b88ae2f9b8cf5c93.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/02/thumb_x110/thn_568b75543121435480ad316104d0d930.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
