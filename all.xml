@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 07:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 08:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,9 @@
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_493d957e6b894177bb380f3d83a7eed0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웅남이 (KOBIS ─ 일별 박스오피스)]]></title>
+            <title><![CDATA[웅남이
+								
+									(woongnami) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
@@ -68,7 +70,7 @@
 	                        
 	                        <strong class="tit ellip">웅남이
 								<span class="en ellip">
-									&nbsp;	                        	
+									(woongnami)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
@@ -632,7 +634,7 @@
             <pubDate>Wed, 16 Nov 2022 17:23:01 GMT</pubDate>
             <content:encoded><![CDATA[웅남이
 								<span class="en ellip">
-									&nbsp;	                        	
+									(woongnami)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/03/thumb_x110/thn_e62e0de74538455bbfa5e74ede3cd8d9.jpg" length="0" type="image/jpg"/>
         </item>
