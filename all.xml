@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 14:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 15:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                911,016,645원
-	                                <span class="cumu">(누적: 21,450,224,887원)</span>
+	                                1,591,924,945원
+	                                <span class="cumu">(누적: 23,042,149,832원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                86,992명
-	                                <span class="cumu">(누적:2,014,091명)</span>
+	                                149,021명
+	                                <span class="cumu">(누적:2,163,112명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1073d2e8cca44222a3573d0c25b1c581.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼 마리오 브라더스
+            <title><![CDATA[문재인입니다
 								
-									(The Super Mario Bros. Movie) (KOBIS ─ 일별 박스오피스)]]></title>
+									(This is the president) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -62,8 +62,49 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">문재인입니다
+								<span class="en ellip">
+									(This is the president)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                239,663,433원
+	                                <span class="cumu">(누적: 489,613,772원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                24,649명
+	                                <span class="cumu">(누적:50,643명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_2bf5b400050e4dd4b40d1b26a31cdefd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼 마리오 브라더스
+								
+									(The Super Mario Bros. Movie) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -76,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                131,665,204원
-	                                <span class="cumu">(누적: 18,327,208,096원)</span>
+	                                224,647,355원
+	                                <span class="cumu">(누적: 18,551,855,451원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                13,543명
-	                                <span class="cumu">(누적:1,864,334명)</span>
+	                                22,446명
+	                                <span class="cumu">(누적:1,886,780명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_427058c41a394d3facb6c78037a1207f.jpg" length="0" type="image/jpg"/>
@@ -93,47 +134,6 @@
             <title><![CDATA[드림
 								
 									(Dream) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">드림
-								<span class="en ellip">
-									(Dream)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                115,000,649원
-	                                <span class="cumu">(누적: 9,739,387,135원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                13,015명
-	                                <span class="cumu">(누적:1,010,140명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_882d5571550e4ef696bbb8c352c431fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인입니다
-								
-									(This is the president) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -150,26 +150,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">문재인입니다
+	                        <strong class="tit ellip">드림
 								<span class="en ellip">
-									(This is the president)	                        	
+									(Dream)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                110,637,844원
-	                                <span class="cumu">(누적: 249,950,339원)</span>
+	                                164,766,958원
+	                                <span class="cumu">(누적: 9,904,154,093원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                12,011명
-	                                <span class="cumu">(누적:25,994명)</span>
+	                                18,657명
+	                                <span class="cumu">(누적:1,028,797명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_2bf5b400050e4dd4b40d1b26a31cdefd.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_882d5571550e4ef696bbb8c352c431fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                94,365,590원
-	                                <span class="cumu">(누적: 3,821,486,838원)</span>
+	                                150,970,717원
+	                                <span class="cumu">(누적: 3,972,457,555원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                9,448명
-	                                <span class="cumu">(누적:388,363명)</span>
+	                                14,962명
+	                                <span class="cumu">(누적:403,325명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_5dee449d0802434f83394e1779a3ca0f.jpg" length="0" type="image/jpg"/>
@@ -617,8 +617,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                86,992명
-	                                (누적:2,014,091명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                149,021명
+	                                (누적:2,163,112명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -631,8 +631,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                13,543명
-	                                (누적:1,864,334명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                24,649명
+	                                (누적:50,643명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[문재인입니다
+								<span class="en ellip">
+									(This is the president)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_2bf5b400050e4dd4b40d1b26a31cdefd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                22,446명
+	                                (누적:1,886,780명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -641,20 +655,6 @@
 									(The Super Mario Bros. Movie)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_427058c41a394d3facb6c78037a1207f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                13,015명
-	                                (누적:1,010,140명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[드림
-								<span class="en ellip">
-									(Dream)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_882d5571550e4ef696bbb8c352c431fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
