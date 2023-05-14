@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주간 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                17,437,667,792원
-	                                <span class="cumu">(누적: 17,437,667,792원)</span>
+	                                11,672,094,104원
+	                                <span class="cumu">(누적: 29,109,761,896원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,630,899명
-	                                <span class="cumu">(누적:1,630,899명)</span>
+	                                1,094,984명
+	                                <span class="cumu">(누적:2,725,883명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1073d2e8cca44222a3573d0c25b1c581.jpg" length="0" type="image/jpg"/>
@@ -56,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -72,18 +76,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                10,014,108,262원
-	                                <span class="cumu">(누적: 17,735,432,070원)</span>
+	                                2,572,364,322원
+	                                <span class="cumu">(누적: 20,307,796,392원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,033,348명
-	                                <span class="cumu">(누적:1,802,448명)</span>
+	                                260,235명
+	                                <span class="cumu">(누적:2,062,683명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_427058c41a394d3facb6c78037a1207f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대
+	                        	
+									(Crayon Shin-chan: Mononoke Ninja Chimpuden)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대
+	                        	<span class="en ellip">
+									(Crayon Shin-chan: Mononoke Ninja Chimpuden)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,632,068,604원
+	                                <span class="cumu">(누적: 5,005,623,582원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                163,494명
+	                                <span class="cumu">(누적:506,745명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_5dee449d0802434f83394e1779a3ca0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림
@@ -93,7 +138,7 @@
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
@@ -113,64 +158,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                4,063,510,088원
-	                                <span class="cumu">(누적: 9,248,890,940원)</span>
+	                                1,100,290,879원
+	                                <span class="cumu">(누적: 10,349,181,819원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                417,625명
-	                                <span class="cumu">(누적:956,487명)</span>
+	                                114,821명
+	                                <span class="cumu">(누적:1,071,308명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_882d5571550e4ef696bbb8c352c431fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대
+            <title><![CDATA[문재인입니다
 	                        	
-									(Crayon Shin-chan: Mononoke Ninja Chimpuden)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>11</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대
-	                        	<span class="en ellip">
-									(Crayon Shin-chan: Mononoke Ninja Chimpuden)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                3,336,134,102원
-	                                <span class="cumu">(누적: 3,373,554,978원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                340,166명
-	                                <span class="cumu">(누적:343,251명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_5dee449d0802434f83394e1779a3ca0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존 윅 4
-	                        	
-									(John Wick: Chapter 4)]]></title>
+									(This is the president)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
@@ -179,34 +183,34 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>21</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">존 윅 4
+	                        <strong class="tit ellip">문재인입니다
 	                        	<span class="en ellip">
-									(John Wick: Chapter 4)	                        	
+									(This is the president)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,221,474,956원
-	                                <span class="cumu">(누적: 18,847,053,803원)</span>
+	                                718,948,455원
+	                                <span class="cumu">(누적: 733,734,455원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                217,257명
-	                                <span class="cumu">(누적:1,815,880명)</span>
+	                                73,302명
+	                                <span class="cumu">(누적:74,577명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_30be7bc08e504eaab8cd9545aa64749d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_2bf5b400050e4dd4b40d1b26a31cdefd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
