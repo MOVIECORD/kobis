@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 14:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 15:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,18 +35,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                549,459,651원
-	                                <span class="cumu">(누적: 10,158,876,984원)</span>
+	                                476,176,143원
+	                                <span class="cumu">(누적: 10,635,053,127원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                54,012명
-	                                <span class="cumu">(누적:963,861명)</span>
+	                                47,760명
+	                                <span class="cumu">(누적:1,011,621명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_e37a1df7b75f4962983b511cdfb9507a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인어공주
+								
+									(The Little Mermaid)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">인어공주
+								<span class="en ellip">
+									(The Little Mermaid)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                477,385,942원
+	                                <span class="cumu">(누적: 498,352,942원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                45,907명
+	                                <span class="cumu">(누적:47,600명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_a94926e45e14463692e6eb4b6600aaaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가디언즈 오브 갤럭시: Volume 3
@@ -56,14 +93,14 @@
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,141 +113,92 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                327,697,340원
-	                                <span class="cumu">(누적: 36,267,832,316원)</span>
+	                                307,916,014원
+	                                <span class="cumu">(누적: 36,575,748,330원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                32,672명
-	                                <span class="cumu">(누적:3,418,473명)</span>
+	                                30,768명
+	                                <span class="cumu">(누적:3,449,241명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1073d2e8cca44222a3573d0c25b1c581.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼 마리오 브라더스
+            <title><![CDATA[남은 인생 10년
 								
-									(The Super Mario Bros. Movie)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">슈퍼 마리오 브라더스
-								<span class="en ellip">
-									(The Super Mario Bros. Movie)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                36,537,461원
-	                                <span class="cumu">(누적: 21,679,538,183원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                3,961명
-	                                <span class="cumu">(누적:2,202,225명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/04/thumb_x110/thn_427058c41a394d3facb6c78037a1207f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스즈메의 문단속
-								
-									(Suzume)]]></title>
+									(The Last 10 Years)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">4</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">스즈메의 문단속
+	                        <strong class="tit ellip">남은 인생 10년
 								<span class="en ellip">
-									(Suzume)	                        	
+									(The Last 10 Years)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                33,643,914원
-	                                <span class="cumu">(누적: 55,944,825,897원)</span>
+	                                80,907,000원
+	                                <span class="cumu">(누적: 84,911,000원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,849명
-	                                <span class="cumu">(누적:5,452,755명)</span>
+	                                8,305명
+	                                <span class="cumu">(누적:8,877명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/01/thumb_x110/thn_493d957e6b894177bb380f3d83a7eed0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_efb510b989e244f8b29b12bc3e221996.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대
+            <title><![CDATA[아기공룡 둘리-얼음별 대모험
 								
-									(Crayon Shin-chan: Mononoke Ninja Chimpuden)]]></title>
+									(The Adventure Of Ice Planet)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대
+	                        <strong class="tit ellip">아기공룡 둘리-얼음별 대모험
 								<span class="en ellip">
-									(Crayon Shin-chan: Mononoke Ninja Chimpuden)	                        	
+									(The Adventure Of Ice Planet)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                37,952,122원
-	                                <span class="cumu">(누적: 6,052,653,191원)</span>
+	                                35,115,505원
+	                                <span class="cumu">(누적: 66,834,033원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,847명
-	                                <span class="cumu">(누적:610,924명)</span>
+	                                3,827명
+	                                <span class="cumu">(누적:6,759명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_5dee449d0802434f83394e1779a3ca0f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_4c346e483bf7438f8852a0b96a5f6f60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
