@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 14:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 15:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,159,992,659원
-	                                <span class="cumu">(누적: 79,617,796,189원)</span>
+	                                1,074,466,661원
+	                                <span class="cumu">(누적: 80,692,262,850원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                120,166명
-	                                <span class="cumu">(누적:8,046,268명)</span>
+	                                111,059명
+	                                <span class="cumu">(누적:8,157,327명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트랜스포머: 비스트의 서막
+            <title><![CDATA[플래시
 								
-									(Transformers: Rise of the Beasts ) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Flash) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -62,8 +62,90 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">플래시
+								<span class="en ellip">
+									(The Flash)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                756,714,010원
+	                                <span class="cumu">(누적: 884,320,799원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                72,133명
+	                                <span class="cumu">(누적:83,402명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_c9f3381f0e21432298cf04256bf47ce8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리멘탈
+								
+									(Elemental) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>15</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">엘리멘탈
+								<span class="en ellip">
+									(Elemental)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                451,207,169원
+	                                <span class="cumu">(누적: 488,238,169원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                47,684명
+	                                <span class="cumu">(누적:51,721명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머: 비스트의 서막
+								
+									(Transformers: Rise of the Beasts ) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -76,101 +158,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                226,755,900원
-	                                <span class="cumu">(누적: 6,286,284,680원)</span>
+	                                113,471,475원
+	                                <span class="cumu">(누적: 6,399,756,155원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                22,877명
-	                                <span class="cumu">(누적:616,356명)</span>
+	                                11,965명
+	                                <span class="cumu">(누적:628,321명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_4e1a2d82f303483995869e342d43e2c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플래시
+            <title><![CDATA[귀공자
 								
-									(The Flash) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">플래시
-								<span class="en ellip">
-									(The Flash)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                121,738,789원
-	                                <span class="cumu">(누적: 127,606,789원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                10,617명
-	                                <span class="cumu">(누적:11,269명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_c9f3381f0e21432298cf04256bf47ce8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가디언즈 오브 갤럭시: Volume 3
-								
-									(Guardians of the Galaxy Volume 3) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">가디언즈 오브 갤럭시: Volume 3
-								<span class="en ellip">
-									(Guardians of the Galaxy Volume 3)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                59,807,176원
-	                                <span class="cumu">(누적: 43,924,873,524원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                6,011명
-	                                <span class="cumu">(누적:4,167,321명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1073d2e8cca44222a3573d0c25b1c581.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분노의 질주: 라이드 오어 다이
-								
-									(Fast X) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Childe) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -179,34 +183,34 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">분노의 질주: 라이드 오어 다이
+	                        <strong class="tit ellip">귀공자
 								<span class="en ellip">
-									(Fast X)	                        	
+									(The Childe)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                25,213,439원
-	                                <span class="cumu">(누적: 18,392,984,267원)</span>
+	                                29,081,000원
+	                                <span class="cumu">(누적: 81,442,000원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,608명
-	                                <span class="cumu">(누적:1,765,259명)</span>
+	                                5,009명
+	                                <span class="cumu">(누적:15,438명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_e37a1df7b75f4962983b511cdfb9507a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_af29e728883047cdbdc53b2615a8bccb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄도시3
@@ -621,8 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                120,166명
-	                                (누적:8,046,268명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                111,059명
+	                                (누적:8,157,327명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -635,22 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                22,877명
-	                                (누적:616,356명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[트랜스포머: 비스트의 서막
-								<span class="en ellip">
-									(Transformers: Rise of the Beasts )	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_4e1a2d82f303483995869e342d43e2c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                10,617명
-	                                (누적:11,269명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                72,133명
+	                                (누적:83,402명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -659,6 +649,20 @@
 									(The Flash)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_c9f3381f0e21432298cf04256bf47ce8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                47,684명
+	                                (누적:51,721명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[엘리멘탈
+								<span class="en ellip">
+									(Elemental)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
