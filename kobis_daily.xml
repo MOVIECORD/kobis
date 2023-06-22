@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 14:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 15:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,55 +35,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                800,442,310원
-	                                <span class="cumu">(누적: 90,730,438,745원)</span>
+	                                716,447,201원
+	                                <span class="cumu">(누적: 91,446,885,946원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                82,542명
-	                                <span class="cumu">(누적:9,160,073명)</span>
+	                                74,184명
+	                                <span class="cumu">(누적:9,234,257명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 어크로스 더 유니버스
+            <title><![CDATA[엘리멘탈
 								
-									(Spider-Man: Across the Spider-Verse)]]></title>
+									(Elemental)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 04 Jun 2023 06:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">2</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">스파이더맨: 어크로스 더 유니버스
+	                        <strong class="tit ellip">엘리멘탈
 								<span class="en ellip">
-									(Spider-Man: Across the Spider-Verse)	                        	
+									(Elemental)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                743,953,312원
-	                                <span class="cumu">(누적: 771,051,312원)</span>
+	                                568,774,992원
+	                                <span class="cumu">(누적: 7,349,682,219원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                70,801명
-	                                <span class="cumu">(누적:72,445명)</span>
+	                                58,085명
+	                                <span class="cumu">(누적:743,118명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_5d02668ff95e4b2f9694b7ff9ff666fc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀공자
@@ -95,9 +99,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">3</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -109,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                625,179,697원
-	                                <span class="cumu">(누적: 813,326,686원)</span>
+	                                412,071,246원
+	                                <span class="cumu">(누적: 1,225,397,932원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                64,914명
-	                                <span class="cumu">(누적:93,530명)</span>
+	                                42,799명
+	                                <span class="cumu">(누적:136,329명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_64770351f7104675bcce37f5b41dd9db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘리멘탈
+            <title><![CDATA[스파이더맨: 어크로스 더 유니버스
 								
-									(Elemental)]]></title>
+									(Spider-Man: Across the Spider-Verse)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 04 Jun 2023 06:12:26 GMT</pubDate>
@@ -142,26 +150,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">엘리멘탈
+	                        <strong class="tit ellip">스파이더맨: 어크로스 더 유니버스
 								<span class="en ellip">
-									(Elemental)	                        	
+									(Spider-Man: Across the Spider-Verse)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                590,785,509원
-	                                <span class="cumu">(누적: 6,780,907,227원)</span>
+	                                435,088,422원
+	                                <span class="cumu">(누적: 1,206,139,734원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                60,867명
-	                                <span class="cumu">(누적:685,033명)</span>
+	                                40,797명
+	                                <span class="cumu">(누적:113,242명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_5d02668ff95e4b2f9694b7ff9ff666fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플래시
@@ -175,10 +183,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -191,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                170,761,457원
-	                                <span class="cumu">(누적: 5,290,921,224원)</span>
+	                                139,746,210원
+	                                <span class="cumu">(누적: 5,430,667,434원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                16,461명
-	                                <span class="cumu">(누적:495,921명)</span>
+	                                13,355명
+	                                <span class="cumu">(누적:509,276명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_c9f3381f0e21432298cf04256bf47ce8.jpg" length="0" type="image/jpg"/>
