@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 14:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 15:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[범죄도시3
+            <title><![CDATA[엘리멘탈
 								
-									(THE ROUNDUP : NO WAY OUT) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Elemental) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -21,49 +21,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">범죄도시3
-								<span class="en ellip">
-									(THE ROUNDUP : NO WAY OUT)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                943,880,492원
-	                                <span class="cumu">(누적: 92,390,620,238원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                94,464명
-	                                <span class="cumu">(누적:9,328,703명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리멘탈
-								
-									(Elemental) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,18 +35,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                831,870,489원
-	                                <span class="cumu">(누적: 8,182,047,208원)</span>
+	                                2,084,808,068원
+	                                <span class="cumu">(누적: 10,266,855,276원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                81,941명
-	                                <span class="cumu">(누적:825,106명)</span>
+	                                205,828명
+	                                <span class="cumu">(누적:1,030,934명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시3
+								
+									(THE ROUNDUP : NO WAY OUT) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">범죄도시3
+								<span class="en ellip">
+									(THE ROUNDUP : NO WAY OUT)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,824,403,250원
+	                                <span class="cumu">(누적: 94,215,023,488원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                180,652명
+	                                <span class="cumu">(누적:9,509,355명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 어크로스 더 유니버스
@@ -103,8 +103,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                560,964,578원
-	                                <span class="cumu">(누적: 1,766,739,012원)</span>
+	                                1,112,697,242원
+	                                <span class="cumu">(누적: 2,879,436,254원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                49,862명
-	                                <span class="cumu">(누적:163,085명)</span>
+	                                102,294명
+	                                <span class="cumu">(누적:265,379명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_5d02668ff95e4b2f9694b7ff9ff666fc.jpg" length="0" type="image/jpg"/>
@@ -142,10 +142,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,15 +158,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                485,601,341원
-	                                <span class="cumu">(누적: 1,711,851,373원)</span>
+	                                866,772,167원
+	                                <span class="cumu">(누적: 2,578,623,540원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                47,745명
-	                                <span class="cumu">(누적:184,143명)</span>
+	                                83,266명
+	                                <span class="cumu">(누적:267,409명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_64770351f7104675bcce37f5b41dd9db.jpg" length="0" type="image/jpg"/>
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                195,515,311원
-	                                <span class="cumu">(누적: 5,626,190,745원)</span>
+	                                342,800,426원
+	                                <span class="cumu">(누적: 5,968,991,171원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,415명
-	                                <span class="cumu">(누적:527,692명)</span>
+	                                31,483명
+	                                <span class="cumu">(누적:559,175명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_c9f3381f0e21432298cf04256bf47ce8.jpg" length="0" type="image/jpg"/>
@@ -617,22 +617,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                94,464명
-	                                (누적:9,328,703명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[범죄도시3
-								<span class="en ellip">
-									(THE ROUNDUP : NO WAY OUT)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                81,941명
-	                                (누적:825,106명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                205,850명
+	                                (누적:1,030,956명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -645,8 +631,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                49,862명
-	                                (누적:163,085명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                180,699명
+	                                (누적:9,509,402명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[범죄도시3
+								<span class="en ellip">
+									(THE ROUNDUP : NO WAY OUT)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                102,310명
+	                                (누적:265,395명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
