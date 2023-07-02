@@ -4,13 +4,13 @@
         <title>KOBIS ─ 주간 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 14:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 15:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[범죄도시3
+            <title><![CDATA[엘리멘탈
 	                        	
-									(THE ROUNDUP : NO WAY OUT)]]></title>
+									(Elemental)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
@@ -21,49 +21,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">범죄도시3
-	                        	<span class="en ellip">
-									(THE ROUNDUP : NO WAY OUT)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                7,494,116,514원
-	                                <span class="cumu">(누적: 95,817,966,270원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                755,104명
-	                                <span class="cumu">(누적:9,667,485명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리멘탈
-	                        	
-									(Elemental)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,23 +35,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                7,260,270,740원
-	                                <span class="cumu">(누적: 12,394,440,926원)</span>
+	                                9,881,840,879원
+	                                <span class="cumu">(누적: 22,276,281,805원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                725,658명
-	                                <span class="cumu">(누적:1,241,693명)</span>
+	                                1,005,450명
+	                                <span class="cumu">(누적:2,247,143명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 어크로스 더 유니버스
+            <title><![CDATA[범죄도시3
 	                        	
-									(Spider-Man: Across the Spider-Verse)]]></title>
+									(THE ROUNDUP : NO WAY OUT)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">범죄도시3
+	                        	<span class="en ellip">
+									(THE ROUNDUP : NO WAY OUT)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                4,858,419,502원
+	                                <span class="cumu">(누적: 100,676,385,772원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                550,497명
+	                                <span class="cumu">(누적:10,217,982명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인디아나 존스: 운명의 다이얼
+	                        	
+									(Indiana Jones and the Dial of Destiny)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
@@ -103,7 +103,48 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>118</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>32</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">인디아나 존스: 운명의 다이얼
+	                        	<span class="en ellip">
+									(Indiana Jones and the Dial of Destiny)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                5,233,854,437원
+	                                <span class="cumu">(누적: 5,247,462,437원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                525,156명
+	                                <span class="cumu">(누적:525,912명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_f7ba6aee45314df4ae7c6d70abf9aba8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨: 어크로스 더 유니버스
+	                        	
+									(Spider-Man: Across the Spider-Verse)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
 	                            	
 	                            	
 	                            
@@ -117,15 +158,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                3,812,599,374원
-	                                <span class="cumu">(누적: 3,839,697,374원)</span>
+	                                2,589,541,086원
+	                                <span class="cumu">(누적: 6,429,238,460원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                352,413명
-	                                <span class="cumu">(누적:354,057명)</span>
+	                                250,634명
+	                                <span class="cumu">(누적:604,691명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_5d02668ff95e4b2f9694b7ff9ff666fc.jpg" length="0" type="image/jpg"/>
@@ -138,13 +179,13 @@
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
 	                            	
 	                            	
 	                            
@@ -158,59 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                3,229,808,089원
-	                                <span class="cumu">(누적: 3,417,955,078원)</span>
+	                                2,207,514,718원
+	                                <span class="cumu">(누적: 5,625,469,796원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                319,152명
-	                                <span class="cumu">(누적:347,768명)</span>
+	                                223,837명
+	                                <span class="cumu">(누적:571,605명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_64770351f7104675bcce37f5b41dd9db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래시
-	                        	
-									(The Flash)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">플래시
-	                        	<span class="en ellip">
-									(The Flash)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                1,667,381,949원
-	                                <span class="cumu">(누적: 6,248,900,883원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                157,870명
-	                                <span class="cumu">(누적:585,176명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_c9f3381f0e21432298cf04256bf47ce8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
