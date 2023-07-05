@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 14:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 15:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                817,064,855원
-	                                <span class="cumu">(누적: 23,846,650,771원)</span>
+	                                983,512,910원
+	                                <span class="cumu">(누적: 24,830,163,681원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                84,365명
-	                                <span class="cumu">(누적:2,408,967명)</span>
+	                                101,637명
+	                                <span class="cumu">(누적:2,510,604명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
@@ -76,59 +76,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                329,940,326원
-	                                <span class="cumu">(누적: 101,375,058,208원)</span>
+	                                291,436,395원
+	                                <span class="cumu">(누적: 101,666,494,603원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                38,659명
-	                                <span class="cumu">(누적:10,299,687명)</span>
+	                                34,090명
+	                                <span class="cumu">(누적:10,333,777명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_71a80a4008364e119471cb94723af423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인디아나 존스: 운명의 다이얼
-								
-									(Indiana Jones and the Dial of Destiny)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 04 Jun 2023 06:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">인디아나 존스: 운명의 다이얼
-								<span class="en ellip">
-									(Indiana Jones and the Dial of Destiny)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                300,324,143원
-	                                <span class="cumu">(누적: 5,896,402,110원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                31,070명
-	                                <span class="cumu">(누적:592,785명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_f7ba6aee45314df4ae7c6d70abf9aba8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 어크로스 더 유니버스
@@ -138,7 +97,7 @@
             <guid>javascript:;</guid>
             <pubDate>Sun, 04 Jun 2023 06:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
@@ -158,28 +117,28 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                168,404,572원
-	                                <span class="cumu">(누적: 6,759,275,870원)</span>
+	                                232,962,566원
+	                                <span class="cumu">(누적: 6,992,238,436원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                16,660명
-	                                <span class="cumu">(누적:637,070명)</span>
+	                                24,875명
+	                                <span class="cumu">(누적:661,945명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_5d02668ff95e4b2f9694b7ff9ff666fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀공자
+            <title><![CDATA[인디아나 존스: 운명의 다이얼
 								
-									(The Childe)]]></title>
+									(Indiana Jones and the Dial of Destiny)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 04 Jun 2023 06:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
@@ -191,26 +150,61 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">귀공자
+	                        <strong class="tit ellip">인디아나 존스: 운명의 다이얼
 								<span class="en ellip">
-									(The Childe)	                        	
+									(Indiana Jones and the Dial of Destiny)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                130,432,757원
-	                                <span class="cumu">(누적: 5,908,099,756원)</span>
+	                                235,610,501원
+	                                <span class="cumu">(누적: 6,132,012,611원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                13,653명
-	                                <span class="cumu">(누적:601,135명)</span>
+	                                24,813명
+	                                <span class="cumu">(누적:617,598명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_64770351f7104675bcce37f5b41dd9db.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_f7ba6aee45314df4ae7c6d70abf9aba8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악마들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 04 Jun 2023 06:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">악마들
+								<span class="en ellip">
+									&nbsp;	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                169,068,216원
+	                                <span class="cumu">(누적: 185,664,216원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                17,581명
+	                                <span class="cumu">(누적:19,414명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_b0980b579d93414eb4729311fa0f13e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
