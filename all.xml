@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                846,572,552원
-	                                <span class="cumu">(누적: 30,772,301,135원)</span>
+	                                846,322,552원
+	                                <span class="cumu">(누적: 30,772,006,135원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                84,691명
-	                                <span class="cumu">(누적:3,025,171명)</span>
+	                                84,666명
+	                                <span class="cumu">(누적:3,025,143명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_fbc864b8a3f64ee98e22372534a81cec.jpg" length="0" type="image/jpg"/>
@@ -241,14 +241,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                11,848,496,092원
-	                                <span class="cumu">(누적: 29,925,728,583원)</span>
+	                                <span class="cumu">(누적: 29,925,683,583원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                1,172,415명
-	                                <span class="cumu">(누적:2,940,480명)</span>
+	                                <span class="cumu">(누적:2,940,477명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_fbc864b8a3f64ee98e22372534a81cec.jpg" length="0" type="image/jpg"/>
@@ -442,14 +442,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                7,316,369,880원
-	                                <span class="cumu">(누적: 29,925,728,583원)</span>
+	                                <span class="cumu">(누적: 29,925,683,583원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                709,467명
-	                                <span class="cumu">(누적:2,940,480명)</span>
+	                                <span class="cumu">(누적:2,940,477명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_fbc864b8a3f64ee98e22372534a81cec.jpg" length="0" type="image/jpg"/>
@@ -613,8 +613,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                84,691명
-	                                (누적:3,025,171명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                84,666명
+	                                (누적:3,025,143명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
