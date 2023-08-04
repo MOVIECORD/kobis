@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 11:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 12:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,8 +76,8 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                882,545,666원
-	                                <span class="cumu">(누적: 2,424,937,086원)</span>
+	                                882,541,666원
+	                                <span class="cumu">(누적: 2,424,933,086원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                266,998,181원
-	                                <span class="cumu">(누적: 37,386,582,259원)</span>
+	                                266,980,181원
+	                                <span class="cumu">(누적: 37,386,564,259원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                27,977명
-	                                <span class="cumu">(누적:3,712,990명)</span>
+	                                27,975명
+	                                <span class="cumu">(누적:3,712,988명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/06/thumb_x110/thn_fbc864b8a3f64ee98e22372534a81cec.jpg" length="0" type="image/jpg"/>
