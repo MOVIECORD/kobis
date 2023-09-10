@@ -4,9 +4,46 @@
         <title>KOBIS ─ 주말 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠
+	                        	
+									(Sleep)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 30 Jan 2023 17:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">1</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">잠
+	                        	<span class="en ellip">
+									(Sleep)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                3,958,179,089원
+	                                <span class="cumu">(누적: 5,300,878,484원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                395,198명
+	                                <span class="cumu">(누적:538,897명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_ca12c92b0050461c813a68c6ad6da23f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오펜하이머
 	                        	
@@ -15,14 +52,14 @@
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">1</span>
+	                            <span class="num">2</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -35,55 +72,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,697,253,655원
-	                                <span class="cumu">(누적: 29,620,659,895원)</span>
+	                                1,451,841,523원
+	                                <span class="cumu">(누적: 31,962,535,588원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                248,772명
-	                                <span class="cumu">(누적:2,774,652명)</span>
+	                                132,408명
+	                                <span class="cumu">(누적:2,992,126명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/07/thumb_x110/thn_6ceb3200629f42c8bbac3fedf994a5ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타겟
-	                        	
-									(Don't Buy the Seller)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 30 Jan 2023 17:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">타겟
-	                        	<span class="en ellip">
-									(Don't Buy the Seller)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                1,675,736,080원
-	                                <span class="cumu">(누적: 2,466,085,395원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                167,621명
-	                                <span class="cumu">(누적:260,933명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/08/thumb_x110/thn_2205177b673543e199c03f8b7edf74cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콘크리트 유토피아
@@ -97,10 +97,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -113,15 +113,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,545,599,404원
-	                                <span class="cumu">(누적: 35,300,246,766원)</span>
+	                                765,471,456원
+	                                <span class="cumu">(누적: 36,598,748,908원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                157,733명
-	                                <span class="cumu">(누적:3,612,591명)</span>
+	                                77,793명
+	                                <span class="cumu">(누적:3,747,605명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/08/thumb_x110/thn_3b27ff34ec6d4214ad7aa177bfabbcba.jpg" length="0" type="image/jpg"/>
@@ -138,10 +138,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -154,23 +154,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,416,627,222원
-	                                <span class="cumu">(누적: 10,893,486,658원)</span>
+	                                748,305,213원
+	                                <span class="cumu">(누적: 12,207,985,879원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                142,974명
-	                                <span class="cumu">(누적:1,117,336명)</span>
+	                                76,485명
+	                                <span class="cumu">(누적:1,255,183명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/08/thumb_x110/thn_4aa89836d8bd4e148a787ded8c6215b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘리멘탈
+            <title><![CDATA[타겟
 	                        	
-									(Elemental)]]></title>
+									(Don't Buy the Seller)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:12:04 GMT</pubDate>
@@ -179,34 +179,34 @@
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>3</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">엘리멘탈
+	                        <strong class="tit ellip">타겟
 	                        	<span class="en ellip">
-									(Elemental)	                        	
+									(Don't Buy the Seller)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                612,270,529원
-	                                <span class="cumu">(누적: 70,034,004,991원)</span>
+	                                532,242,664원
+	                                <span class="cumu">(누적: 3,589,580,164원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                61,768명
-	                                <span class="cumu">(누적:7,126,892명)</span>
+	                                54,895명
+	                                <span class="cumu">(누적:379,800명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/05/thumb_x110/thn_1d8f3d4b27d8479e9250de7c217028ec.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/08/thumb_x110/thn_2205177b673543e199c03f8b7edf74cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
