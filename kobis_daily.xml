@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 03:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 04:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,9 @@
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_ca12c92b0050461c813a68c6ad6da23f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가문의 영광: 리턴즈]]></title>
+            <title><![CDATA[가문의 영광: 리턴즈
+								
+									(Marrying the Mafia)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 04 Jun 2023 06:12:26 GMT</pubDate>
@@ -64,7 +66,7 @@
 	                        
 	                        <strong class="tit ellip">가문의 영광: 리턴즈
 								<span class="en ellip">
-									&nbsp;	                        	
+									(Marrying the Mafia)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
@@ -111,8 +113,8 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                86,122,821원
-	                                <span class="cumu">(누적: 230,309,050원)</span>
+	                                86,124,821원
+	                                <span class="cumu">(누적: 230,311,050원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
