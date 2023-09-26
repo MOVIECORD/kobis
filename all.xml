@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 14:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                158,731,773원
-	                                <span class="cumu">(누적: 12,818,868,644원)</span>
+	                                186,836,231원
+	                                <span class="cumu">(누적: 13,005,704,875원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                19,264명
-	                                <span class="cumu">(누적:1,339,166명)</span>
+	                                23,065명
+	                                <span class="cumu">(누적:1,362,231명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_ca12c92b0050461c813a68c6ad6da23f.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                94,311,795원
-	                                <span class="cumu">(누적: 1,005,541,618원)</span>
+	                                107,136,111원
+	                                <span class="cumu">(누적: 1,112,677,729원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                10,434명
-	                                <span class="cumu">(누적:105,703명)</span>
+	                                11,961명
+	                                <span class="cumu">(누적:117,664명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_4f6f8760de4d484b80898aab4493e920.jpg" length="0" type="image/jpg"/>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                67,205,260원
-	                                <span class="cumu">(누적: 847,303,841원)</span>
+	                                90,346,457원
+	                                <span class="cumu">(누적: 937,650,298원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                6,937명
-	                                <span class="cumu">(누적:84,827명)</span>
+	                                9,429명
+	                                <span class="cumu">(누적:94,256명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/08/thumb_x110/thn_13244f9cd479411b9efd3608e1d7a917.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오펜하이머
+            <title><![CDATA[1947 보스톤
 								
-									(Oppenheimer) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Road to Boston) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -144,7 +144,48 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>26</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">1947 보스톤
+								<span class="en ellip">
+									(Road to Boston)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                65,281,000원
+	                                <span class="cumu">(누적: 228,567,000원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                6,037명
+	                                <span class="cumu">(누적:22,581명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_92a4a7b6b2fe4002b0edd8af5200c405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오펜하이머
+								
+									(Oppenheimer) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
 	                            	
 	                            	
 	                            
@@ -158,59 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                42,132,421원
-	                                <span class="cumu">(누적: 33,798,838,167원)</span>
+	                                55,063,517원
+	                                <span class="cumu">(누적: 33,853,901,684원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,605명
-	                                <span class="cumu">(누적:3,176,499명)</span>
+	                                6,000명
+	                                <span class="cumu">(누적:3,182,499명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/07/thumb_x110/thn_6ceb3200629f42c8bbac3fedf994a5ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베니스 유령 살인사건
-								
-									(A haunting in Venice) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">베니스 유령 살인사건
-								<span class="en ellip">
-									(A haunting in Venice)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                36,595,207원
-	                                <span class="cumu">(누적: 1,910,151,936원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                3,973명
-	                                <span class="cumu">(누적:195,446명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_d0ba3654c4ac4ec491220212f05275e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠
@@ -621,8 +621,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                19,264명
-	                                (누적:1,339,166명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                23,065명
+	                                (누적:1,362,231명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -635,8 +635,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                10,434명
-	                                (누적:105,703명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                11,961명
+	                                (누적:117,664명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -649,8 +649,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                6,937명
-	                                (누적:84,827명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                9,429명
+	                                (누적:94,256명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
