@@ -4,11 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[30일 (KOBIS ─ 일별 박스오피스)]]></title>
+            <title><![CDATA[30일
+								
+									(Love Reset) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -27,7 +29,7 @@
 	                        
 	                        <strong class="tit ellip">30일
 								<span class="en ellip">
-									&nbsp;	                        	
+									(Love Reset)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
@@ -75,14 +77,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                236,122,043원
-	                                <span class="cumu">(누적: 14,931,895,753원)</span>
+	                                <span class="cumu">(누적: 14,931,888,753원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                25,066명
-	                                <span class="cumu">(누적:1,537,516명)</span>
+	                                <span class="cumu">(누적:1,537,515명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_5acf1deb1d8a45a8ac19c1d754b7bf04.jpg" length="0" type="image/jpg"/>
@@ -234,15 +236,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                11,153,396,256원
-	                                <span class="cumu">(누적: 11,346,318,763원)</span>
+	                                11,153,389,256원
+	                                <span class="cumu">(누적: 11,346,311,763원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,155,507명
-	                                <span class="cumu">(누적:1,173,947명)</span>
+	                                1,155,506명
+	                                <span class="cumu">(누적:1,173,946명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_5acf1deb1d8a45a8ac19c1d754b7bf04.jpg" length="0" type="image/jpg"/>
@@ -439,15 +441,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                8,100,853,619원
-	                                <span class="cumu">(누적: 11,346,318,763원)</span>
+	                                8,100,846,619원
+	                                <span class="cumu">(누적: 11,346,311,763원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                817,094명
-	                                <span class="cumu">(누적:1,173,947명)</span>
+	                                817,093명
+	                                <span class="cumu">(누적:1,173,946명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_5acf1deb1d8a45a8ac19c1d754b7bf04.jpg" length="0" type="image/jpg"/>
@@ -626,7 +628,7 @@
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[30일
 								<span class="en ellip">
-									&nbsp;	                        	
+									(Love Reset)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_8e6258584be54550a15ca96d1bb1011b.jpg" length="0" type="image/jpg"/>
         </item>
@@ -634,7 +636,7 @@
             <title><![CDATA[관객 수
 	                            
 	                                25,066명
-	                                (누적:1,537,516명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                (누적:1,537,515명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
