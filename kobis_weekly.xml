@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주간 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 14:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 15:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                5,864,903,588원
-	                                <span class="cumu">(누적: 11,980,165,609원)</span>
+	                                3,800,476,418원
+	                                <span class="cumu">(누적: 15,780,642,027원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                590,438명
-	                                <span class="cumu">(누적:1,210,316명)</span>
+	                                385,489명
+	                                <span class="cumu">(누적:1,595,805명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_8e6258584be54550a15ca96d1bb1011b.jpg" length="0" type="image/jpg"/>
@@ -62,8 +62,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>9</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,18 +76,100 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,466,694,901원
-	                                <span class="cumu">(누적: 1,634,407,535원)</span>
+	                                695,688,039원
+	                                <span class="cumu">(누적: 2,330,095,574원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                149,663명
-	                                <span class="cumu">(누적:166,901명)</span>
+	                                72,788명
+	                                <span class="cumu">(누적:239,689명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_6abe73ab56044b5688e44d49789db2f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라워 킬링 문
+	                        	
+									(Killers of the Flower Moon)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>45</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">플라워 킬링 문
+	                        	<span class="en ellip">
+									(Killers of the Flower Moon)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                668,307,890원
+	                                <span class="cumu">(누적: 674,211,890원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                69,240명
+	                                <span class="cumu">(누적:69,896명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_d4657ad8012f47789a564c2596973ac3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소시스트: 믿는 자
+	                        	
+									(The Exorcist: Believer)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>116</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">엑소시스트: 믿는 자
+	                        	<span class="en ellip">
+									(The Exorcist: Believer)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                643,515,379원
+	                                <span class="cumu">(누적: 644,874,379원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                61,858명
+	                                <span class="cumu">(누적:62,009명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_35c6894117f84442828dd544e992c95e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천박사 퇴마 연구소: 설경의 비밀
@@ -97,12 +179,12 @@
             <guid>javascript:;</guid>
             <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
 	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
 	                            	
@@ -117,100 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,432,432,248원
-	                                <span class="cumu">(누적: 18,011,548,048원)</span>
+	                                498,353,709원
+	                                <span class="cumu">(누적: 18,509,901,757원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                147,657명
-	                                <span class="cumu">(누적:1,850,334명)</span>
+	                                51,588명
+	                                <span class="cumu">(누적:1,901,922명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_5acf1deb1d8a45a8ac19c1d754b7bf04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1947 보스톤
-	                        	
-									(Road to Boston)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">1947 보스톤
-	                        	<span class="en ellip">
-									(Road to Boston)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                739,392,824원
-	                                <span class="cumu">(누적: 8,669,842,417원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                89,903명
-	                                <span class="cumu">(누적:918,987명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_2c7bffbf5cd444f889d83c1af36d3fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼피 구조대: 더 마이티 무비
-	                        	
-									(PAW Patrol: The Mighty Movie)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 30 Jan 2023 17:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">퍼피 구조대: 더 마이티 무비
-	                        	<span class="en ellip">
-									(PAW Patrol: The Mighty Movie)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                608,834,515원
-	                                <span class="cumu">(누적: 1,074,575,056원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                65,579명
-	                                <span class="cumu">(누적:114,678명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_0f01915796874f1a84c80a7049fa57e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
