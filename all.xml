@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 14:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 15:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                251,407,565원
-	                                <span class="cumu">(누적: 16,030,742,492원)</span>
+	                                247,826,676원
+	                                <span class="cumu">(누적: 16,278,569,168원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                26,219명
-	                                <span class="cumu">(누적:1,621,813명)</span>
+	                                26,031명
+	                                <span class="cumu">(누적:1,647,844명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_8e6258584be54550a15ca96d1bb1011b.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                79,643,510원
-	                                <span class="cumu">(누적: 753,776,400원)</span>
+	                                86,415,284원
+	                                <span class="cumu">(누적: 840,191,684원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,710명
-	                                <span class="cumu">(누적:78,599명)</span>
+	                                9,481명
+	                                <span class="cumu">(누적:88,080명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/09/thumb_x110/thn_d4657ad8012f47789a564c2596973ac3.jpg" length="0" type="image/jpg"/>
@@ -99,9 +99,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">3</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -113,59 +117,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                54,522,000원
-	                                <span class="cumu">(누적: 56,745,000원)</span>
+	                                49,087,000원
+	                                <span class="cumu">(누적: 105,832,000원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                6,058명
-	                                <span class="cumu">(누적:6,305명)</span>
+	                                5,511명
+	                                <span class="cumu">(누적:11,816명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_3b4b88c6a73e4787bc68d912d49a0149.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화란
-								
-									(Hopeless) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">화란
-								<span class="en ellip">
-									(Hopeless)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                40,230,211원
-	                                <span class="cumu">(누적: 2,370,224,785원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                4,328명
-	                                <span class="cumu">(누적:244,003명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_6abe73ab56044b5688e44d49789db2f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블루 자이언트
@@ -175,7 +138,7 @@
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
@@ -195,18 +158,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                36,741,622원
-	                                <span class="cumu">(누적: 482,398,437원)</span>
+	                                45,375,811원
+	                                <span class="cumu">(누적: 527,774,248원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,876명
-	                                <span class="cumu">(누적:47,456명)</span>
+	                                4,765명
+	                                <span class="cumu">(누적:52,221명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_b651ea5ed3dc40d9828aa60c9a03e01a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1947 보스톤
+								
+									(Road to Boston) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">1947 보스톤
+								<span class="en ellip">
+									(Road to Boston)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                33,071,173원
+	                                <span class="cumu">(누적: 9,072,287,733원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                4,594명
+	                                <span class="cumu">(누적:972,910명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_2c7bffbf5cd444f889d83c1af36d3fbd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[30일
@@ -617,8 +621,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                26,219명
-	                                (누적:1,621,813명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                26,031명
+	                                (누적:1,647,844명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -631,8 +635,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                8,710명
-	                                (누적:78,599명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                9,481명
+	                                (누적:88,080명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -645,8 +649,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                6,058명
-	                                (누적:6,305명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                5,511명
+	                                (누적:11,816명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
