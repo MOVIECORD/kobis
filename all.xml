@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 14:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 15:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                464,853,255원
-	                                <span class="cumu">(누적: 467,076,255원)</span>
+	                                542,312,641원
+	                                <span class="cumu">(누적: 1,009,388,896원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                48,561명
-	                                <span class="cumu">(누적:48,808명)</span>
+	                                58,969명
+	                                <span class="cumu">(누적:107,777명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_8c18d197e4a84cacb72793e6efc338b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헝거게임: 노래하는 새와 뱀의 발라드
+            <title><![CDATA[더 마블스
 								
-									(The Hunger Games: The Ballad of Songbirds and Snakes) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Marvels) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -58,48 +62,7 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>23</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">헝거게임: 노래하는 새와 뱀의 발라드
-								<span class="en ellip">
-									(The Hunger Games: The Ballad of Songbirds and Snakes)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                217,893,670원
-	                                <span class="cumu">(누적: 223,757,670원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                22,419명
-	                                <span class="cumu">(누적:22,965명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_ccf7ba279d93475eafdefa0b524c516c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 마블스
-								
-									(The Marvels) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
-	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
@@ -113,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                197,160,301원
-	                                <span class="cumu">(누적: 5,187,578,947원)</span>
+	                                202,549,294원
+	                                <span class="cumu">(누적: 5,390,128,241원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                21,317명
-	                                <span class="cumu">(누적:517,122명)</span>
+	                                22,493명
+	                                <span class="cumu">(누적:539,615명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_65a860f7dfb04c449f4a0f0d3207edee.jpg" length="0" type="image/jpg"/>
@@ -130,6 +93,47 @@
             <title><![CDATA[그대들은 어떻게 살 것인가
 								
 									(The Boy and the Heron) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">그대들은 어떻게 살 것인가
+								<span class="en ellip">
+									(The Boy and the Heron)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                174,937,774원
+	                                <span class="cumu">(누적: 17,514,370,284원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                19,223명
+	                                <span class="cumu">(누적:1,792,111명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_fc249dc7cd70422095a21310423d82c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헝거게임: 노래하는 새와 뱀의 발라드
+								
+									(The Hunger Games: The Ballad of Songbirds and Snakes) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -146,63 +150,67 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">그대들은 어떻게 살 것인가
+	                        <strong class="tit ellip">헝거게임: 노래하는 새와 뱀의 발라드
 								<span class="en ellip">
-									(The Boy and the Heron)	                        	
+									(The Hunger Games: The Ballad of Songbirds and Snakes)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                156,039,796원
-	                                <span class="cumu">(누적: 17,339,432,510원)</span>
+	                                151,908,536원
+	                                <span class="cumu">(누적: 375,666,206원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                16,725명
-	                                <span class="cumu">(누적:1,772,888명)</span>
+	                                15,807명
+	                                <span class="cumu">(누적:38,772명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_fc249dc7cd70422095a21310423d82c9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_ccf7ba279d93475eafdefa0b524c516c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다크 나이트
+            <title><![CDATA[소년들
 								
-									(The Dark Knight) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Boys) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">다크 나이트
+	                        <strong class="tit ellip">소년들
 								<span class="en ellip">
-									(The Dark Knight)	                        	
+									(The Boys)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                128,172,944원
-	                                <span class="cumu">(누적: 28,336,593,984원)</span>
+	                                57,934,301원
+	                                <span class="cumu">(누적: 4,022,072,429원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,769명
-	                                <span class="cumu">(누적:4,243,129명)</span>
+	                                7,161명
+	                                <span class="cumu">(누적:419,085명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_a5259c90a0ef44359294314907e144e2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_3b4b88c6a73e4787bc68d912d49a0149.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 마블스
@@ -605,8 +613,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                48,561명
-	                                (누적:48,808명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                58,969명
+	                                (누적:107,777명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -619,22 +627,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                22,419명
-	                                (누적:22,965명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[헝거게임: 노래하는 새와 뱀의 발라드
-								<span class="en ellip">
-									(The Hunger Games: The Ballad of Songbirds and Snakes)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_ccf7ba279d93475eafdefa0b524c516c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                21,317명
-	                                (누적:517,122명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                22,493명
+	                                (누적:539,615명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
@@ -643,6 +637,20 @@
 									(The Marvels)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_65a860f7dfb04c449f4a0f0d3207edee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                19,223명
+	                                (누적:1,792,111명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 01 May 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[그대들은 어떻게 살 것인가
+								<span class="en ellip">
+									(The Boy and the Heron)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_fc249dc7cd70422095a21310423d82c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
