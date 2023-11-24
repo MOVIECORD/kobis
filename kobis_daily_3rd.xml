@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 02:23:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                12,230명
-	                                (누적:18,584명)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 01 May 2023 14:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[괴물
-								<span class="en ellip">
-									(Monster)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_1ef55820eb494367b993f1110f747f15.jpeg" length="0" type="image/jpeg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
+    <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
+    <updated>2023-11-24T03:12:37.836Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
+</feed>
