@@ -4,22 +4,22 @@
         <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 14:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 15:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                15,606명
-	                                (누적:78,511명)]]></title>
+	                                30,284명
+	                                (누적:624,681명)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[괴물
+            <content:encoded><![CDATA[프레디의 피자가게
 								<span class="en ellip">
-									(Monster)	                        	
+									(Five Nights at Freddy's)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_1ef55820eb494367b993f1110f747f15.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_8c18d197e4a84cacb72793e6efc338b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
