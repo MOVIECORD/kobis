@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 14:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,894,427,378원
-	                                <span class="cumu">(누적: 70,906,629,466원)</span>
+	                                1,770,427,371원
+	                                <span class="cumu">(누적: 72,677,056,837원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                199,973명
-	                                <span class="cumu">(누적:7,362,631명)</span>
+	                                188,607명
+	                                <span class="cumu">(누적:7,551,238명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
@@ -76,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                234,233,824원
-	                                <span class="cumu">(누적: 2,522,496,223원)</span>
+	                                240,056,335원
+	                                <span class="cumu">(누적: 2,762,552,558원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                25,913명
-	                                <span class="cumu">(누적:268,197명)</span>
+	                                26,777명
+	                                <span class="cumu">(누적:294,974명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_7b2ec15770044659878b8471f356e80a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나폴레옹
+            <title><![CDATA[괴물
 								
-									(Napoleon)]]></title>
+									(Monster)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -103,49 +103,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">나폴레옹
-								<span class="en ellip">
-									(Napoleon)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                101,080,562원
-	                                <span class="cumu">(누적: 1,650,506,470원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                10,805명
-	                                <span class="cumu">(누적:162,574명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_c9de7879d8664978b4c533e283b61fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괴물
-								
-									(Monster)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,23 +117,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                86,132,426원
-	                                <span class="cumu">(누적: 2,111,095,563원)</span>
+	                                114,378,700원
+	                                <span class="cumu">(누적: 2,225,474,263원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                9,104명
-	                                <span class="cumu">(누적:221,400명)</span>
+	                                12,504명
+	                                <span class="cumu">(누적:233,904명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_1ef55820eb494367b993f1110f747f15.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[싱글 인 서울
+            <title><![CDATA[뽀로로 극장판 슈퍼스타 대모험
 								
-									(Single in Seoul)]]></title>
+									(PORORO POPSTAR ADVENTURE)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>25</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">뽀로로 극장판 슈퍼스타 대모험
+								<span class="en ellip">
+									(PORORO POPSTAR ADVENTURE)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                72,503,683원
+	                                <span class="cumu">(누적: 418,585,051원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                9,269명
+	                                <span class="cumu">(누적:45,814명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_3934be5bb1d74e83bf9ee15db5d21725.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말하고 싶은 비밀
+								
+									(Our Secret Diary)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -185,32 +185,32 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>18</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">싱글 인 서울
+	                        <strong class="tit ellip">말하고 싶은 비밀
 								<span class="en ellip">
-									(Single in Seoul)	                        	
+									(Our Secret Diary)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                68,980,639원
-	                                <span class="cumu">(누적: 3,272,841,894원)</span>
+	                                81,760,666원
+	                                <span class="cumu">(누적: 102,381,666원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,647명
-	                                <span class="cumu">(누적:350,375명)</span>
+	                                9,161명
+	                                <span class="cumu">(누적:11,416명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_e060f80b80524a84b97724b83752269e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_63e7ade2f3c047aa9b78a1df3523ae2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
