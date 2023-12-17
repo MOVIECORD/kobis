@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 23:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 00:54:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                393,488,212원
-	                                <span class="cumu">(누적: 3,662,591,184원)</span>
+	                                393,464,212원
+	                                <span class="cumu">(누적: 3,662,567,184원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                39,373명
-	                                <span class="cumu">(누적:389,449명)</span>
+	                                39,370명
+	                                <span class="cumu">(누적:389,446명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/10/thumb_x110/thn_7b2ec15770044659878b8471f356e80a.jpg" length="0" type="image/jpg"/>
@@ -653,8 +653,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                39,373명
-	                                (누적:389,449명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                39,370명
+	                                (누적:389,446명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
