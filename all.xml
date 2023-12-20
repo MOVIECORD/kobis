@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 00:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 01:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,14 +36,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                1,283,224,925원
-	                                <span class="cumu">(누적: 89,141,251,461원)</span>
+	                                <span class="cumu">(누적: 89,141,227,461원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                135,816명
-	                                <span class="cumu">(누적:9,219,204명)</span>
+	                                <span class="cumu">(누적:9,219,202명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
@@ -240,15 +240,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                19,298,803,579원
-	                                <span class="cumu">(누적: 86,501,380,671원)</span>
+	                                19,298,779,579원
+	                                <span class="cumu">(누적: 86,501,356,671원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,969,003명
-	                                <span class="cumu">(누적:8,940,890명)</span>
+	                                1,969,001명
+	                                <span class="cumu">(누적:8,940,888명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
@@ -445,15 +445,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                12,156,565,337원
-	                                <span class="cumu">(누적: 86,501,380,671원)</span>
+	                                12,156,541,337원
+	                                <span class="cumu">(누적: 86,501,356,671원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                1,211,753명
-	                                <span class="cumu">(누적:8,940,890명)</span>
+	                                1,211,751명
+	                                <span class="cumu">(누적:8,940,888명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
@@ -626,7 +626,7 @@
             <title><![CDATA[관객 수
 	                            
 	                                135,816명
-	                                (누적:9,219,204명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                (누적:9,219,202명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
