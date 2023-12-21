@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 22:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 23:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,8 +35,8 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,582,771,882원
-	                                <span class="cumu">(누적: 3,925,707,016원)</span>
+	                                1,582,786,082원
+	                                <span class="cumu">(누적: 3,925,721,216원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                985,513,563원
-	                                <span class="cumu">(누적: 91,081,650,891원)</span>
+	                                985,523,563원
+	                                <span class="cumu">(누적: 91,081,660,891원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                103,069명
-	                                <span class="cumu">(누적:9,422,548명)</span>
+	                                103,070명
+	                                <span class="cumu">(누적:9,422,549명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
@@ -117,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                407,576,637원
-	                                <span class="cumu">(누적: 1,039,060,006원)</span>
+	                                407,591,437원
+	                                <span class="cumu">(누적: 1,039,074,806원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                41,128명
-	                                <span class="cumu">(누적:104,829명)</span>
+	                                41,129명
+	                                <span class="cumu">(누적:104,830명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_336e52139823454589f7226aed1e72d7.jpg" length="0" type="image/jpg"/>
@@ -639,8 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                103,069명
-	                                (누적:9,422,548명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                103,070명
+	                                (누적:9,422,549명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -653,8 +653,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                41,128명
-	                                (누적:104,829명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                41,129명
+	                                (누적:104,830명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
