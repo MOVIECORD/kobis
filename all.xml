@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 14:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 15:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[노량: 죽음의 바다
+            <title><![CDATA[위시
 								
-									(Noryang: Deadly Sea ) (KOBIS ─ 일별 박스오피스)]]></title>
+									(WISH) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -21,8 +21,49 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>16</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">위시
+								<span class="en ellip">
+									(WISH)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,019,102,693원
+	                                <span class="cumu">(누적: 1,031,735,693원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                110,432명
+	                                <span class="cumu">(누적:111,769명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노량: 죽음의 바다
+								
+									(Noryang: Deadly Sea ) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -35,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                657,022,879원
-	                                <span class="cumu">(누적: 37,580,161,536원)</span>
+	                                493,207,758원
+	                                <span class="cumu">(누적: 38,073,369,294원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                70,971명
-	                                <span class="cumu">(누적:3,799,383명)</span>
+	                                53,474명
+	                                <span class="cumu">(누적:3,852,857명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_5446a0c07b3d4f46857f65ad23b713f8.jpg" length="0" type="image/jpg"/>
@@ -56,14 +97,14 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                645,540,622원
-	                                <span class="cumu">(누적: 118,662,557,769원)</span>
+	                                476,196,348원
+	                                <span class="cumu">(누적: 119,138,754,117원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                67,774명
-	                                <span class="cumu">(누적:12,184,946명)</span>
+	                                50,058명
+	                                <span class="cumu">(누적:12,235,004명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
@@ -97,14 +138,14 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,15 +158,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                178,944,713원
-	                                <span class="cumu">(누적: 6,250,607,722원)</span>
+	                                133,378,798원
+	                                <span class="cumu">(누적: 6,383,986,520원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                19,367명
-	                                <span class="cumu">(누적:645,865명)</span>
+	                                14,399명
+	                                <span class="cumu">(누적:660,264명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_4c85b28fcda242c6a4f93ff9091015f1.jpg" length="0" type="image/jpg"/>
@@ -138,14 +179,14 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,59 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                142,093,716원
-	                                <span class="cumu">(누적: 8,109,372,469원)</span>
+	                                76,984,139원
+	                                <span class="cumu">(누적: 8,186,356,608원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,930명
-	                                <span class="cumu">(누적:787,237명)</span>
+	                                8,288명
+	                                <span class="cumu">(누적:795,525명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_336e52139823454589f7226aed1e72d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트롤: 밴드 투게더
-								
-									(Trolls Band Together) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">트롤: 밴드 투게더
-								<span class="en ellip">
-									(Trolls Band Together)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                67,572,105원
-	                                <span class="cumu">(누적: 3,450,480,060원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                7,548명
-	                                <span class="cumu">(누적:373,431명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_0cc95d9cd0eb43dbacdc3986e845b62a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노량: 죽음의 바다
@@ -625,8 +625,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                70,971명
-	                                (누적:3,799,383명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                110,432명
+	                                (누적:111,769명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[위시
+								<span class="en ellip">
+									(WISH)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                53,474명
+	                                (누적:3,852,857명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -639,8 +653,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                67,774명
-	                                (누적:12,184,946명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                50,058명
+	                                (누적:12,235,004명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -649,20 +663,6 @@
 									(12.12: THE DAY)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                19,367명
-	                                (누적:645,865명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~
-								<span class="en ellip">
-									(New Dimension! Crayon Shinchan the Movie: Battle of Supernatural Powers ~Flying Sushi~)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_4c85b28fcda242c6a4f93ff9091015f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
