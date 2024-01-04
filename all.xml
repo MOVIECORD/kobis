@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 14:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 15:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,8 +21,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>16</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -35,18 +35,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,019,751,893원
-	                                <span class="cumu">(누적: 1,032,384,893원)</span>
+	                                639,816,149원
+	                                <span class="cumu">(누적: 1,672,201,042원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                110,514명
-	                                <span class="cumu">(누적:111,851명)</span>
+	                                68,637명
+	                                <span class="cumu">(누적:180,488명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 봄
+								
+									(12.12: THE DAY) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">서울의 봄
+								<span class="en ellip">
+									(12.12: THE DAY)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                427,427,007원
+	                                <span class="cumu">(누적: 119,566,492,524원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                45,246명
+	                                <span class="cumu">(누적:12,280,276명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노량: 죽음의 바다
@@ -56,7 +97,7 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
@@ -76,59 +117,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                494,176,758원
-	                                <span class="cumu">(누적: 38,074,308,294원)</span>
+	                                413,938,762원
+	                                <span class="cumu">(누적: 38,488,247,056원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                53,599명
-	                                <span class="cumu">(누적:3,852,980명)</span>
+	                                44,744명
+	                                <span class="cumu">(누적:3,897,724명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_5446a0c07b3d4f46857f65ad23b713f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 봄
-								
-									(12.12: THE DAY) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">서울의 봄
-								<span class="en ellip">
-									(12.12: THE DAY)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                476,659,348원
-	                                <span class="cumu">(누적: 119,139,065,517원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                50,098명
-	                                <span class="cumu">(누적:12,235,030명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~
@@ -142,10 +142,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,23 +158,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                133,416,798원
-	                                <span class="cumu">(누적: 6,384,008,520원)</span>
+	                                112,146,785원
+	                                <span class="cumu">(누적: 6,496,155,305원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,405명
-	                                <span class="cumu">(누적:660,268명)</span>
+	                                12,112명
+	                                <span class="cumu">(누적:672,380명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_4c85b28fcda242c6a4f93ff9091015f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아쿠아맨과 로스트 킹덤
+            <title><![CDATA[더 퍼스트 슬램덩크
 								
-									( Aquaman and the Lost Kingdom) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The First Slam Dunk) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -183,34 +183,34 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>55</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">아쿠아맨과 로스트 킹덤
+	                        <strong class="tit ellip">더 퍼스트 슬램덩크
 								<span class="en ellip">
-									( Aquaman and the Lost Kingdom)	                        	
+									(The First Slam Dunk)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                77,136,139원
-	                                <span class="cumu">(누적: 8,186,508,608원)</span>
+	                                79,679,036원
+	                                <span class="cumu">(누적: 50,197,134,715원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,299명
-	                                <span class="cumu">(누적:795,536명)</span>
+	                                8,116명
+	                                <span class="cumu">(누적:4,800,390명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_336e52139823454589f7226aed1e72d7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_9023413652504fb5ab723bbe1ef992a6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노량: 죽음의 바다
@@ -625,8 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                110,514명
-	                                (누적:111,851명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                68,637명
+	                                (누적:180,488명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -639,22 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                53,599명
-	                                (누적:3,852,980명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[노량: 죽음의 바다
-								<span class="en ellip">
-									(Noryang: Deadly Sea )	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_5446a0c07b3d4f46857f65ad23b713f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                50,098명
-	                                (누적:12,235,030명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                45,246명
+	                                (누적:12,280,276명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -663,6 +649,20 @@
 									(12.12: THE DAY)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                44,744명
+	                                (누적:3,897,724명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[노량: 죽음의 바다
+								<span class="en ellip">
+									(Noryang: Deadly Sea )	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_5446a0c07b3d4f46857f65ad23b713f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
