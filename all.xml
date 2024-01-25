@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 14:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                557,460,436원
-	                                <span class="cumu">(누적: 860,140,230원)</span>
+	                                459,114,260원
+	                                <span class="cumu">(누적: 1,319,254,490원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                61,100명
-	                                <span class="cumu">(누적:91,242명)</span>
+	                                50,076명
+	                                <span class="cumu">(누적:141,318명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/01/thumb_x110/thn_1684bf7e41914b808510d89db2c10433.jpg" length="0" type="image/jpg"/>
@@ -56,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -72,55 +76,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                176,471,471원
-	                                <span class="cumu">(누적: 11,313,424,006원)</span>
+	                                147,837,901원
+	                                <span class="cumu">(누적: 11,461,261,907원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,902명
-	                                <span class="cumu">(누적:1,167,075명)</span>
+	                                15,937명
+	                                <span class="cumu">(누적:1,183,012명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7066b630670440a29392a03134a489e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도그맨
-								
-									(DOGMAN) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">도그맨
-								<span class="en ellip">
-									(DOGMAN)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                89,527,612원
-	                                <span class="cumu">(누적: 100,507,612원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                10,188명
-	                                <span class="cumu">(누적:11,306명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_4e2c47d0a6df4981885532cff4fcd307.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위시
@@ -130,13 +97,13 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
@@ -150,15 +117,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                91,049,306원
-	                                <span class="cumu">(누적: 11,983,193,804원)</span>
+	                                92,020,081원
+	                                <span class="cumu">(누적: 12,075,213,885원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                9,927명
-	                                <span class="cumu">(누적:1,252,541명)</span>
+	                                10,512명
+	                                <span class="cumu">(누적:1,263,053명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
@@ -167,6 +134,47 @@
             <title><![CDATA[서울의 봄
 								
 									(12.12: THE DAY) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">서울의 봄
+								<span class="en ellip">
+									(12.12: THE DAY)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                74,237,652원
+	                                <span class="cumu">(누적: 126,604,632,268원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                7,777명
+	                                <span class="cumu">(누적:12,986,917명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도그맨
+								
+									(DOGMAN) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -183,26 +191,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">서울의 봄
+	                        <strong class="tit ellip">도그맨
 								<span class="en ellip">
-									(12.12: THE DAY)	                        	
+									(DOGMAN)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                81,374,174원
-	                                <span class="cumu">(누적: 126,530,394,616원)</span>
+	                                47,390,837원
+	                                <span class="cumu">(누적: 147,898,449원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,455명
-	                                <span class="cumu">(누적:12,979,140명)</span>
+	                                5,217명
+	                                <span class="cumu">(누적:16,523명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_4e2c47d0a6df4981885532cff4fcd307.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외계+인 2부
@@ -617,8 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                61,100명
-	                                (누적:91,242명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                50,076명
+	                                (누적:141,318명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -631,8 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                18,902명
-	                                (누적:1,167,075명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                15,937명
+	                                (누적:1,183,012명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -645,16 +653,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                10,188명
-	                                (누적:11,306명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                10,512명
+	                                (누적:1,263,053명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[도그맨
+            <content:encoded><![CDATA[위시
 								<span class="en ellip">
-									(DOGMAN)	                        	
+									(WISH)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_4e2c47d0a6df4981885532cff4fcd307.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
