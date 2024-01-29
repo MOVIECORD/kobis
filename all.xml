@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 14:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 15:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,358,041,902원
-	                                <span class="cumu">(누적: 4,783,451,544원)</span>
+	                                425,275,022원
+	                                <span class="cumu">(누적: 5,208,726,566원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                142,642명
-	                                <span class="cumu">(누적:504,615명)</span>
+	                                46,705명
+	                                <span class="cumu">(누적:551,320명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/01/thumb_x110/thn_1684bf7e41914b808510d89db2c10433.jpg" length="0" type="image/jpg"/>
@@ -76,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                452,425,262원
-	                                <span class="cumu">(누적: 12,643,672,180원)</span>
+	                                121,454,721원
+	                                <span class="cumu">(누적: 12,765,126,901원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                47,179명
-	                                <span class="cumu">(누적:1,305,961명)</span>
+	                                13,112명
+	                                <span class="cumu">(누적:1,319,073명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7066b630670440a29392a03134a489e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위시
+            <title><![CDATA[서울의 봄
 								
-									(WISH) (KOBIS ─ 일별 박스오피스)]]></title>
+									(12.12: THE DAY) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -103,49 +103,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">위시
-								<span class="en ellip">
-									(WISH)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                274,685,186원
-	                                <span class="cumu">(누적: 12,766,318,111원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                28,474명
-	                                <span class="cumu">(누적:1,335,323명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 봄
-								
-									(12.12: THE DAY) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,23 +117,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                195,195,421원
-	                                <span class="cumu">(누적: 127,115,271,665원)</span>
+	                                74,088,305원
+	                                <span class="cumu">(누적: 127,189,359,970원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                19,481명
-	                                <span class="cumu">(누적:13,037,699명)</span>
+	                                7,800명
+	                                <span class="cumu">(누적:13,045,499명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인투 더 월드
+            <title><![CDATA[위시
 								
-									(Migration) (KOBIS ─ 일별 박스오피스)]]></title>
+									(WISH) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">위시
+								<span class="en ellip">
+									(WISH)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                65,040,237원
+	                                <span class="cumu">(누적: 12,831,358,348원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                7,207명
+	                                <span class="cumu">(누적:1,342,530명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노량: 죽음의 바다
+								
+									(Noryang: Deadly Sea ) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -185,32 +185,32 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">인투 더 월드
+	                        <strong class="tit ellip">노량: 죽음의 바다
 								<span class="en ellip">
-									(Migration)	                        	
+									(Noryang: Deadly Sea )	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                171,047,417원
-	                                <span class="cumu">(누적: 2,809,537,453원)</span>
+	                                30,011,652원
+	                                <span class="cumu">(누적: 44,827,996,790원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,346명
-	                                <span class="cumu">(누적:307,004명)</span>
+	                                3,311명
+	                                <span class="cumu">(누적:4,553,155명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_5749dccb2f6146dbbe8ead359f4571f3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_5446a0c07b3d4f46857f65ad23b713f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시민덕희
@@ -625,8 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                142,642명
-	                                (누적:504,615명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                46,705명
+	                                (누적:551,320명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -639,8 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                47,179명
-	                                (누적:1,305,961명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                13,112명
+	                                (누적:1,319,073명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -653,16 +653,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                28,474명
-	                                (누적:1,335,323명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                7,800명
+	                                (누적:13,045,499명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[위시
+            <content:encoded><![CDATA[서울의 봄
 								<span class="en ellip">
-									(WISH)	                        	
+									(12.12: THE DAY)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7a39c60c8f3f4edb88254625a0783d50.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
