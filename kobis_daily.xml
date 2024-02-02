@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 14:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 15:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                773,777,208원
-	                                <span class="cumu">(누적: 2,282,939,153원)</span>
+	                                929,331,523원
+	                                <span class="cumu">(누적: 3,212,270,676원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                78,662명
-	                                <span class="cumu">(누적:259,921명)</span>
+	                                92,010명
+	                                <span class="cumu">(누적:351,931명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/01/thumb_x110/thn_909ae4c66c9a439f98f90afe60ec42fb.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                350,841,789원
-	                                <span class="cumu">(누적: 6,464,729,085원)</span>
+	                                386,889,622원
+	                                <span class="cumu">(누적: 6,851,618,707원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                38,104명
-	                                <span class="cumu">(누적:700,108명)</span>
+	                                40,658명
+	                                <span class="cumu">(누적:740,766명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/01/thumb_x110/thn_1684bf7e41914b808510d89db2c10433.jpg" length="0" type="image/jpg"/>
@@ -117,55 +117,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                74,015,495원
-	                                <span class="cumu">(누적: 13,084,959,414원)</span>
+	                                91,868,348원
+	                                <span class="cumu">(누적: 13,176,827,762원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,850명
-	                                <span class="cumu">(누적:1,356,602명)</span>
+	                                9,517명
+	                                <span class="cumu">(누적:1,366,119명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/12/thumb_x110/thn_7066b630670440a29392a03134a489e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도그데이즈
+            <title><![CDATA[서울의 봄
 								
-									(Dog Days)]]></title>
+									(12.12: THE DAY)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">4</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">도그데이즈
+	                        <strong class="tit ellip">서울의 봄
 								<span class="en ellip">
-									(Dog Days)	                        	
+									(12.12: THE DAY)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                67,783,000원
-	                                <span class="cumu">(누적: 164,213,000원)</span>
+	                                49,679,323원
+	                                <span class="cumu">(누적: 127,410,167,543원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,499명
-	                                <span class="cumu">(누적:18,209명)</span>
+	                                5,484명
+	                                <span class="cumu">(누적:13,070,617명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/01/thumb_x110/thn_05c466b1b11c46b593acb44ee54cd808.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2023/11/thumb_x110/thn_2d4842b5ae044adfaa2769ab51542ab8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건국전쟁
@@ -177,9 +181,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -191,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                52,402,839원
-	                                <span class="cumu">(누적: 69,984,839원)</span>
+	                                55,021,764원
+	                                <span class="cumu">(누적: 125,006,603원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                5,411명
-	                                <span class="cumu">(누적:7,162명)</span>
+	                                5,438명
+	                                <span class="cumu">(누적:12,600명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/01/thumb_x110/thn_4836112d3a2448889296eb52729817b4.jpg" length="0" type="image/jpg"/>
