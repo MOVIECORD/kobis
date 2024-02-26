@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 07:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 08:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -172,7 +172,9 @@
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/02/thumb_x110/thn_cea96a15c5b241b1a165c146ca31e5f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레드이발소: 셀럽 인 베이커리타운 (KOBIS ─ 일별 박스오피스)]]></title>
+            <title><![CDATA[브레드이발소: 셀럽 인 베이커리타운
+								
+									(Bread Barbershop : Celeb in Bakery Town ) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -191,7 +193,7 @@
 	                        
 	                        <strong class="tit ellip">브레드이발소: 셀럽 인 베이커리타운
 								<span class="en ellip">
-									&nbsp;	                        	
+									(Bread Barbershop : Celeb in Bakery Town )	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
