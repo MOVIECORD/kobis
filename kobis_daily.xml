@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 15:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                524,278,453원
-	                                <span class="cumu">(누적: 4,871,666,452원)</span>
+	                                1,791,438,531원
+	                                <span class="cumu">(누적: 6,663,104,983원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                54,113명
-	                                <span class="cumu">(누적:523,275명)</span>
+	                                188,179명
+	                                <span class="cumu">(누적:711,454명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_e3e20bd1edf347aeb3ae835d6cc5351a.jpg" length="0" type="image/jpg"/>
@@ -76,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                296,167,100원
-	                                <span class="cumu">(누적: 111,223,936,511원)</span>
+	                                548,347,665원
+	                                <span class="cumu">(누적: 111,772,284,176원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                29,905명
-	                                <span class="cumu">(누적:11,515,132명)</span>
+	                                54,159명
+	                                <span class="cumu">(누적:11,569,291명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/02/thumb_x110/thn_febb838d186b46878ca5467759930333.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[댓글부대
+            <title><![CDATA[남은 인생 10년
 								
-									(Troll Factory)]]></title>
+									(The Last 10 Years)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 28 Mar 2024 13:11:57 GMT</pubDate>
@@ -103,49 +103,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">댓글부대
-								<span class="en ellip">
-									(Troll Factory)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                109,108,096원
-	                                <span class="cumu">(누적: 8,367,086,696원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                10,751명
-	                                <span class="cumu">(누적:883,547명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_6417ac2c3e824da38e64743c06b0d098.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남은 인생 10년
-								
-									(The Last 10 Years)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 28 Mar 2024 13:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,18 +117,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                100,795,928원
-	                                <span class="cumu">(누적: 2,818,008,984원)</span>
+	                                244,755,320원
+	                                <span class="cumu">(누적: 3,062,764,304원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                9,902명
-	                                <span class="cumu">(누적:274,158명)</span>
+	                                24,104명
+	                                <span class="cumu">(누적:298,262명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_3a7d99a378004dbb8679c6106144846e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댓글부대
+								
+									(Troll Factory)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 28 Mar 2024 13:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">댓글부대
+								<span class="en ellip">
+									(Troll Factory)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                175,040,316원
+	                                <span class="cumu">(누적: 8,542,127,012원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                17,583명
+	                                <span class="cumu">(누적:901,130명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_6417ac2c3e824da38e64743c06b0d098.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오멘: 저주의 시작
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                68,772,815원
-	                                <span class="cumu">(누적: 1,279,821,251원)</span>
+	                                124,094,533원
+	                                <span class="cumu">(누적: 1,403,915,784원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                6,553명
-	                                <span class="cumu">(누적:125,505명)</span>
+	                                11,711명
+	                                <span class="cumu">(누적:137,216명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_32b9d47f9ad142e39b5e8f7c98fff3e2.jpg" length="0" type="image/jpg"/>
