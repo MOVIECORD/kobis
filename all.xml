@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 14:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 15:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                6,750,102,551원
-	                                <span class="cumu">(누적: 67,537,159,617원)</span>
+	                                8,288,277,957원
+	                                <span class="cumu">(누적: 75,825,437,574원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                689,909명
-	                                <span class="cumu">(누적:7,111,379명)</span>
+	                                850,374명
+	                                <span class="cumu">(누적:7,961,753명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
@@ -76,59 +76,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                392,003,104원
-	                                <span class="cumu">(누적: 14,076,524,423원)</span>
+	                                1,044,604,775원
+	                                <span class="cumu">(누적: 15,121,129,198원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                40,748명
-	                                <span class="cumu">(누적:1,510,415명)</span>
+	                                108,666명
+	                                <span class="cumu">(누적:1,619,081명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_e3e20bd1edf347aeb3ae835d6cc5351a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스턴트맨
-								
-									(The Fall Guy) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">스턴트맨
-								<span class="en ellip">
-									(The Fall Guy)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                247,950,044원
-	                                <span class="cumu">(누적: 1,196,937,992원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                22,639명
-	                                <span class="cumu">(누적:119,195명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포켓몬스터: 성도지방 이야기, 최종장 (KOBIS ─ 일별 박스오피스)]]></title>
@@ -136,7 +95,7 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
@@ -156,18 +115,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                173,745,983원
-	                                <span class="cumu">(누적: 506,389,506원)</span>
+	                                390,464,405원
+	                                <span class="cumu">(누적: 896,853,911원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                19,380명
-	                                <span class="cumu">(누적:58,780명)</span>
+	                                42,976명
+	                                <span class="cumu">(누적:101,756명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_c76f4fe9af9c49e09d8d2a22a31f013a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스턴트맨
+								
+									(The Fall Guy) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">스턴트맨
+								<span class="en ellip">
+									(The Fall Guy)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                324,710,800원
+	                                <span class="cumu">(누적: 1,521,648,792원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                29,450명
+	                                <span class="cumu">(누적:148,645명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남은 인생 10년
@@ -181,10 +181,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -197,15 +197,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                82,635,097원
-	                                <span class="cumu">(누적: 4,562,841,014원)</span>
+	                                104,929,136원
+	                                <span class="cumu">(누적: 4,667,770,150원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,165명
-	                                <span class="cumu">(누적:448,300명)</span>
+	                                10,345명
+	                                <span class="cumu">(누적:458,645명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_3a7d99a378004dbb8679c6106144846e.jpg" length="0" type="image/jpg"/>
@@ -224,8 +224,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>6</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -238,15 +238,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                40,119,086,569원
-	                                <span class="cumu">(누적: 40,445,129,369원)</span>
+	                                35,380,308,205원
+	                                <span class="cumu">(누적: 75,825,437,574원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,225,268명
-	                                <span class="cumu">(누적:4,253,521명)</span>
+	                                3,708,232명
+	                                <span class="cumu">(누적:7,961,753명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
@@ -263,10 +263,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -279,23 +279,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,291,609,329원
-	                                <span class="cumu">(누적: 12,972,895,174원)</span>
+	                                2,148,234,024원
+	                                <span class="cumu">(누적: 15,121,129,198원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                139,276명
-	                                <span class="cumu">(누적:1,387,579명)</span>
+	                                231,502명
+	                                <span class="cumu">(누적:1,619,081명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_e3e20bd1edf347aeb3ae835d6cc5351a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파묘
+            <title><![CDATA[스턴트맨
 	                        	
-									(Exhuma) (KOBIS ─ 주간 박스오피스)]]></title>
+									(The Fall Guy) (KOBIS ─ 주간 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -304,34 +304,73 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">파묘
+	                        <strong class="tit ellip">스턴트맨
 	                        	<span class="en ellip">
-									(Exhuma)	                        	
+									(The Fall Guy)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                595,416,902원
-	                                <span class="cumu">(누적: 114,509,593,315원)</span>
+	                                1,219,971,792원
+	                                <span class="cumu">(누적: 1,521,648,792원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                62,054명
-	                                <span class="cumu">(누적:11,847,147명)</span>
+	                                115,680명
+	                                <span class="cumu">(누적:148,645명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/02/thumb_x110/thn_febb838d186b46878ca5467759930333.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포켓몬스터: 성도지방 이야기, 최종장 (KOBIS ─ 주간 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>78</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">포켓몬스터: 성도지방 이야기, 최종장
+	                        	<span class="en ellip">
+									&nbsp;	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                895,093,911원
+	                                <span class="cumu">(누적: 896,853,911원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                101,596명
+	                                <span class="cumu">(누적:101,756명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_c76f4fe9af9c49e09d8d2a22a31f013a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남은 인생 10년
@@ -341,7 +380,7 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
@@ -361,59 +400,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                307,751,919원
-	                                <span class="cumu">(누적: 4,259,851,049원)</span>
+	                                407,919,101원
+	                                <span class="cumu">(누적: 4,667,770,150원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                31,065명
-	                                <span class="cumu">(누적:417,945명)</span>
+	                                40,700명
+	                                <span class="cumu">(누적:458,645명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_3a7d99a378004dbb8679c6106144846e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챌린저스
-	                        	
-									(Challengers) (KOBIS ─ 주간 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>63</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">챌린저스
-	                        	<span class="en ellip">
-									(Challengers)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                236,393,793원
-	                                <span class="cumu">(누적: 238,616,793원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                25,015명
-	                                <span class="cumu">(누적:25,262명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_8e90716dc1414b9d87be1e5eebb73980.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄도시4
@@ -429,8 +427,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>7</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -443,15 +441,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                28,732,640,188원
-	                                <span class="cumu">(누적: 40,445,129,369원)</span>
+	                                18,734,057,848원
+	                                <span class="cumu">(누적: 75,825,422,574원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,918,543명
-	                                <span class="cumu">(누적:4,253,521명)</span>
+	                                1,920,962명
+	                                <span class="cumu">(누적:7,961,752명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
@@ -468,10 +466,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -484,69 +482,28 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                929,263,710원
-	                                <span class="cumu">(누적: 12,972,895,174원)</span>
+	                                1,593,082,518원
+	                                <span class="cumu">(누적: 15,121,129,198원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                98,942명
-	                                <span class="cumu">(누적:1,387,579명)</span>
+	                                168,144명
+	                                <span class="cumu">(누적:1,619,081명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_e3e20bd1edf347aeb3ae835d6cc5351a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파묘
+            <title><![CDATA[스턴트맨
 	                        	
-									(Exhuma) (KOBIS ─ 주말 박스오피스)]]></title>
+									(The Fall Guy) (KOBIS ─ 주말 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">파묘
-	                        	<span class="en ellip">
-									(Exhuma)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                258,341,315원
-	                                <span class="cumu">(누적: 114,509,593,315원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                25,998명
-	                                <span class="cumu">(누적:11,847,147명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/02/thumb_x110/thn_febb838d186b46878ca5467759930333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챌린저스
-	                        	
-									(Challengers) (KOBIS ─ 주말 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
 	                            
 	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
@@ -554,26 +511,65 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">챌린저스
+	                        <strong class="tit ellip">스턴트맨
 	                        	<span class="en ellip">
-									(Challengers)	                        	
+									(The Fall Guy)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                160,645,773원
-	                                <span class="cumu">(누적: 238,616,793원)</span>
+	                                738,393,305원
+	                                <span class="cumu">(누적: 1,521,648,792원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                15,990명
-	                                <span class="cumu">(누적:25,262명)</span>
+	                                67,984명
+	                                <span class="cumu">(누적:148,645명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_8e90716dc1414b9d87be1e5eebb73980.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포켓몬스터: 성도지방 이야기, 최종장 (KOBIS ─ 주말 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>41</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">포켓몬스터: 성도지방 이야기, 최종장
+	                        	<span class="en ellip">
+									&nbsp;	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                597,872,205원
+	                                <span class="cumu">(누적: 896,853,911원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                66,448명
+	                                <span class="cumu">(누적:101,756명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_c76f4fe9af9c49e09d8d2a22a31f013a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남은 인생 10년
@@ -587,10 +583,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -603,15 +599,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                157,661,356원
-	                                <span class="cumu">(누적: 4,259,851,049원)</span>
+	                                246,420,500원
+	                                <span class="cumu">(누적: 4,667,770,150원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                15,415명
-	                                <span class="cumu">(누적:417,945명)</span>
+	                                24,289명
+	                                <span class="cumu">(누적:458,645명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_3a7d99a378004dbb8679c6106144846e.jpg" length="0" type="image/jpg"/>
@@ -619,8 +615,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                689,909명
-	                                (누적:7,111,379명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                850,373명
+	                                (누적:7,961,752명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -633,8 +629,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                40,748명
-	                                (누적:1,510,415명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                108,666명
+	                                (누적:1,619,081명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -647,16 +643,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                22,639명
-	                                (누적:119,195명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                42,976명
+	                                (누적:101,756명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[스턴트맨
+            <content:encoded><![CDATA[포켓몬스터: 성도지방 이야기, 최종장
 								<span class="en ellip">
-									(The Fall Guy)	                        	
+									&nbsp;	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_c76f4fe9af9c49e09d8d2a22a31f013a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
