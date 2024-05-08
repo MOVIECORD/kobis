@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 14:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 15:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,397,556,674원
-	                                <span class="cumu">(누적: 83,100,859,316원)</span>
+	                                1,164,781,691원
+	                                <span class="cumu">(누적: 84,265,641,007원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                148,807명
-	                                <span class="cumu">(누적:8,718,696명)</span>
+	                                124,385명
+	                                <span class="cumu">(누적:8,843,081명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스턴트맨
+            <title><![CDATA[혹성탈출: 새로운 시대
 								
-									(The Fall Guy)]]></title>
+									(KINGDOM OF THE PLANET OF THE APES)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
@@ -62,42 +62,83 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>8</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">스턴트맨
+	                        <strong class="tit ellip">혹성탈출: 새로운 시대
 								<span class="en ellip">
-									(The Fall Guy)	                        	
+									(KINGDOM OF THE PLANET OF THE APES)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                87,180,388원
-	                                <span class="cumu">(누적: 1,866,177,791원)</span>
+	                                513,317,532원
+	                                <span class="cumu">(누적: 523,925,532원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                8,587명
-	                                <span class="cumu">(누적:180,843명)</span>
+	                                51,773명
+	                                <span class="cumu">(누적:52,397명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_89e2bdc23f0e4efca2522502f50812e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애비게일
+            <title><![CDATA[악마와의 토크쇼
 								
-									(Abigail)]]></title>
+									(Late Night with the Devil)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>10</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">악마와의 토크쇼
+								<span class="en ellip">
+									(Late Night with the Devil)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                61,623,500원
+	                                <span class="cumu">(누적: 74,878,700원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                7,278명
+	                                <span class="cumu">(누적:8,754명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_f038052c63db4bf787b2e43baa3d49b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼생크 탈출
+								
+									(The Showshank Redemption)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
 	                            
 	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
@@ -105,72 +146,31 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">애비게일
+	                        <strong class="tit ellip">쇼생크 탈출
 								<span class="en ellip">
-									(Abigail)	                        	
+									(The Showshank Redemption)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                36,323,000원
-	                                <span class="cumu">(누적: 36,323,000원)</span>
+	                                51,963,951원
+	                                <span class="cumu">(누적: 148,708,675원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                5,189명
-	                                <span class="cumu">(누적:5,189명)</span>
+	                                5,968명
+	                                <span class="cumu">(누적:19,754명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_f1f2624b1eb146c39fe220f016f862b8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_088b8554cb334e2194fb2a08c8a695ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남은 인생 10년
+            <title><![CDATA[스턴트맨
 								
-									(The Last 10 Years)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">남은 인생 10년
-								<span class="en ellip">
-									(The Last 10 Years)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                47,201,063원
-	                                <span class="cumu">(누적: 4,859,363,039원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                4,673명
-	                                <span class="cumu">(누적:477,689명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_3a7d99a378004dbb8679c6106144846e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿵푸팬더4
-								
-									(Kung Fu Panda 4)]]></title>
+									(The Fall Guy)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
@@ -187,26 +187,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">쿵푸팬더4
+	                        <strong class="tit ellip">스턴트맨
 								<span class="en ellip">
-									(Kung Fu Panda 4)	                        	
+									(The Fall Guy)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                40,640,695원
-	                                <span class="cumu">(누적: 15,921,555,794원)</span>
+	                                27,294,213원
+	                                <span class="cumu">(누적: 1,893,472,004원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,575명
-	                                <span class="cumu">(누적:1,703,884명)</span>
+	                                2,968명
+	                                <span class="cumu">(누적:183,811명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/03/thumb_x110/thn_e3e20bd1edf347aeb3ae835d6cc5351a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
