@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 14:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 15:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,166,180,291원
-	                                <span class="cumu">(누적: 84,266,487,990원)</span>
+	                                1,098,122,737원
+	                                <span class="cumu">(누적: 85,364,610,727원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                124,520명
-	                                <span class="cumu">(누적:8,843,149명)</span>
+	                                116,940명
+	                                <span class="cumu">(누적:8,960,089명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
@@ -62,8 +62,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>8</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                514,684,412원
-	                                <span class="cumu">(누적: 525,292,412원)</span>
+	                                375,333,211원
+	                                <span class="cumu">(누적: 900,625,623원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                51,866명
-	                                <span class="cumu">(누적:52,490명)</span>
+	                                37,571명
+	                                <span class="cumu">(누적:90,061명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_89e2bdc23f0e4efca2522502f50812e2.jpg" length="0" type="image/jpg"/>
@@ -103,8 +103,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>10</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,55 +117,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                61,691,000원
-	                                <span class="cumu">(누적: 74,946,200원)</span>
+	                                46,978,200원
+	                                <span class="cumu">(누적: 121,924,400원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,285명
-	                                <span class="cumu">(누적:8,761명)</span>
+	                                5,167명
+	                                <span class="cumu">(누적:13,928명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_f038052c63db4bf787b2e43baa3d49b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼생크 탈출
-								
-									(The Showshank Redemption)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">쇼생크 탈출
-								<span class="en ellip">
-									(The Showshank Redemption)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                51,981,451원
-	                                <span class="cumu">(누적: 148,726,175원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                5,972명
-	                                <span class="cumu">(누적:19,758명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_088b8554cb334e2194fb2a08c8a695ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스턴트맨
@@ -175,13 +138,13 @@
             <guid>javascript:;</guid>
             <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
+	                            <span class="num">4</span>
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>3</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
@@ -195,18 +158,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                27,335,053원
-	                                <span class="cumu">(누적: 1,893,512,844원)</span>
+	                                27,039,716원
+	                                <span class="cumu">(누적: 1,920,552,560원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                2,972명
-	                                <span class="cumu">(누적:183,815명)</span>
+	                                2,941명
+	                                <span class="cumu">(누적:186,756명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3b5eac0471124516a50717782e73e4fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[목소리의 형태
+								
+									(A SILENT VOICE: the Movie)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 21 Apr 2024 07:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">목소리의 형태
+								<span class="en ellip">
+									(A SILENT VOICE: the Movie)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                22,303,900원
+	                                <span class="cumu">(누적: 2,206,064,614원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                2,806명
+	                                <span class="cumu">(누적:280,330명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_3ce481ee97d747e3b0c5331c1cf5d817.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
