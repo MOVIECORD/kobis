@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 14:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 15:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,943,242,070원
-	                                <span class="cumu">(누적: 4,270,168,937원)</span>
+	                                1,712,476,856원
+	                                <span class="cumu">(누적: 5,982,645,793원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                182,278명
-	                                <span class="cumu">(누적:403,186명)</span>
+	                                161,445명
+	                                <span class="cumu">(누적:564,631명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_8b8e82a3df83477698765ce7044f78aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[범죄도시4
+            <title><![CDATA[그녀가 죽었다
 								
-									(THE ROUNDUP : PUNISHMENT)]]></title>
+									(Following)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
@@ -62,49 +62,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">범죄도시4
-								<span class="en ellip">
-									(THE ROUNDUP : PUNISHMENT)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                904,070,705원
-	                                <span class="cumu">(누적: 104,876,432,007원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                91,056명
-	                                <span class="cumu">(누적:10,966,652명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀가 죽었다
-								
-									(Following)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,18 +76,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                817,353,603원
-	                                <span class="cumu">(누적: 6,035,648,023원)</span>
+	                                802,152,163원
+	                                <span class="cumu">(누적: 6,837,800,186원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                83,441명
-	                                <span class="cumu">(누적:629,993명)</span>
+	                                80,730명
+	                                <span class="cumu">(누적:710,723명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_a225c977b0c04a21b3502b737239afd5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시4
+								
+									(THE ROUNDUP : PUNISHMENT)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">범죄도시4
+								<span class="en ellip">
+									(THE ROUNDUP : PUNISHMENT)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                787,137,054원
+	                                <span class="cumu">(누적: 105,663,569,061원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                79,313명
+	                                <span class="cumu">(누적:11,045,965명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 하이큐!! 쓰레기장의 결전
@@ -158,23 +158,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                347,446,595원
-	                                <span class="cumu">(누적: 4,893,408,188원)</span>
+	                                313,808,443원
+	                                <span class="cumu">(누적: 5,207,216,631원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                34,644명
-	                                <span class="cumu">(누적:473,234명)</span>
+	                                29,826명
+	                                <span class="cumu">(누적:503,060명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_c84b094c6cf144d5989979fe3968237f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혹성탈출: 새로운 시대
+            <title><![CDATA[가필드 더 무비
 								
-									(KINGDOM OF THE PLANET OF THE APES)]]></title>
+									(The Garfield Movie)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
@@ -191,26 +191,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">혹성탈출: 새로운 시대
+	                        <strong class="tit ellip">가필드 더 무비
 								<span class="en ellip">
-									(KINGDOM OF THE PLANET OF THE APES)	                        	
+									(The Garfield Movie)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                237,774,336원
-	                                <span class="cumu">(누적: 8,587,451,162원)</span>
+	                                221,704,585원
+	                                <span class="cumu">(누적: 2,301,876,550원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                23,958명
-	                                <span class="cumu">(누적:846,068명)</span>
+	                                23,893명
+	                                <span class="cumu">(누적:252,785명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_89e2bdc23f0e4efca2522502f50812e2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_9f85d97198d744569620896da6813005.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
