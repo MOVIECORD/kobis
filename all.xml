@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 14:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[설계자
+            <title><![CDATA[퓨리오사: 매드맥스 사가
 								
-									(The Plot) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Furiosa: A Mad Max Saga) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -21,49 +21,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">설계자
-								<span class="en ellip">
-									(The Plot)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                405,708,552원
-	                                <span class="cumu">(누적: 1,384,089,962원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                45,271명
-	                                <span class="cumu">(누적:171,115명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_312e40acca66480f87138137a15ac962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨리오사: 매드맥스 사가
-								
-									(Furiosa: A Mad Max Saga) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,23 +35,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                354,122,005원
-	                                <span class="cumu">(누적: 7,808,609,790원)</span>
+	                                625,190,290원
+	                                <span class="cumu">(누적: 8,433,800,080원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                34,572명
-	                                <span class="cumu">(누적:752,345명)</span>
+	                                59,940명
+	                                <span class="cumu">(누적:812,285명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_8b8e82a3df83477698765ce7044f78aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[범죄도시4
+            <title><![CDATA[설계자
 								
-									(THE ROUNDUP : PUNISHMENT) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Plot) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">설계자
+								<span class="en ellip">
+									(The Plot)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                502,141,616원
+	                                <span class="cumu">(누적: 1,886,231,578원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                54,180명
+	                                <span class="cumu">(누적:225,295명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_312e40acca66480f87138137a15ac962.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그녀가 죽었다
+								
+									(Following) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -103,49 +103,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">범죄도시4
-								<span class="en ellip">
-									(THE ROUNDUP : PUNISHMENT)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                192,855,553원
-	                                <span class="cumu">(누적: 106,621,128,743원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                20,530명
-	                                <span class="cumu">(누적:11,151,043명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀가 죽었다
-								
-									(Following) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,18 +117,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                177,942,517원
-	                                <span class="cumu">(누적: 7,696,976,946원)</span>
+	                                297,949,069원
+	                                <span class="cumu">(누적: 7,994,926,015원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,959명
-	                                <span class="cumu">(누적:806,434명)</span>
+	                                31,105명
+	                                <span class="cumu">(누적:837,539명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_a225c977b0c04a21b3502b737239afd5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시4
+								
+									(THE ROUNDUP : PUNISHMENT) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">범죄도시4
+								<span class="en ellip">
+									(THE ROUNDUP : PUNISHMENT)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                278,910,168원
+	                                <span class="cumu">(누적: 106,900,038,911원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                29,179명
+	                                <span class="cumu">(누적:11,180,222명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 하이큐!! 쓰레기장의 결전
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                47,118,258원
-	                                <span class="cumu">(누적: 5,456,175,847원)</span>
+	                                72,958,760원
+	                                <span class="cumu">(누적: 5,529,134,607원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                4,556명
-	                                <span class="cumu">(누적:529,185명)</span>
+	                                6,945명
+	                                <span class="cumu">(누적:536,130명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_c84b094c6cf144d5989979fe3968237f.jpg" length="0" type="image/jpg"/>
@@ -621,22 +621,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                45,271명
-	                                (누적:171,115명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[설계자
-								<span class="en ellip">
-									(The Plot)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_312e40acca66480f87138137a15ac962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                34,572명
-	                                (누적:752,345명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                59,940명
+	                                (누적:812,285명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -649,16 +635,30 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                20,530명
-	                                (누적:11,151,043명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                54,180명
+	                                (누적:225,295명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[범죄도시4
+            <content:encoded><![CDATA[설계자
 								<span class="en ellip">
-									(THE ROUNDUP : PUNISHMENT)	                        	
+									(The Plot)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_82a5c26f7bdd447093270311a2caa153.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_312e40acca66480f87138137a15ac962.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                31,105명
+	                                (누적:837,539명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[그녀가 죽었다
+								<span class="en ellip">
+									(Following)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_a225c977b0c04a21b3502b737239afd5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
