@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 14:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 15:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,255,977,718원
-	                                <span class="cumu">(누적: 22,846,951,063원)</span>
+	                                1,376,846,625원
+	                                <span class="cumu">(누적: 24,223,797,688원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                130,701명
-	                                <span class="cumu">(누적:2,353,299명)</span>
+	                                143,025명
+	                                <span class="cumu">(누적:2,496,324명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/04/thumb_x110/thn_0e03bb7a52a947b1b650a89dead836d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[퓨리오사: 매드맥스 사가
+            <title><![CDATA[핸섬가이즈
 								
-									(Furiosa: A Mad Max Saga) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Handsome Guys) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -62,8 +62,49 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">핸섬가이즈
+								<span class="en ellip">
+									(Handsome Guys)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                58,174,000원
+	                                <span class="cumu">(누적: 148,858,000원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                7,139명
+	                                <span class="cumu">(누적:17,737명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_d59aacc0c57945c2ae2a6ed9efdf88e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퓨리오사: 매드맥스 사가
+								
+									(Furiosa: A Mad Max Saga) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
 	                            	
 	                            
 	                        </div>
@@ -76,55 +117,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                72,024,551원
-	                                <span class="cumu">(누적: 15,905,678,631원)</span>
+	                                67,042,505원
+	                                <span class="cumu">(누적: 15,972,721,136원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,619명
-	                                <span class="cumu">(누적:1,545,294명)</span>
+	                                7,107명
+	                                <span class="cumu">(누적:1,552,401명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_8b8e82a3df83477698765ce7044f78aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핸섬가이즈
-								
-									(Handsome Guys) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">핸섬가이즈
-								<span class="en ellip">
-									(Handsome Guys)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                57,729,000원
-	                                <span class="cumu">(누적: 90,684,000원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                6,917명
-	                                <span class="cumu">(누적:10,598명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_d59aacc0c57945c2ae2a6ed9efdf88e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원더랜드
@@ -154,59 +158,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                57,911,752원
-	                                <span class="cumu">(누적: 5,685,514,653원)</span>
+	                                50,916,628원
+	                                <span class="cumu">(누적: 5,736,431,281원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                6,311명
-	                                <span class="cumu">(누적:600,988명)</span>
+	                                5,420명
+	                                <span class="cumu">(누적:606,408명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_bc8db6214ed14a9d987a8440dd496d94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드라이브
+            <title><![CDATA[북극백화점의 안내원
 								
-									(Drive) (KOBIS ─ 일별 박스오피스)]]></title>
+									(The Concierge) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">드라이브
+	                        <strong class="tit ellip">북극백화점의 안내원
 								<span class="en ellip">
-									(Drive)	                        	
+									(The Concierge)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                52,773,050원
-	                                <span class="cumu">(누적: 588,766,000원)</span>
+	                                35,353,600원
+	                                <span class="cumu">(누적: 44,611,100원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                6,068명
-	                                <span class="cumu">(누적:65,179명)</span>
+	                                4,588명
+	                                <span class="cumu">(누적:5,600명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_bfdd00d5a02c444aab49398f0c56c046.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_a4566419f6d44a31a8c59acc0c2f2c6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 2
@@ -609,8 +609,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                130,701명
-	                                (누적:2,353,299명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                143,025명
+	                                (누적:2,496,324명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -623,22 +623,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                7,619명
-	                                (누적:1,545,294명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[퓨리오사: 매드맥스 사가
-								<span class="en ellip">
-									(Furiosa: A Mad Max Saga)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_8b8e82a3df83477698765ce7044f78aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                6,917명
-	                                (누적:10,598명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                7,139명
+	                                (누적:17,737명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -647,6 +633,20 @@
 									(Handsome Guys)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_d59aacc0c57945c2ae2a6ed9efdf88e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                7,107명
+	                                (누적:1,552,401명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[퓨리오사: 매드맥스 사가
+								<span class="en ellip">
+									(Furiosa: A Mad Max Saga)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/05/thumb_x110/thn_8b8e82a3df83477698765ce7044f78aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
