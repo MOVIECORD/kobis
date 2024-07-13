@@ -4,13 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 14:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 15:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[탈출: 프로젝트 사일런스
+            <title><![CDATA[인사이드 아웃 2
 								
-									(PROJECT SILENCE) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Inside Out 2) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -21,49 +21,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>8</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">탈출: 프로젝트 사일런스
-								<span class="en ellip">
-									(PROJECT SILENCE)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                968,450,342원
-	                                <span class="cumu">(누적: 1,022,363,342원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                100,184명
-	                                <span class="cumu">(누적:106,047명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_9eca250f626a49c788e2af5f24cbfc6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 아웃 2
-								
-									(Inside Out 2) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                697,429,176원
-	                                <span class="cumu">(누적: 69,463,727,114원)</span>
+	                                2,204,922,245원
+	                                <span class="cumu">(누적: 71,668,649,359원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                71,854명
-	                                <span class="cumu">(누적:7,224,549명)</span>
+	                                226,445명
+	                                <span class="cumu">(누적:7,450,994명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_041e1f5d30ad452ea0c31714aadb8734.jpg" length="0" type="image/jpg"/>
@@ -93,6 +52,47 @@
             <title><![CDATA[탈주
 								
 									(Escape) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">탈주
+								<span class="en ellip">
+									(Escape)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,418,394,094원
+	                                <span class="cumu">(누적: 11,320,916,335원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                146,915명
+	                                <span class="cumu">(누적:1,202,938명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_339c969f1c8942dfbbe5d1e2d3de7188.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈출: 프로젝트 사일런스
+								
+									(PROJECT SILENCE) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -109,26 +109,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">탈주
+	                        <strong class="tit ellip">탈출: 프로젝트 사일런스
 								<span class="en ellip">
-									(Escape)	                        	
+									(PROJECT SILENCE)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                572,247,183원
-	                                <span class="cumu">(누적: 9,902,522,241원)</span>
+	                                1,341,857,518원
+	                                <span class="cumu">(누적: 2,364,220,860원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                60,050명
-	                                <span class="cumu">(누적:1,056,023명)</span>
+	                                135,766명
+	                                <span class="cumu">(누적:241,813명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_339c969f1c8942dfbbe5d1e2d3de7188.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_9eca250f626a49c788e2af5f24cbfc6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핸섬가이즈
@@ -142,10 +142,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,15 +158,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                382,428,562원
-	                                <span class="cumu">(누적: 10,644,129,227원)</span>
+	                                870,096,826원
+	                                <span class="cumu">(누적: 11,514,226,053원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                40,500명
-	                                <span class="cumu">(누적:1,150,432명)</span>
+	                                91,346명
+	                                <span class="cumu">(누적:1,241,778명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_cf3b969f2ded4b61b7a5c2e15a61c153.jpg" length="0" type="image/jpg"/>
@@ -183,10 +183,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                197,652,907원
-	                                <span class="cumu">(누적: 14,839,082,350원)</span>
+	                                405,358,058원
+	                                <span class="cumu">(누적: 15,244,440,408원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                20,637명
-	                                <span class="cumu">(누적:1,562,351명)</span>
+	                                42,220명
+	                                <span class="cumu">(누적:1,604,571명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_dcb0d41bde8441c39b467f3a77428474.jpg" length="0" type="image/jpg"/>
@@ -625,22 +625,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                100,184명
-	                                (누적:106,047명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[탈출: 프로젝트 사일런스
-								<span class="en ellip">
-									(PROJECT SILENCE)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_9eca250f626a49c788e2af5f24cbfc6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                71,854명
-	                                (누적:7,224,549명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                226,445명
+	                                (누적:7,450,994명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -653,8 +639,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                60,050명
-	                                (누적:1,056,023명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                146,934명
+	                                (누적:1,202,957명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -663,6 +649,20 @@
 									(Escape)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_339c969f1c8942dfbbe5d1e2d3de7188.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                135,779명
+	                                (누적:241,826명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[탈출: 프로젝트 사일런스
+								<span class="en ellip">
+									(PROJECT SILENCE)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_9eca250f626a49c788e2af5f24cbfc6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
