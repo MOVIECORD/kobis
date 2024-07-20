@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jul 2024 14:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jul 2024 15:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                766,702,194원
-	                                <span class="cumu">(누적: 15,244,191,794원)</span>
+	                                1,494,834,059원
+	                                <span class="cumu">(누적: 16,739,025,853원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                79,828명
-	                                <span class="cumu">(누적:1,616,711명)</span>
+	                                153,552명
+	                                <span class="cumu">(누적:1,770,263명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_339c969f1c8942dfbbe5d1e2d3de7188.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 100만 달러의 펜타그램
+            <title><![CDATA[인사이드 아웃 2
 								
-									(Detective Conan the Movie: The Million-dollar Pentagram)]]></title>
+									(Inside Out 2)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
@@ -62,49 +62,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">명탐정 코난: 100만 달러의 펜타그램
-								<span class="en ellip">
-									(Detective Conan the Movie: The Million-dollar Pentagram)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                636,458,046원
-	                                <span class="cumu">(누적: 2,209,435,311원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                62,891명
-	                                <span class="cumu">(누적:221,778명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_61229c20fba24c83b562ccc13c560815.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 아웃 2
-								
-									(Inside Out 2)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,18 +76,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                517,491,908원
-	                                <span class="cumu">(누적: 75,281,206,496원)</span>
+	                                1,162,045,062원
+	                                <span class="cumu">(누적: 76,443,251,558원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                52,792명
-	                                <span class="cumu">(누적:7,827,196명)</span>
+	                                120,395명
+	                                <span class="cumu">(누적:7,947,591명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_041e1f5d30ad452ea0c31714aadb8734.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명탐정 코난: 100만 달러의 펜타그램
+								
+									(Detective Conan the Movie: The Million-dollar Pentagram)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">명탐정 코난: 100만 달러의 펜타그램
+								<span class="en ellip">
+									(Detective Conan the Movie: The Million-dollar Pentagram)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                859,009,401원
+	                                <span class="cumu">(누적: 3,068,444,712원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                85,711명
+	                                <span class="cumu">(누적:307,489명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_61229c20fba24c83b562ccc13c560815.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핸섬가이즈
@@ -144,8 +144,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -158,59 +158,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                346,107,116원
-	                                <span class="cumu">(누적: 13,497,178,000원)</span>
+	                                720,662,378원
+	                                <span class="cumu">(누적: 14,217,840,378원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                36,019명
-	                                <span class="cumu">(누적:1,451,236명)</span>
+	                                74,076명
+	                                <span class="cumu">(누적:1,525,312명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_cf3b969f2ded4b61b7a5c2e15a61c153.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈출: 프로젝트 사일런스
+            <title><![CDATA[슈퍼배드 4
 								
-									(PROJECT SILENCE)]]></title>
+									(Despicable Me 4)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 23 May 2024 07:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">탈출: 프로젝트 사일런스
+	                        <strong class="tit ellip">슈퍼배드 4
 								<span class="en ellip">
-									(PROJECT SILENCE)	                        	
+									(Despicable Me 4)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                328,429,347원
-	                                <span class="cumu">(누적: 4,983,815,484원)</span>
+	                                498,031,789원
+	                                <span class="cumu">(누적: 511,436,789원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                33,087명
-	                                <span class="cumu">(누적:511,463명)</span>
+	                                51,823명
+	                                <span class="cumu">(누적:52,994명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_9eca250f626a49c788e2af5f24cbfc6f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_af31978e1d394753a8ae7cf905ed7ed8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
