@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 05:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 06:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,356,564,297원
-	                                <span class="cumu">(누적: 2,384,359,297원)</span>
+	                                2,357,001,297원
+	                                <span class="cumu">(누적: 2,384,796,297원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                230,084명
-	                                <span class="cumu">(누적:231,719명)</span>
+	                                230,135명
+	                                <span class="cumu">(누적:231,770명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_8b6e20a95bc6477e88dc0d42f255539b.jpg" length="0" type="image/jpg"/>
@@ -114,14 +114,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                335,935,595원
-	                                <span class="cumu">(누적: 19,332,681,529원)</span>
+	                                <span class="cumu">(누적: 19,332,669,529원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                35,726명
-	                                <span class="cumu">(누적:2,040,414명)</span>
+	                                <span class="cumu">(누적:2,040,413명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_339c969f1c8942dfbbe5d1e2d3de7188.jpg" length="0" type="image/jpg"/>
@@ -236,15 +236,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                5,402,909,403원
-	                                <span class="cumu">(누적: 18,094,734,032원)</span>
+	                                5,402,897,403원
+	                                <span class="cumu">(누적: 18,094,722,032원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                564,765명
-	                                <span class="cumu">(누적:1,909,177명)</span>
+	                                564,764명
+	                                <span class="cumu">(누적:1,909,176명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_339c969f1c8942dfbbe5d1e2d3de7188.jpg" length="0" type="image/jpg"/>
@@ -441,15 +441,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                3,617,274,432원
-	                                <span class="cumu">(누적: 18,094,734,032원)</span>
+	                                3,617,262,432원
+	                                <span class="cumu">(누적: 18,094,722,032원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                372,296명
-	                                <span class="cumu">(누적:1,909,177명)</span>
+	                                372,295명
+	                                <span class="cumu">(누적:1,909,176명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_339c969f1c8942dfbbe5d1e2d3de7188.jpg" length="0" type="image/jpg"/>
@@ -621,8 +621,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                230,084명
-	                                (누적:231,719명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                230,135명
+	                                (누적:231,770명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -650,7 +650,7 @@
             <title><![CDATA[관객 수
 	                            
 	                                35,726명
-	                                (누적:2,040,414명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                (누적:2,040,413명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
