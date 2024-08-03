@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 14:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 15:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,346,342,951원
-	                                <span class="cumu">(누적: 7,813,155,934원)</span>
+	                                4,169,554,872원
+	                                <span class="cumu">(누적: 11,982,710,806원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                249,196명
-	                                <span class="cumu">(누적:898,249명)</span>
+	                                440,957명
+	                                <span class="cumu">(누적:1,339,206명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_a901202adef143bd8cd3a54fd90e3fa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼배드 4
+            <title><![CDATA[데드풀과 울버린
 								
-									(Despicable Me 4) (KOBIS ─ 일별 박스오피스)]]></title>
+									(DEADPOOL & WOLVERIN) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -62,49 +62,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">슈퍼배드 4
-								<span class="en ellip">
-									(Despicable Me 4)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                627,548,707원
-	                                <span class="cumu">(누적: 8,933,693,801원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                68,290명
-	                                <span class="cumu">(누적:982,611명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_cfb357a6efd847d5b3e4889b71856fe7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[데드풀과 울버린
-								
-									(DEADPOOL & WOLVERIN) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -117,18 +76,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                711,909,274원
-	                                <span class="cumu">(누적: 15,120,706,033원)</span>
+	                                1,214,633,352원
+	                                <span class="cumu">(누적: 16,335,339,385원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                66,576명
-	                                <span class="cumu">(누적:1,474,117명)</span>
+	                                112,172명
+	                                <span class="cumu">(누적:1,586,289명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_8b6e20a95bc6477e88dc0d42f255539b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼배드 4
+								
+									(Despicable Me 4) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">슈퍼배드 4
+								<span class="en ellip">
+									(Despicable Me 4)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                909,809,179원
+	                                <span class="cumu">(누적: 9,843,502,980원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                97,554명
+	                                <span class="cumu">(누적:1,080,165명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_cfb357a6efd847d5b3e4889b71856fe7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 2
@@ -158,15 +158,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                325,230,815원
-	                                <span class="cumu">(누적: 81,404,872,203원)</span>
+	                                428,811,677원
+	                                <span class="cumu">(누적: 81,833,683,880원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                33,721명
-	                                <span class="cumu">(누적:8,473,484명)</span>
+	                                44,275명
+	                                <span class="cumu">(누적:8,517,759명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/06/thumb_x110/thn_041e1f5d30ad452ea0c31714aadb8734.jpg" length="0" type="image/jpg"/>
@@ -199,15 +199,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                202,908,981원
-	                                <span class="cumu">(누적: 23,046,779,877원)</span>
+	                                258,840,130원
+	                                <span class="cumu">(누적: 23,305,620,007원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                20,986명
-	                                <span class="cumu">(누적:2,436,915명)</span>
+	                                26,659명
+	                                <span class="cumu">(누적:2,463,574명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_e7d6eec007b84ed381a4f54d7b33147a.jpg" length="0" type="image/jpg"/>
@@ -617,8 +617,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                249,196명
-	                                (누적:898,249명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                440,957명
+	                                (누적:1,339,206명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -631,22 +631,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                68,290명
-	                                (누적:982,611명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼배드 4
-								<span class="en ellip">
-									(Despicable Me 4)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_cfb357a6efd847d5b3e4889b71856fe7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                66,576명
-	                                (누적:1,474,117명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                112,210명
+	                                (누적:1,586,327명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -655,6 +641,20 @@
 									(DEADPOOL &amp; WOLVERIN)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_8b6e20a95bc6477e88dc0d42f255539b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                97,562명
+	                                (누적:1,080,173명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼배드 4
+								<span class="en ellip">
+									(Despicable Me 4)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_cfb357a6efd847d5b3e4889b71856fe7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
