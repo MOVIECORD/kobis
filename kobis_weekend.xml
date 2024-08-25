@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주말 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 14:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 15:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                4,654,014,826원
-	                                <span class="cumu">(누적: 7,339,350,235원)</span>
+	                                3,566,815,297원
+	                                <span class="cumu">(누적: 12,971,033,481원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                441,216명
-	                                <span class="cumu">(누적:697,624명)</span>
+	                                342,378명
+	                                <span class="cumu">(누적:1,242,414명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_32c84ebea97c4f48b52515ebf6e81aec.jpg" length="0" type="image/jpg"/>
@@ -56,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -72,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                3,667,656,365원
-	                                <span class="cumu">(누적: 35,890,161,600원)</span>
+	                                2,054,942,788원
+	                                <span class="cumu">(누적: 39,340,553,395원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                384,158명
-	                                <span class="cumu">(누적:3,886,217명)</span>
+	                                214,644명
+	                                <span class="cumu">(누적:4,253,069명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_a901202adef143bd8cd3a54fd90e3fa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[행복의 나라
+            <title><![CDATA[늘봄가든
 	                        	
-									(Land of Happiness)]]></title>
+									(SPRING GARDEN)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 31 Mar 2024 03:12:41 GMT</pubDate>
@@ -101,31 +105,31 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">행복의 나라
+	                        <strong class="tit ellip">늘봄가든
 	                        	<span class="en ellip">
-									(Land of Happiness)	                        	
+									(SPRING GARDEN)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,114,229,834원
-	                                <span class="cumu">(누적: 4,196,086,625원)</span>
+	                                1,490,989,824원
+	                                <span class="cumu">(누적: 2,014,690,448원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                222,581명
-	                                <span class="cumu">(누적:447,626명)</span>
+	                                149,439명
+	                                <span class="cumu">(누적:204,623명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_53d66f2356624368bb3daf5baa1cfc76.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_e3dd9b808f814066819cfa4c2d6de503.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트위스터스
+            <title><![CDATA[사랑의 하츄핑
 	                        	
-									(Twisters)]]></title>
+									(Heartsping : Teenieping of Love)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 31 Mar 2024 03:12:41 GMT</pubDate>
@@ -136,48 +140,7 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>6</span>
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">트위스터스
-	                        	<span class="en ellip">
-									(Twisters)	                        	
-								</span>
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                1,559,884,743원
-	                                <span class="cumu">(누적: 2,914,291,432원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                147,685명
-	                                <span class="cumu">(누적:275,022명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_945dbc54a65d43a995bc7fe4bcebe516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 하츄핑
-	                        	
-									(Heartsping : Teenieping of Love)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 31 Mar 2024 03:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>3</span>	                            			                            		
-	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
@@ -191,18 +154,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,147,247,529원
-	                                <span class="cumu">(누적: 6,070,577,373원)</span>
+	                                858,800,072원
+	                                <span class="cumu">(누적: 7,157,069,420원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                125,369명
-	                                <span class="cumu">(누적:671,255명)</span>
+	                                93,263명
+	                                <span class="cumu">(누적:790,491명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_802e82bdf0af47fcbdab6d012aeac2bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트위스터스
+	                        	
+									(Twisters)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 31 Mar 2024 03:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">트위스터스
+	                        	<span class="en ellip">
+									(Twisters)	                        	
+								</span>
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                963,823,119원
+	                                <span class="cumu">(누적: 4,513,785,615원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                91,458명
+	                                <span class="cumu">(누적:429,461명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_945dbc54a65d43a995bc7fe4bcebe516.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
