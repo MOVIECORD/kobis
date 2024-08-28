@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 14:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 15:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,18 +35,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                356,904,690원
-	                                <span class="cumu">(누적: 13,723,959,845원)</span>
+	                                499,106,704원
+	                                <span class="cumu">(누적: 14,223,066,549원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                35,014명
-	                                <span class="cumu">(누적:1,316,515명)</span>
+	                                63,349명
+	                                <span class="cumu">(누적:1,379,864명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_32c84ebea97c4f48b52515ebf6e81aec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅│아임 히어로 더 스타디움
+								
+									(LIM YOUNG WOONG│IM HERO THE STADIUM) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">2</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">임영웅│아임 히어로 더 스타디움
+								<span class="en ellip">
+									(LIM YOUNG WOONG│IM HERO THE STADIUM)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                1,420,692,000원
+	                                <span class="cumu">(누적: 1,424,841,000원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                49,725명
+	                                <span class="cumu">(누적:50,186명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_4cc5fdaed5534f5b90e54828e49eb726.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파일럿
@@ -56,14 +93,14 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">2</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,59 +113,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                206,652,059원
-	                                <span class="cumu">(누적: 39,762,787,681원)</span>
+	                                298,710,689원
+	                                <span class="cumu">(누적: 40,061,498,370원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                22,275명
-	                                <span class="cumu">(누적:4,298,543명)</span>
+	                                38,379명
+	                                <span class="cumu">(누적:4,336,922명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_a901202adef143bd8cd3a54fd90e3fa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늘봄가든
-								
-									(SPRING GARDEN) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">늘봄가든
-								<span class="en ellip">
-									(SPRING GARDEN)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                130,690,917원
-	                                <span class="cumu">(누적: 2,292,663,577원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                15,822명
-	                                <span class="cumu">(누적:238,085명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_e3dd9b808f814066819cfa4c2d6de503.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위스터스
@@ -158,23 +154,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                128,436,881원
-	                                <span class="cumu">(누적: 4,774,601,946원)</span>
+	                                152,574,271원
+	                                <span class="cumu">(누적: 4,927,176,217원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,312명
-	                                <span class="cumu">(누적:458,390명)</span>
+	                                17,438명
+	                                <span class="cumu">(누적:475,828명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_945dbc54a65d43a995bc7fe4bcebe516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[행복의 나라
+            <title><![CDATA[늘봄가든
 								
-									(Land of Happiness) (KOBIS ─ 일별 박스오피스)]]></title>
+									(SPRING GARDEN) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -183,34 +179,34 @@
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">행복의 나라
+	                        <strong class="tit ellip">늘봄가든
 								<span class="en ellip">
-									(Land of Happiness)	                        	
+									(SPRING GARDEN)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                103,305,246원
-	                                <span class="cumu">(누적: 5,948,672,311원)</span>
+	                                110,801,173원
+	                                <span class="cumu">(누적: 2,403,464,750원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                12,634명
-	                                <span class="cumu">(누적:640,113명)</span>
+	                                14,236명
+	                                <span class="cumu">(누적:252,321명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_53d66f2356624368bb3daf5baa1cfc76.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_e3dd9b808f814066819cfa4c2d6de503.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이리언: 로물루스
@@ -621,8 +617,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                35,014명
-	                                (누적:1,316,515명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                63,349명
+	                                (누적:1,379,864명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -635,8 +631,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                22,275명
-	                                (누적:4,298,543명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                49,725명
+	                                (누적:50,186명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅│아임 히어로 더 스타디움
+								<span class="en ellip">
+									(LIM YOUNG WOONG│IM HERO THE STADIUM)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_4cc5fdaed5534f5b90e54828e49eb726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                38,379명
+	                                (누적:4,336,922명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -645,20 +655,6 @@
 									(Pilot)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_a901202adef143bd8cd3a54fd90e3fa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                15,822명
-	                                (누적:238,085명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[늘봄가든
-								<span class="en ellip">
-									(SPRING GARDEN)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_e3dd9b808f814066819cfa4c2d6de503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
