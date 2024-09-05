@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 14:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 15:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,9 +17,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">1</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -31,23 +35,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                362,412,093원
-	                                <span class="cumu">(누적: 418,319,093원)</span>
+	                                153,111,049원
+	                                <span class="cumu">(누적: 571,430,142원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                39,554명
-	                                <span class="cumu">(누적:45,718명)</span>
+	                                16,636명
+	                                <span class="cumu">(누적:62,354명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_2e941900f0fd4b788e6af381b38ebbcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비틀쥬스 비틀쥬스
+            <title><![CDATA[룩백
 								
-									(Beetlejuice Beetlejuice) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Look Back) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -60,26 +64,26 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">비틀쥬스 비틀쥬스
+	                        <strong class="tit ellip">룩백
 								<span class="en ellip">
-									(Beetlejuice Beetlejuice)	                        	
+									(Look Back)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                207,314,454원
-	                                <span class="cumu">(누적: 213,740,454원)</span>
+	                                144,749,231원
+	                                <span class="cumu">(누적: 223,487,729원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                21,787명
-	                                <span class="cumu">(누적:22,165명)</span>
+	                                16,204명
+	                                <span class="cumu">(누적:23,320명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_5f1b0bd6ce174d05aac8e86056519627.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_f98bc75622c1428f8fc1ef8403f22bc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이리언: 로물루스
@@ -93,10 +97,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -109,23 +113,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                182,966,138원
-	                                <span class="cumu">(누적: 17,360,744,482원)</span>
+	                                154,222,499원
+	                                <span class="cumu">(누적: 17,514,966,981원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                18,780명
-	                                <span class="cumu">(누적:1,697,475명)</span>
+	                                15,641명
+	                                <span class="cumu">(누적:1,713,116명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_32c84ebea97c4f48b52515ebf6e81aec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파일럿
+            <title><![CDATA[비틀쥬스 비틀쥬스
 								
-									(Pilot) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Beetlejuice Beetlejuice) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -142,31 +146,31 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">파일럿
+	                        <strong class="tit ellip">비틀쥬스 비틀쥬스
 								<span class="en ellip">
-									(Pilot)	                        	
+									(Beetlejuice Beetlejuice)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                97,145,968원
-	                                <span class="cumu">(누적: 41,810,771,107원)</span>
+	                                103,999,647원
+	                                <span class="cumu">(누적: 317,740,101원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                11,673명
-	                                <span class="cumu">(누적:4,547,270명)</span>
+	                                10,678명
+	                                <span class="cumu">(누적:32,843명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_a901202adef143bd8cd3a54fd90e3fa8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_5f1b0bd6ce174d05aac8e86056519627.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임영웅│아임 히어로 더 스타디움
+            <title><![CDATA[파일럿
 								
-									(LIM YOUNG WOONG│IM HERO THE STADIUM) (KOBIS ─ 일별 박스오피스)]]></title>
+									(Pilot) (KOBIS ─ 일별 박스오피스)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -176,33 +180,33 @@
 	                            
 	                            
 	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">임영웅│아임 히어로 더 스타디움
+	                        <strong class="tit ellip">파일럿
 								<span class="en ellip">
-									(LIM YOUNG WOONG│IM HERO THE STADIUM)	                        	
+									(Pilot)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                313,626,500원
-	                                <span class="cumu">(누적: 5,640,746,000원)</span>
+	                                86,184,850원
+	                                <span class="cumu">(누적: 41,896,955,957원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                11,163명
-	                                <span class="cumu">(누적:196,112명)</span>
+	                                10,300명
+	                                <span class="cumu">(누적:4,557,570명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_4cc5fdaed5534f5b90e54828e49eb726.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_a901202adef143bd8cd3a54fd90e3fa8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이리언: 로물루스
@@ -613,8 +617,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                39,554명
-	                                (누적:45,718명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                16,636명
+	                                (누적:62,354명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
@@ -627,22 +631,22 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                21,787명
-	                                (누적:22,165명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                16,204명
+	                                (누적:23,320명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[비틀쥬스 비틀쥬스
+            <content:encoded><![CDATA[룩백
 								<span class="en ellip">
-									(Beetlejuice Beetlejuice)	                        	
+									(Look Back)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_5f1b0bd6ce174d05aac8e86056519627.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_f98bc75622c1428f8fc1ef8403f22bc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                18,780명
-	                                (누적:1,697,475명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                15,641명
+	                                (누적:1,713,116명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
