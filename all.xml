@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Sep 2024 01:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 02:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,14 +77,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                222,722,300원
-	                                <span class="cumu">(누적: 611,345,800원)</span>
+	                                <span class="cumu">(누적: 611,323,800원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                25,735명
-	                                <span class="cumu">(누적:70,499명)</span>
+	                                <span class="cumu">(누적:70,497명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_69cc8f7d467a494da38e044385137166.jpg" length="0" type="image/jpg"/>
@@ -404,15 +404,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                451,081,900원
-	                                <span class="cumu">(누적: 611,345,800원)</span>
+	                                451,059,900원
+	                                <span class="cumu">(누적: 611,323,800원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                53,334명
-	                                <span class="cumu">(누적:70,499명)</span>
+	                                53,332명
+	                                <span class="cumu">(누적:70,497명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_69cc8f7d467a494da38e044385137166.jpg" length="0" type="image/jpg"/>
@@ -482,15 +482,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                448,096,900원
-	                                <span class="cumu">(누적: 611,345,800원)</span>
+	                                448,074,900원
+	                                <span class="cumu">(누적: 611,323,800원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                52,837명
-	                                <span class="cumu">(누적:70,499명)</span>
+	                                52,835명
+	                                <span class="cumu">(누적:70,497명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_69cc8f7d467a494da38e044385137166.jpg" length="0" type="image/jpg"/>
@@ -636,7 +636,7 @@
             <title><![CDATA[관객 수
 	                            
 	                                25,735명
-	                                (누적:70,499명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                (누적:70,497명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Nov 2023 05:10:48 GMT</pubDate>
