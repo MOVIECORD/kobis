@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
-    <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
-    <updated>2024-09-26T01:02:48.245Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KOBIS ─ 일별 박스오피스 ─ 3위</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 26 Sep 2024 03:20:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                9,855명
+	                                (누적:3,577,947명)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Sep 2024 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[비긴 어게인
+								<span class="en ellip">
+									(Begin Again)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_96c00bb07a5e44dbbb5520aaeadaa0cc.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
