@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 14:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 15:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                697,099,790원
-	                                <span class="cumu">(누적: 57,833,159,536원)</span>
+	                                892,923,550원
+	                                <span class="cumu">(누적: 58,726,083,086원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                75,959명
-	                                <span class="cumu">(누적:5,998,220명)</span>
+	                                93,895명
+	                                <span class="cumu">(누적:6,092,115명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_886a61eb398d4cedb346d9ffbf3345c3.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                114,756,310원
-	                                <span class="cumu">(누적: 682,050,980원)</span>
+	                                168,718,500원
+	                                <span class="cumu">(누적: 850,769,480원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                12,010명
-	                                <span class="cumu">(누적:72,820명)</span>
+	                                17,006명
+	                                <span class="cumu">(누적:89,826명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_8465e850a5c34266ba484a4e67cb9c35.jpg" length="0" type="image/jpg"/>
@@ -117,18 +117,55 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                72,024,660원
-	                                <span class="cumu">(누적: 28,452,028,231원)</span>
+	                                84,502,610원
+	                                <span class="cumu">(누적: 28,536,530,841원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,540명
-	                                <span class="cumu">(누적:3,585,487명)</span>
+	                                9,285명
+	                                <span class="cumu">(누적:3,594,772명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_96c00bb07a5e44dbbb5520aaeadaa0cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 커버넌트
+								
+									(Guy Ritchie's The Covenant) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
+	                            
+	                            
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">더 커버넌트
+								<span class="en ellip">
+									(Guy Ritchie's The Covenant)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                51,619,200원
+	                                <span class="cumu">(누적: 54,391,200원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                6,013명
+	                                <span class="cumu">(누적:6,321명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_05234d6d447a4e358ea79564b164860f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[룩백
@@ -138,13 +175,13 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
-	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
 	                            	
 	                            	
 	                            
@@ -158,59 +195,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                30,603,600원
-	                                <span class="cumu">(누적: 2,055,424,744원)</span>
+	                                38,921,100원
+	                                <span class="cumu">(누적: 2,094,345,844원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                3,211명
-	                                <span class="cumu">(누적:215,277명)</span>
+	                                3,992명
+	                                <span class="cumu">(누적:219,269명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_f98bc75622c1428f8fc1ef8403f22bc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국: 아이 엠 스틸
-								
-									(JUNG KOOK: I AM STILL) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">정국: 아이 엠 스틸
-								<span class="en ellip">
-									(JUNG KOOK: I AM STILL)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                42,695,000원
-	                                <span class="cumu">(누적: 760,123,000원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                1,708명
-	                                <span class="cumu">(누적:30,427명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_c28d43cbf6e54af9b816633b50f1c313.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베테랑2
@@ -625,8 +621,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                75,959명
-	                                (누적:5,998,220명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                93,895명
+	                                (누적:6,092,115명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -639,8 +635,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                12,010명
-	                                (누적:72,820명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                17,006명
+	                                (누적:89,826명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -653,8 +649,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                7,540명
-	                                (누적:3,585,487명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                9,285명
+	                                (누적:3,594,772명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
