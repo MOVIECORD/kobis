@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 15:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,426,439,340원
-	                                <span class="cumu">(누적: 61,800,132,806원)</span>
+	                                697,429,690원
+	                                <span class="cumu">(누적: 62,497,562,496원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                148,392명
-	                                <span class="cumu">(누적:6,411,850명)</span>
+	                                77,512명
+	                                <span class="cumu">(누적:6,489,362명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_886a61eb398d4cedb346d9ffbf3345c3.jpg" length="0" type="image/jpg"/>
@@ -76,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                499,329,390원
-	                                <span class="cumu">(누적: 1,884,653,685원)</span>
+	                                139,203,100원
+	                                <span class="cumu">(누적: 2,023,856,785원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                52,661명
-	                                <span class="cumu">(누적:197,853명)</span>
+	                                14,641명
+	                                <span class="cumu">(누적:212,494명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_8465e850a5c34266ba484a4e67cb9c35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사랑의 하츄핑
+            <title><![CDATA[비긴 어게인
 								
-									(Heartsping : Teenieping of Love)]]></title>
+									(Begin Again)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -109,47 +109,6 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">사랑의 하츄핑
-								<span class="en ellip">
-									(Heartsping : Teenieping of Love)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                137,748,880원
-	                                <span class="cumu">(누적: 10,266,924,532원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                14,672명
-	                                <span class="cumu">(누적:1,146,490명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/07/thumb_x110/thn_802e82bdf0af47fcbdab6d012aeac2bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비긴 어게인
-								
-									(Begin Again)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
 	                        <strong class="tit ellip">비긴 어게인
 								<span class="en ellip">
 									(Begin Again)	                        	
@@ -158,23 +117,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                131,233,420원
-	                                <span class="cumu">(누적: 28,804,920,081원)</span>
+	                                77,903,000원
+	                                <span class="cumu">(누적: 28,882,823,081원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                14,394명
-	                                <span class="cumu">(누적:3,624,132명)</span>
+	                                8,954명
+	                                <span class="cumu">(누적:3,633,086명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_96c00bb07a5e44dbbb5520aaeadaa0cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레드이발소: 빵스타의 탄생
+            <title><![CDATA[더 커버넌트
 								
-									(Bread Barbershop: The Birth Of The Bread Star)]]></title>
+									(Guy Ritchie's The Covenant)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">더 커버넌트
+								<span class="en ellip">
+									(Guy Ritchie's The Covenant)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                26,583,300원
+	                                <span class="cumu">(누적: 163,829,820원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                3,008명
+	                                <span class="cumu">(누적:18,269명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_05234d6d447a4e358ea79564b164860f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[룩백
+								
+									(Look Back)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -185,32 +185,32 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">브레드이발소: 빵스타의 탄생
+	                        <strong class="tit ellip">룩백
 								<span class="en ellip">
-									(Bread Barbershop: The Birth Of The Bread Star)	                        	
+									(Look Back)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                79,485,000원
-	                                <span class="cumu">(누적: 1,832,530,000원)</span>
+	                                23,905,300원
+	                                <span class="cumu">(누적: 2,238,788,594원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                9,204명
-	                                <span class="cumu">(누적:210,048명)</span>
+	                                2,485명
+	                                <span class="cumu">(누적:233,792명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_69cc8f7d467a494da38e044385137166.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_f98bc75622c1428f8fc1ef8403f22bc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
