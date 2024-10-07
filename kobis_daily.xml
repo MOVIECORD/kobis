@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 14:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 15:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                731,282,260원
-	                                <span class="cumu">(누적: 67,396,996,126원)</span>
+	                                262,670,290원
+	                                <span class="cumu">(누적: 67,659,666,416원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                74,173명
-	                                <span class="cumu">(누적:7,000,121명)</span>
+	                                28,295명
+	                                <span class="cumu">(누적:7,028,416명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_886a61eb398d4cedb346d9ffbf3345c3.jpg" length="0" type="image/jpg"/>
@@ -62,8 +62,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,23 +76,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                445,023,560원
-	                                <span class="cumu">(누적: 2,532,007,010원)</span>
+	                                180,629,460원
+	                                <span class="cumu">(누적: 2,712,636,470원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                45,136명
-	                                <span class="cumu">(누적:264,190명)</span>
+	                                19,836명
+	                                <span class="cumu">(누적:284,026명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_fece911f51aa4f9abcb1e3c61dfb705a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[와일드 로봇
+            <title><![CDATA[조커: 폴리 아 되
 								
-									(The Wild Robot)]]></title>
+									(Joker: Folie à Deux)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -109,31 +109,31 @@
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">와일드 로봇
+	                        <strong class="tit ellip">조커: 폴리 아 되
 								<span class="en ellip">
-									(The Wild Robot)	                        	
+									(Joker: Folie à Deux)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                399,300,490원
-	                                <span class="cumu">(누적: 2,280,930,280원)</span>
+	                                144,092,290원
+	                                <span class="cumu">(누적: 4,996,202,330원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                43,230명
-	                                <span class="cumu">(누적:247,535명)</span>
+	                                14,197명
+	                                <span class="cumu">(누적:479,424명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_1ddcd75fc48145ff9051a1ff5aabd68b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_3b86aa6bad5043458bf41b801a1c5ab3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조커: 폴리 아 되
+            <title><![CDATA[와일드 로봇
 								
-									(Joker: Folie à Deux)]]></title>
+									(The Wild Robot)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -143,74 +143,70 @@
 	                            
 	                            
 	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">조커: 폴리 아 되
+	                        <strong class="tit ellip">와일드 로봇
 								<span class="en ellip">
-									(Joker: Folie à Deux)	                        	
+									(The Wild Robot)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                457,523,110원
-	                                <span class="cumu">(누적: 4,852,110,040원)</span>
+	                                57,853,700원
+	                                <span class="cumu">(누적: 2,338,783,980원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                43,170명
-	                                <span class="cumu">(누적:465,227명)</span>
+	                                6,481명
+	                                <span class="cumu">(누적:254,016명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_3b86aa6bad5043458bf41b801a1c5ab3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_1ddcd75fc48145ff9051a1ff5aabd68b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트랜스포머 ONE
+            <title><![CDATA[보통의 가족
 								
-									(Transformers One)]]></title>
+									(A Normal Family)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">5</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">트랜스포머 ONE
+	                        <strong class="tit ellip">보통의 가족
 								<span class="en ellip">
-									(Transformers One)	                        	
+									(A Normal Family)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                125,552,800원
-	                                <span class="cumu">(누적: 2,914,667,605원)</span>
+	                                38,826,000원
+	                                <span class="cumu">(누적: 42,795,000원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                13,544명
-	                                <span class="cumu">(누적:310,789명)</span>
+	                                4,062명
+	                                <span class="cumu">(누적:4,503명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_8465e850a5c34266ba484a4e67cb9c35.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_8ebe76d268b64410a698241e22ced42c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
