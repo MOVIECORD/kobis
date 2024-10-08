@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 23:14:36 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                19,871명
-	                                (누적:284,061명)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 26 Sep 2024 03:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[대도시의 사랑법
-								<span class="en ellip">
-									(Love in the Big City)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_fece911f51aa4f9abcb1e3c61dfb705a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.kobis.or.kr/kobis/mobile/main/findDailyBoxOfficeList.do</id>
+    <title>KOBIS ─ 일별 박스오피스 ─ 2위</title>
+    <updated>2024-10-08T01:02:58.550Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.kobis.or.kr/kobis/mobile/main/favicon.ico</icon>
+</feed>
