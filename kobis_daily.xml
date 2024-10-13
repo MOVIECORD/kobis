@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 14:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 15:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                605,530,160원
-	                                <span class="cumu">(누적: 69,790,823,866원)</span>
+	                                505,685,468원
+	                                <span class="cumu">(누적: 70,296,509,334원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                60,022명
-	                                <span class="cumu">(누적:7,248,582명)</span>
+	                                49,782명
+	                                <span class="cumu">(누적:7,298,364명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/08/thumb_x110/thn_886a61eb398d4cedb346d9ffbf3345c3.jpg" length="0" type="image/jpg"/>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                477,749,010원
-	                                <span class="cumu">(누적: 4,373,726,440원)</span>
+	                                440,763,210원
+	                                <span class="cumu">(누적: 4,814,489,650원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                48,739명
-	                                <span class="cumu">(누적:457,636명)</span>
+	                                44,650명
+	                                <span class="cumu">(누적:502,286명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_fece911f51aa4f9abcb1e3c61dfb705a.jpg" length="0" type="image/jpg"/>
@@ -117,23 +117,23 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                399,493,830원
-	                                <span class="cumu">(누적: 3,626,706,530원)</span>
+	                                386,585,700원
+	                                <span class="cumu">(누적: 4,013,292,230원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                42,723명
-	                                <span class="cumu">(누적:395,980명)</span>
+	                                41,640명
+	                                <span class="cumu">(누적:437,620명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_1ddcd75fc48145ff9051a1ff5aabd68b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조커: 폴리 아 되
+            <title><![CDATA[노트북
 								
-									(Joker: Folie à Deux)]]></title>
+									(The Notebook)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -144,49 +144,8 @@
 	                            
 	                            	
 	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">조커: 폴리 아 되
-								<span class="en ellip">
-									(Joker: Folie à Deux)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                218,798,330원
-	                                <span class="cumu">(누적: 5,906,565,710원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                20,120명
-	                                <span class="cumu">(누적:565,935명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_3b86aa6bad5043458bf41b801a1c5ab3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노트북
-								
-									(The Notebook)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -199,18 +158,59 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                157,162,900원
-	                                <span class="cumu">(누적: 5,141,051,900원)</span>
+	                                156,838,620원
+	                                <span class="cumu">(누적: 5,297,890,520원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                15,805명
-	                                <span class="cumu">(누적:702,351명)</span>
+	                                15,725명
+	                                <span class="cumu">(누적:718,076명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_deacfc551b9c4db09fc729e61dcb6594.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조커: 폴리 아 되
+								
+									(Joker: Folie à Deux)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">5</span>
+	                            
+	                            
+	                            
+	                            		                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            	
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">조커: 폴리 아 되
+								<span class="en ellip">
+									(Joker: Folie à Deux)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                158,851,290원
+	                                <span class="cumu">(누적: 6,065,417,000원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                14,611명
+	                                <span class="cumu">(누적:580,546명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/09/thumb_x110/thn_3b86aa6bad5043458bf41b801a1c5ab3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
