@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 05:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 06:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,14 +155,14 @@
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
 	                                191,317,420원
-	                                <span class="cumu">(누적: 5,587,690,390원)</span>
+	                                <span class="cumu">(누적: 5,587,664,390원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
 	                                21,065명
-	                                <span class="cumu">(누적:594,519명)</span>
+	                                <span class="cumu">(누적:594,517명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_513c2a1d4592410d84f73154abfad9c8.jpg" length="0" type="image/jpg"/>
@@ -202,7 +202,7 @@
 	                                <span class="cumu">(누적:11,454명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_d741dfea31ef458eacab96ee703d1984.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_6381770a6bde4310938d1559af9f4dbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
