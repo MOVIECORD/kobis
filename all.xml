@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 01:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -649,20 +649,6 @@
 									(MOANA 2)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_b0a0a5ae940443049c18e22e4787b08b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관객 수
-	                            
-	                                50,704명
-	                                (누적:1,707,037명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[위키드
-								<span class="en ellip">
-									(Wicked)	                        	
-								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_7a42881803514bbb84692d7ad482331b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
