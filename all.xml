@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 03:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 04:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,15 +76,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                442,653,480원
-	                                <span class="cumu">(누적: 474,102,480원)</span>
+	                                442,625,480원
+	                                <span class="cumu">(누적: 474,074,480원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                44,986명
-	                                <span class="cumu">(누적:47,003명)</span>
+	                                44,984명
+	                                <span class="cumu">(누적:47,001명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_c3d13f11f737463eb768e9b806f0a6d0.jpg" length="0" type="image/jpg"/>
