@@ -4,7 +4,7 @@
         <title>KOBIS ─ 주말 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 14:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 15:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,8 +21,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>8</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                8,818,149,170원
-	                                <span class="cumu">(누적: 22,841,353,040원)</span>
+	                                4,705,457,430원
+	                                <span class="cumu">(누적: 35,095,389,550원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                903,852명
-	                                <span class="cumu">(누적:2,385,315명)</span>
+	                                483,817명
+	                                <span class="cumu">(누적:3,672,432명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_4a4fcbdb9bbe41c295d4e5101021b328.jpg" length="0" type="image/jpg"/>
@@ -60,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,64 +76,60 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                2,226,719,400원
-	                                <span class="cumu">(누적: 30,248,896,510원)</span>
+	                                1,245,909,000원
+	                                <span class="cumu">(누적: 33,400,877,950원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                233,350명
-	                                <span class="cumu">(누적:3,216,567명)</span>
+	                                129,240명
+	                                <span class="cumu">(누적:3,551,960명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_090f80c0e45d46569852d1e04418f4ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무파사: 라이온 킹
+            <title><![CDATA[보고타: 마지막 기회의 땅
 	                        	
-									(Mufasa: The Lion King)]]></title>
+									(Bogota: City of the Lost)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 03 Dec 2024 18:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">3</span>
 	                            
+	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">무파사: 라이온 킹
+	                        <strong class="tit ellip">보고타: 마지막 기회의 땅
 	                        	<span class="en ellip">
-									(Mufasa: The Lion King)	                        	
+									(Bogota: City of the Lost)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,191,001,670원
-	                                <span class="cumu">(누적: 6,157,352,290원)</span>
+	                                984,386,440원
+	                                <span class="cumu">(누적: 2,992,941,160원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                120,049명
-	                                <span class="cumu">(누적:614,721명)</span>
+	                                102,955명
+	                                <span class="cumu">(누적:322,354명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_c3d13f11f737463eb768e9b806f0a6d0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_a2349e64ab304a83853176ec16bfe3a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모아나 2
+            <title><![CDATA[수퍼 소닉3
 	                        	
-									(MOANA 2)]]></title>
+									(Sonic the Hedgehog 3)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 03 Dec 2024 18:17:28 GMT</pubDate>
@@ -142,39 +138,39 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>8</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">모아나 2
+	                        <strong class="tit ellip">수퍼 소닉3
 	                        	<span class="en ellip">
-									(MOANA 2)	                        	
+									(Sonic the Hedgehog 3)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                943,042,340원
-	                                <span class="cumu">(누적: 30,804,020,120원)</span>
+	                                825,098,660원
+	                                <span class="cumu">(누적: 1,842,848,170원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                99,462명
-	                                <span class="cumu">(누적:3,338,024명)</span>
+	                                89,889명
+	                                <span class="cumu">(누적:198,880명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_b0a0a5ae940443049c18e22e4787b08b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_1471ab515fcb4f459b871ef8dd4e22ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 우리들의 공룡일기
+            <title><![CDATA[뽀로로 극장판 바닷속 대모험
 	                        	
-									(Crayon Shinchan the Movie: Our Dinosaur Diary)]]></title>
+									(Pororo movie Underwater adventure)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Tue, 03 Dec 2024 18:17:28 GMT</pubDate>
@@ -183,34 +179,34 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>4</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">극장판 짱구는 못말려: 우리들의 공룡일기
+	                        <strong class="tit ellip">뽀로로 극장판 바닷속 대모험
 	                        	<span class="en ellip">
-									(Crayon Shinchan the Movie: Our Dinosaur Diary)	                        	
+									(Pororo movie Underwater adventure)	                        	
 								</span>
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                937,975,650원
-	                                <span class="cumu">(누적: 5,037,519,340원)</span>
+	                                714,470,680원
+	                                <span class="cumu">(누적: 1,689,831,550원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                98,749명
-	                                <span class="cumu">(누적:534,053명)</span>
+	                                83,651명
+	                                <span class="cumu">(누적:194,345명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_1bff5f853909481aafd567759b128286.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_19a8e3c4623041bdb38f7e606433459d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
