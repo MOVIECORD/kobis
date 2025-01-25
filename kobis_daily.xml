@@ -4,7 +4,7 @@
         <title>KOBIS ─ 일별 박스오피스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 14:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 15:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,8 +21,8 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>4</span>
 	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                1,558,810,820원
-	                                <span class="cumu">(누적: 1,721,071,820원)</span>
+	                                2,127,066,300원
+	                                <span class="cumu">(누적: 3,848,138,120원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                163,730명
-	                                <span class="cumu">(누적:181,387명)</span>
+	                                217,323명
+	                                <span class="cumu">(누적:398,710명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_49fbe6126cf54086bbffe0681f8ae1d9.jpg" length="0" type="image/jpg"/>
@@ -60,10 +60,10 @@
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
 	                            	
 	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
 	                            	
 	                            
 	                        </div>
@@ -76,55 +76,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                657,246,060원
-	                                <span class="cumu">(누적: 2,296,001,740원)</span>
+	                                1,494,536,840원
+	                                <span class="cumu">(누적: 3,790,538,580원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                69,250명
-	                                <span class="cumu">(누적:248,939명)</span>
+	                                156,922명
+	                                <span class="cumu">(누적:405,861명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/01/thumb_x110/thn_db5ab29bfd0349b8849ce32526efc0a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 콘서트 : 더 위닝
-								
-									(IU CONCERT : THE WINNING)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 24 Jan 2025 07:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
-	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
-	                            
-	                            
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">아이유 콘서트 : 더 위닝
-								<span class="en ellip">
-									(IU CONCERT : THE WINNING)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                346,553,000원
-	                                <span class="cumu">(누적: 346,553,000원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                12,501명
-	                                <span class="cumu">(누적:12,501명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/01/thumb_x110/thn_03826cafa9c8433fb0c4d57f6637cc2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하얼빈
@@ -134,13 +97,13 @@
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Jan 2025 07:12:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
+	                            <span class="num">3</span>
 	                            
 	                            
 	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
@@ -154,23 +117,64 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                100,524,900원
-	                                <span class="cumu">(누적: 43,796,018,240원)</span>
+	                                272,162,200원
+	                                <span class="cumu">(누적: 44,068,180,440원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                10,531명
-	                                <span class="cumu">(누적:4,579,786명)</span>
+	                                27,434명
+	                                <span class="cumu">(누적:4,607,220명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/01/thumb_x110/thn_a3c89c36722e41068cf0c01308ebef3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀신경찰
+            <title><![CDATA[극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오
 								
-									(THUNDERSTRUCK COP)]]></title>
+									(Pokemon: Lucario And The Mystery Of Mew)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 24 Jan 2025 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>3</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오
+								<span class="en ellip">
+									(Pokemon: Lucario And The Mystery Of Mew)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                191,639,800원
+	                                <span class="cumu">(누적: 394,190,580원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                21,459명
+	                                <span class="cumu">(누적:44,867명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_b7215570ac1841708f755ff4e7924661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서브스턴스
+								
+									(THE SUBSTANCE)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 24 Jan 2025 07:12:44 GMT</pubDate>
@@ -181,32 +185,32 @@
 	                            
 	                            	
 	                            	
-	                            		<span class="change"><em class="ico_comm up">UP</em>35</span>
+	                            		<span class="change"><em class="ico_comm up">UP</em>1</span>
 	                            	
 	                            	
 	                            
 	                        </div>
 	                        
-	                        <strong class="tit ellip">귀신경찰
+	                        <strong class="tit ellip">서브스턴스
 								<span class="en ellip">
-									(THUNDERSTRUCK COP)	                        	
+									(THE SUBSTANCE)	                        	
 								</span>                        	
 	                        </strong>
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                51,395,060원
-	                                <span class="cumu">(누적: 73,970,060원)</span>
+	                                97,737,420원
+	                                <span class="cumu">(누적: 2,851,940,300원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                6,052명
-	                                <span class="cumu">(누적:8,676명)</span>
+	                                9,742명
+	                                <span class="cumu">(누적:292,500명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/12/thumb_x110/thn_c47e4d20ef46458f848cda1807e4886a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2024/11/thumb_x110/thn_23dfd0fd1c674386be08427d66e6e756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
