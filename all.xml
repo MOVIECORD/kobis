@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 14:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 15:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,15 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                390,468,530원
-	                                <span class="cumu">(누적: 22,571,075,830원)</span>
+	                                623,895,100원
+	                                <span class="cumu">(누적: 23,194,970,930원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                40,258명
-	                                <span class="cumu">(누적:2,281,270명)</span>
+	                                62,077명
+	                                <span class="cumu">(누적:2,343,347명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/01/thumb_x110/thn_25382cdac19547bc8fcb3e20c3d593cc.jpg" length="0" type="image/jpg"/>
@@ -58,9 +58,13 @@
             <content:encoded><![CDATA[<div class="rank">
 	                            <span class="num">2</span>
 	                            
-	                            	<span class="change"><em class="new">NEW</em></span>
 	                            
 	                            
+	                            	
+	                            	
+	                            	
+	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
+	                            	
 	                            
 	                        </div>
 	                        
@@ -72,18 +76,100 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                353,632,960원
-	                                <span class="cumu">(누적: 373,939,160원)</span>
+	                                339,699,820원
+	                                <span class="cumu">(누적: 713,638,980원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                37,674명
-	                                <span class="cumu">(누적:39,511명)</span>
+	                                33,746명
+	                                <span class="cumu">(누적:73,257명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/03/thumb_x110/thn_ddd3614078964eb5973c182872c466e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콘클라베
+								
+									(Conclave) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">3</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">콘클라베
+								<span class="en ellip">
+									(Conclave)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                77,932,220원
+	                                <span class="cumu">(누적: 1,020,550,860원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                7,946명
+	                                <span class="cumu">(누적:108,981명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/03/thumb_x110/thn_a50b9c94ac68400eadc4dfb7f2094ba5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퇴마록
+								
+									(Exorcism Chronicles: The Beginning) (KOBIS ─ 일별 박스오피스)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="rank">
+	                            <span class="num">4</span>
+	                            
+	                            
+	                            
+	                            	
+	                            	
+	                            		<span class="change"><em class="ico_comm up">UP</em>2</span>
+	                            	
+	                            	
+	                            
+	                        </div>
+	                        
+	                        <strong class="tit ellip">퇴마록
+								<span class="en ellip">
+									(Exorcism Chronicles: The Beginning)	                        	
+								</span>                        	
+	                        </strong>
+	                        <dl class="info_sales">
+	                            <dt class="ico_comm ico_sales">매출액</dt>
+	                            <dd>
+	                                74,873,700원
+	                                <span class="cumu">(누적: 3,957,602,180원)</span>
+	                            </dd>
+	                        </dl>
+	                        <dl class="info_audience">
+	                            <dt class="ico_comm ico_audience">관객 수</dt>
+	                            <dd>
+	                                7,763명
+	                                <span class="cumu">(누적:411,715명)</span>
+	                            </dd>
+	                        </dl>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/02/thumb_x110/thn_a4ddf4c754b04470b1c76b1ae271ad4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[침범
@@ -93,12 +179,12 @@
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">3</span>
+	                            <span class="num">5</span>
 	                            
 	                            
 	                            
 	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
+	                            		<span class="change"><em class="ico_comm down">Down</em>2</span>	                            			                            		
 	                            	
 	                            	
 	                            	
@@ -113,100 +199,18 @@
 	                        <dl class="info_sales">
 	                            <dt class="ico_comm ico_sales">매출액</dt>
 	                            <dd>
-	                                62,912,400원
-	                                <span class="cumu">(누적: 194,361,000원)</span>
+	                                72,383,800원
+	                                <span class="cumu">(누적: 266,744,800원)</span>
 	                            </dd>
 	                        </dl>
 	                        <dl class="info_audience">
 	                            <dt class="ico_comm ico_audience">관객 수</dt>
 	                            <dd>
-	                                7,214명
-	                                <span class="cumu">(누적:22,082명)</span>
+	                                7,732명
+	                                <span class="cumu">(누적:29,814명)</span>
 	                            </dd>
 	                        </dl>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/03/thumb_x110/thn_ec162961457d43469ad16904ff555a34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위플래쉬
-								
-									(Whiplash) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">4</span>
-	                            
-	                            
-	                            
-	                            		                            		
-	                            		<span class="change"><em class="ico_comm down">Down</em>1</span>	                            			                            		
-	                            	
-	                            	
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">위플래쉬
-								<span class="en ellip">
-									(Whiplash)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                57,132,560원
-	                                <span class="cumu">(누적: 13,341,073,205원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                5,929명
-	                                <span class="cumu">(누적:1,664,226명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/02/thumb_x110/thn_a061fb0df9ac4c719992f6552168acf1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘클라베
-								
-									(Conclave) (KOBIS ─ 일별 박스오피스)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="rank">
-	                            <span class="num">5</span>
-	                            
-	                            
-	                            
-	                            	
-	                            	
-	                            	
-	                            		<span class="change"><em class="hidetxt keep">KEEP</em></span>
-	                            	
-	                            
-	                        </div>
-	                        
-	                        <strong class="tit ellip">콘클라베
-								<span class="en ellip">
-									(Conclave)	                        	
-								</span>                        	
-	                        </strong>
-	                        <dl class="info_sales">
-	                            <dt class="ico_comm ico_sales">매출액</dt>
-	                            <dd>
-	                                48,769,080원
-	                                <span class="cumu">(누적: 942,618,640원)</span>
-	                            </dd>
-	                        </dl>
-	                        <dl class="info_audience">
-	                            <dt class="ico_comm ico_audience">관객 수</dt>
-	                            <dd>
-	                                5,311명
-	                                <span class="cumu">(누적:101,035명)</span>
-	                            </dd>
-	                        </dl>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/03/thumb_x110/thn_a50b9c94ac68400eadc4dfb7f2094ba5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미키 17
@@ -617,8 +621,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                40,258명
-	                                (누적:2,281,270명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
+	                                62,077명
+	                                (누적:2,343,347명) (KOBIS ─ 일별 박스오피스 ─ 1위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -631,8 +635,8 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                37,674명
-	                                (누적:39,511명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+	                                33,746명
+	                                (누적:73,257명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
@@ -645,16 +649,16 @@
         <item>
             <title><![CDATA[관객 수
 	                            
-	                                7,214명
-	                                (누적:22,082명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
+	                                7,946명
+	                                (누적:108,981명) (KOBIS ─ 일별 박스오피스 ─ 3위)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[침범
+            <content:encoded><![CDATA[콘클라베
 								<span class="en ellip">
-									(SOMEBODY)	                        	
+									(Conclave)	                        	
 								</span>]]></content:encoded>
-            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/03/thumb_x110/thn_ec162961457d43469ad16904ff555a34.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/03/thumb_x110/thn_a50b9c94ac68400eadc4dfb7f2094ba5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
