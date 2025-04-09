@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 01:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 03:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -635,6 +635,20 @@
 									(The Match)	                        	
 								</span>]]></content:encoded>
             <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/03/thumb_x110/thn_ddc29260e2ca4e16997ecb5242e2a0de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 수
+	                            
+	                                11,902명
+	                                (누적:187,484명) (KOBIS ─ 일별 박스오피스 ─ 2위)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[로비
+								<span class="en ellip">
+									(LOBBY)	                        	
+								</span>]]></content:encoded>
+            <enclosure url="https://www.kobis.or.kr/common/mast/movie/2025/04/thumb_x110/thn_4b254a02eeb7479699c5d3030cf3ee21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관객 수
